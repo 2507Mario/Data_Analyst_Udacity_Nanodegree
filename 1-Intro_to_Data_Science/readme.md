@@ -1,15 +1,10 @@
-<bold>INTRO TO DATA SCIENCE</bold>
-
-The Introduction to Data Science class will survey the foundational topics in data science, namely:
-
+<h3>INTRO TO DATA SCIENCE</h3>
+<div class="pretty-format"><h3>&nbsp;</h3>
+<p>The Introduction to Data Science class will survey the foundational topics in data science, namely:</p>
 <li>Data Manipulation</li>
 <li>Data Analysis with Statistics and Machine Learning</li>
 <li>Data Communication with Information Visualization</li>
-
-<div class="pretty-format"><h3>&nbsp;</h3>
-       <h3>&nbsp;</h3>
-       <h3>Lesson 1: Introduction to Data Science</h3>
-
+<h3>Lesson 1: Introduction to Data Science</h3>
 <ul>
 <li>Introduction to Data Science</li>
 <li>What is a Data Scientist</li>

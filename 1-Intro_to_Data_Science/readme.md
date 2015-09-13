@@ -1,4 +1,4 @@
-INTRO TO DATA SCIENCE
+<br>INTRO TO DATA SCIENCE</br>
 
 The Introduction to Data Science class will survey the foundational topics in data science, namely:
 

@@ -72,3 +72,6 @@
 
 <ul>
 <li>Use important skills from data munging to improve OpenStreetMaps data for a part of the world that you care about and give back to the community.</li>
+
+
+

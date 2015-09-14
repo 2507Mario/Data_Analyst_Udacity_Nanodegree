@@ -1,5 +1,6 @@
-<h3>INTRO TO DATA SCIENCE</h3>
-<div class="pretty-format">
+https://www.udacity.com/course/intro-to-data-science--ud359
+<h2>INTRO TO DATA SCIENCE</h2>
+
 <p>The Introduction to Data Science class will survey the foundational topics in data science, namely:</p>
 <li>Data Manipulation</li>
 <li>Data Analysis with Statistics and Machine Learning</li>

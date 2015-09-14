@@ -50,7 +50,7 @@ https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 <li>Using mongoimport</li>
 <li>Operators like $gt, $lt, $exists, $regex</li>
 <li>Querying Arrays and using $in and $all Operators</li>
-<li>Changing entries: $update, $set, $unset</li>
+<li>Changing entries: $update, $set, $unset.</li>
 </ul>
 
 <h3 id="lesson-5-analyzing-data">Lesson 5: Analyzing Data</h3>

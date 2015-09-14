@@ -1,6 +1,8 @@
-<h1>Data Wrangling with MongoDB</h3>
+https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
 
-<h2 id="course-syllabus">Course Syllabus</h2>
+<h2>Data Wrangling with MongoDB</h2>
+
+<h3>Course Syllabus</h3>
 
 <h3 id="lesson-1-data-extraction-fundamentals">Lesson 1: Data Extraction Fundamentals</h3>
 

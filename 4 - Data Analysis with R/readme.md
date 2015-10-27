@@ -1,7 +1,7 @@
 
 https://www.udacity.com/course/data-analysis-with-r--ud651
 
-<h2>Data Analysis with R</h2>
+<h2>Data Analysis with R.</h2>
 
 <h3>Lesson 1: What is EDA?</h3>
 

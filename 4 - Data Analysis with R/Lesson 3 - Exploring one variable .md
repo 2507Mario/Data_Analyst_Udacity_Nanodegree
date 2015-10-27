@@ -1,5 +1,5 @@
 
-<h2>Exploring One Variable</h2>
+<h2>Exploring One Variable.</h2>
 
 <p>We perform EDA to understand the distribution of a variable and to check for anomalies and outliers. Learn how to quantify and visualize individual variables within a data set as we begin to make sense of a pseudo-data set of Facebook users. While the data set does not contain real user data, it does contain a wealth of information. Through the lesson, we will create histograms and boxplots, transform variables, and examine tradeoffs in visualizations.</p>
 

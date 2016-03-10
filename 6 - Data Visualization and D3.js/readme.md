@@ -1,4 +1,4 @@
-https://www.udacity.com/course/data-visualization-and-d3js--ud507
+﻿https://www.udacity.com/course/data-visualization-and-d3js--ud507
 <h2>Data Visualization and D3.js</h2>
 
 <h3>Syllabus</h3>
@@ -7,7 +7,7 @@ https://www.udacity.com/course/data-visualization-and-d3js--ud507
 
 <p>Learn about the elements of great data visualization. In this lesson, you will meet data visualization experts, learn about data visualization in the context of data science, and learn how to represent data values in visual form.</p>
 
-<h3>Lesson 1b D3 Building Blocks (4 hours)</h3>
+<h3>Lesson 1b - D3 Building Blocks (4 hours)</h3>
 
 <p>Learn how to use the open standards of the web to create graphical elements. You’ll learn how to select elements on the page, add SVG elements, and how to style SVG elements. Make use of all the Instructor Notes throughout this lesson if you have little to no experience with HTML and CSS.</p>
 

@@ -1,0 +1,179 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[ 0.          0.41666667  1.        ]\n"
+     ]
+    }
+   ],
+   "source": [
+    "\"\"\" quiz materials for feature scaling clustering \"\"\"\n",
+    "\n",
+    "### FYI, the most straightforward implementation might \n",
+    "### throw a divide-by-zero error, if the min and max\n",
+    "### values are the same\n",
+    "### but think about this for a second--that means that every\n",
+    "### data point has the same value for that feature!  \n",
+    "### why would you rescale it?  Or even use it at all?\n",
+    "import numpy as np\n",
+    "def featureScaling(arr):\n",
+    "    if arr == None:\n",
+    "        return None\n",
+    "    else:\n",
+    "        arr = np.array(arr)\n",
+    "        x_max = np.max(arr)\n",
+    "        x_min = np.min(arr)\n",
+    "        arr = (arr - x_min) / float((x_max - x_min))\n",
+    "        return arr\n",
+    "    \n",
+    "data = [115, 140, 175]\n",
+    "print featureScaling(data)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "array([[ 0.        ],\n",
+       "       [ 0.41666667],\n",
+       "       [ 1.        ]])"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# done with sklearn min/max scaler\n",
+    "\n",
+    "from sklearn.preprocessing import MinMaxScaler\n",
+    "import numpy\n",
+    "# set a numpy array, weights data (feature weights), \n",
+    "# each element within the numpy array is going to be a different training point\n",
+    "# each element within that training point is going to be a feature\n",
+    "# so, 1 feature (weights) and 3 training points\n",
+    "# we need floating, not integers, so we add the . to the numbers\n",
+    "weights = numpy.array([[115.], [140.], [175.]])\n",
+    "\n",
+    "# using the scaler:\n",
+    "scaler = MinMaxScaler ()\n",
+    "rescaled_weight = scaler.fit_transform(weights)\n",
+    "rescaled_weight\n",
+    " "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {
+    "collapsed": false,
+    "scrolled": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0.17962406631\n",
+      "0.0290205889347\n"
+     ]
+    }
+   ],
+   "source": [
+    "#!/usr/bin/python \n",
+    "\n",
+    "\"\"\" \n",
+    "    Skeleton code for k-means clustering mini-project.\n",
+    "\"\"\"\n",
+    "\n",
+    "import pickle\n",
+    "import numpy\n",
+    "import matplotlib.pyplot as plt\n",
+    "import sys\n",
+    "sys.path.append(\"../tools/\")\n",
+    "from feature_format import featureFormat, targetFeatureSplit\n",
+    "from sklearn.preprocessing import MinMaxScaler\n",
+    "\n",
+    "\n",
+    "### load in the dict of dicts containing all the data on each person in the dataset\n",
+    "data_dict = pickle.load( open(\"../final_project/final_project_dataset.pkl\", \"r\") )\n",
+    "### there's an outlier--remove it! \n",
+    "data_dict.pop(\"TOTAL\", 0)\n",
+    "\n",
+    "\n",
+    "### the input features we want to use \n",
+    "### can be any key in the person-level dictionary (salary, director_fees, etc.) \n",
+    "feature_1 = \"salary\"\n",
+    "feature_2 = \"exercised_stock_options\"\n",
+    "poi  = \"poi\"\n",
+    "features_list = [poi, feature_1, feature_2]\n",
+    "data = featureFormat(data_dict, features_list )\n",
+    "poi, finance_features = targetFeatureSplit( data )\n",
+    "\n",
+    "# Removed from code all the plot-draw\n",
+    "\n",
+    "# New code:\n",
+    "\n",
+    "feature_stock = [] \n",
+    "feature_salary=[]\n",
+    "for key, value in data_dict.items():   \n",
+    "    if value['salary'] != 'NaN':\n",
+    "        feature_salary.append(float(value['salary']))\n",
+    "    if value['exercised_stock_options'] != 'NaN':\n",
+    "        feature_stock.append(float(value['exercised_stock_options']))\n",
+    "\n",
+    "print (200000.0-min(feature_salary))/(max(feature_salary)-min(feature_salary))\n",
+    "print (1000000.0-min(feature_stock))/(max(feature_stock)-min(feature_stock))\n",
+    "\n",
+    "\n",
+    "from feature_format import featureFormat\n",
+    "feature_list =  [\"poi\", \"salary\", \"exercised_stock_options\"]\n",
+    "data = featureFormat(data_dict, features_list )\n",
+    "poi, features = targetFeatureSplit( data )\n",
+    "\n",
+    "\n",
+    "from sklearn.preprocessing import MinMaxScaler\n",
+    "scaler=MinMaxScaler()\n",
+    "scaled_features=scaler.fit_transform(features)\n",
+    "\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 2",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.11"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}

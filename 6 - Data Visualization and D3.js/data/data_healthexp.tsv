@@ -1,0 +1,2856 @@
+Column1	Country	Region	Year	Population	Life.Expectancy	Health.Expenditure
+6	Australia	East Asia & Pacific	1995	18072000	78	1565
+22	Brunei Darussalam	East Asia & Pacific	1995	289614	75	482
+26	Cambodia	East Asia & Pacific	1995	11169233	56	19
+54	Fiji	East Asia & Pacific	1995	775651	67	78
+73	Indonesia	East Asia & Pacific	1995	199400339	64	20
+83	Kiribati	East Asia & Pacific	1995	77248	59	70
+87	Lao PDR	East Asia & Pacific	1995	4795112	58	15
+98	Malaysia	East Asia & Pacific	1995	20720810	71	124
+105	"Micronesia, Fed. Sts."	East Asia & Pacific	1995	107233	67	189
+107	Mongolia	East Asia & Pacific	1995	2306131	61	20
+111	Myanmar	East Asia & Pacific	1995	42133199	60	3
+115	New Zealand	East Asia & Pacific	1995	3673400	77	1189
+122	Palau	East Asia & Pacific	1995	17254	72	725
+124	Papua New Guinea	East Asia & Pacific	1995	4715617	57	36
+127	Philippines	East Asia & Pacific	1995	69255386	66	37
+134	Samoa	East Asia & Pacific	1995	168257	68	56
+139	Singapore	East Asia & Pacific	1995	3524500	76	379
+142	Solomon Islands	East Asia & Pacific	1995	356404	60	47
+157	Thailand	East Asia & Pacific	1995	59650157	72	99
+159	Tonga	East Asia & Pacific	1995	95907	70	87
+171	Vanuatu	East Asia & Pacific	1995	168263	65	43
+173	Vietnam	East Asia & Pacific	1995	71995500	69	15
+33	China	East Asia & Pacific	1995	1204855000	70	21
+79	Japan	East Asia & Pacific	1995	125439000	80	2891
+84	"Korea, Rep."	East Asia & Pacific	1995	45093000	73	442
+1	Albania	Europe & Central Asia	1995	3141102	72	28
+5	Armenia	Europe & Central Asia	1995	3223173	69	26
+7	Austria	Europe & Central Asia	1995	7948278	77	2876
+8	Azerbaijan	Europe & Central Asia	1995	7685000	65	18
+13	Belarus	Europe & Central Asia	1995	10194000	68	69
+14	Belgium	Europe & Central Asia	1995	10136811	77	2136
+19	Bosnia and Herzegovina	Europe & Central Asia	1995	3332098	68	64
+23	Bulgaria	Europe & Central Asia	1995	8406067	71	82
+40	Croatia	Europe & Central Asia	1995	4669000	72	323
+42	Cyprus	Europe & Central Asia	1995	855424	77	706
+43	Czech Republic	Europe & Central Asia	1995	10327253	73	374
+44	Denmark	Europe & Central Asia	1995	5233373	75	2827
+52	Estonia	Europe & Central Asia	1995	1436634	68	165
+55	Finland	Europe & Central Asia	1995	5107790	76	2010
+56	France	Europe & Central Asia	1995	59555439	78	2741
+59	Georgia	Europe & Central Asia	1995	4734000	70	29
+62	Greece	Europe & Central Asia	1995	10634385	78	1064
+70	Hungary	Europe & Central Asia	1995	10328965	70	323
+71	Iceland	Europe & Central Asia	1995	267468	78	2213
+75	Ireland	Europe & Central Asia	1995	3608841	76	1238
+81	Kazakhstan	Europe & Central Asia	1995	15815626.38	65	48
+86	Kyrgyz Republic	Europe & Central Asia	1995	4560400	66	22
+88	Latvia	Europe & Central Asia	1995	2485056	66	115
+93	Lithuania	Europe & Central Asia	1995	3629102	69	100
+94	Luxembourg	Europe & Central Asia	1995	408625	77	2816
+95	"Macedonia, FYR"	Europe & Central Asia	1995	1963484	72	201
+106	Moldova	Europe & Central Asia	1995	3675099	67	30
+108	Montenegro	Europe & Central Asia	1995	643227	76	134
+114	Netherlands	Europe & Central Asia	1995	15459006	77	2257
+119	Norway	Europe & Central Asia	1995	4359184	78	3122
+128	Poland	Europe & Central Asia	1995	38594998	72	199
+129	Portugal	Europe & Central Asia	1995	10030376	75	874
+131	Romania	Europe & Central Asia	1995	22684270	69	53
+140	Slovak Republic	Europe & Central Asia	1995	5361999	72	221
+141	Slovenia	Europe & Central Asia	1995	1989872	74	785
+152	Sweden	Europe & Central Asia	1995	8826939	79	2289
+155	Tajikistan	Europe & Central Asia	1995	5775404	62	3
+163	Turkmenistan	Europe & Central Asia	1995	4188010	63	43
+165	Ukraine	Europe & Central Asia	1995	51512298.61	67	49
+170	Uzbekistan	Europe & Central Asia	1995	22785000	66	29
+60	Germany	Europe & Central Asia	1995	81678051	76	3124
+77	Italy	Europe & Central Asia	1995	56844303	78	1438
+132	Russian Federation	Europe & Central Asia	1995	148141000	65	113
+145	Spain	Europe & Central Asia	1995	39387017	78	1128
+153	Switzerland	Europe & Central Asia	1995	7040687	78	4271
+162	Turkey	Europe & Central Asia	1995	58864649	66	95
+167	United Kingdom	Europe & Central Asia	1995	58019030	77	1362
+4	Argentina	Latin America & Caribbean	1995	34855160	73	615
+9	"Bahamas, The"	Latin America & Caribbean	1995	279774	70	840
+12	Barbados	Latin America & Caribbean	1995	263416	75	450
+15	Belize	Latin America & Caribbean	1995	216500	73	120
+18	Bolivia	Latin America & Caribbean	1995	7470925	61	40
+21	Brazil	Latin America & Caribbean	1995	161848162	68	316
+32	Chile	Latin America & Caribbean	1995	14409416	75	331
+34	Colombia	Latin America & Caribbean	1995	36453337	69	171
+38	Costa Rica	Latin America & Caribbean	1995	3468918	77	220
+41	Cuba	Latin America & Caribbean	1995	10900795	75	112
+46	Dominican Republic	Latin America & Caribbean	1995	7916309	70	108
+47	Ecuador	Latin America & Caribbean	1995	11384506	71	73
+49	El Salvador	Latin America & Caribbean	1995	5733401	69	106
+63	Grenada	Latin America & Caribbean	1995	100163	72	191
+64	Guatemala	Latin America & Caribbean	1995	10015675	65	54
+67	Guyana	Latin America & Caribbean	1995	727979	62	43
+68	Haiti	Latin America & Caribbean	1995	7877569	57	23
+69	Honduras	Latin America & Caribbean	1995	5575099	69	38
+78	Jamaica	Latin America & Caribbean	1995	2480000	70	97
+104	Mexico	Latin America & Caribbean	1995	92272749	73	177
+116	Nicaragua	Latin America & Caribbean	1995	4637040	67	58
+123	Panama	Latin America & Caribbean	1995	2676926	73	228
+125	Paraguay	Latin America & Caribbean	1995	4795365	69	112
+126	Peru	Latin America & Caribbean	1995	23827163	68	101
+147	St. Lucia	Latin America & Caribbean	1995	145437	71	181
+148	St. Vincent and the Grenadines	Latin America & Caribbean	1995	108087	70	110
+150	Suriname	Latin America & Caribbean	1995	435920	68	82
+160	Trinidad and Tobago	Latin America & Caribbean	1995	1261443	69	198
+169	Uruguay	Latin America & Caribbean	1995	3223401	73	934
+172	"Venezuela, RB"	Latin America & Caribbean	1995	22043000	72	144
+2	Algeria	Middle East & North Africa	1995	28291591	68	62
+10	Bahrain	Middle East & North Africa	1995	559069	73	482
+45	Djibouti	Middle East & North Africa	1995	626537	53	32
+48	"Egypt, Arab Rep."	Middle East & North Africa	1995	62063810	66	37
+74	"Iran, Islamic Rep."	Middle East & North Africa	1995	59757114	68	68
+76	Israel	Middle East & North Africa	1995	5545000	77	1325
+80	Jordan	Middle East & North Africa	1995	4195000	71	127
+85	Kuwait	Middle East & North Africa	1995	1627911	73	628
+89	Lebanon	Middle East & North Africa	1995	3462974	70	361
+92	Libya	Middle East & North Africa	1995	4775009	71	187
+101	Malta	Middle East & North Africa	1995	370433	77	591
+109	Morocco	Middle East & North Africa	1995	26928600	67	48
+120	Oman	Middle East & North Africa	1995	2232018	73	223
+130	Qatar	Middle East & North Africa	1995	501371	75	601
+136	Saudi Arabia	Middle East & North Africa	1995	18491845	70	228
+154	Syrian Arab Republic	Middle East & North Africa	1995	14171130	73	52
+161	Tunisia	Middle East & North Africa	1995	8957500	71	130
+166	United Arab Emirates	Middle East & North Africa	1995	2348539	73	738
+174	"Yemen, Rep."	Middle East & North Africa	1995	15148172	57	39
+28	Canada	North America	1995	29354000	78	1821
+168	United States	North America	1995	266278000	76	3748
+11	Bangladesh	South Asia	1995	117486952	62	11
+17	Bhutan	South Asia	1995	518584	57	22
+72	India	South Asia	1995	964486155	60	16
+99	Maldives	South Asia	1995	248712	65	91
+113	Nepal	South Asia	1995	21594872	57	10
+121	Pakistan	South Asia	1995	127346713	62	15
+146	Sri Lanka	South Asia	1995	18136000	69	25
+3	Angola	Sub-Saharan Africa	1995	12105105	42	21
+16	Benin	Sub-Saharan Africa	1995	5651141	51	18
+20	Botswana	Sub-Saharan Africa	1995	1585637	59	125
+24	Burkina Faso	Sub-Saharan Africa	1995	10692138	49	11
+25	Burundi	Sub-Saharan Africa	1995	6086751	45	9
+27	Cameroon	Sub-Saharan Africa	1995	13940337	52	25
+29	Cape Verde	Sub-Saharan Africa	1995	394946	67	66
+30	Central African Republic	Sub-Saharan Africa	1995	3327710	46	13
+31	Chad	Sub-Saharan Africa	1995	6998108	50	12
+35	Comoros	Sub-Saharan Africa	1995	494486	57	22
+36	"Congo, Dem. Rep."	Sub-Saharan Africa	1995	44067369	46	5
+37	"Congo, Rep."	Sub-Saharan Africa	1995	2732706	55	24
+39	Cote d'Ivoire	Sub-Saharan Africa	1995	14677200	51	38
+50	Equatorial Guinea	Sub-Saharan Africa	1995	442527	48	22
+51	Eritrea	Sub-Saharan Africa	1995	3212503	52	8
+53	Ethiopia	Sub-Saharan Africa	1995	57042197	49	4
+57	Gabon	Sub-Saharan Africa	1995	1087327	61	136
+58	"Gambia, The"	Sub-Saharan Africa	1995	1126183	54	23
+61	Ghana	Sub-Saharan Africa	1995	16996901	58	20
+65	Guinea	Sub-Saharan Africa	1995	7565235	46	27
+66	Guinea-Bissau	Sub-Saharan Africa	1995	1125392	44	26
+82	Kenya	Sub-Saharan Africa	1995	27425720	56	14
+90	Lesotho	Sub-Saharan Africa	1995	1794531	57	37
+91	Liberia	Sub-Saharan Africa	1995	2094591	42	0
+96	Madagascar	Sub-Saharan Africa	1995	13129227	55	7
+97	Malawi	Sub-Saharan Africa	1995	9883350	47	7
+100	Mali	Sub-Saharan Africa	1995	9824510	46	14
+102	Mauritania	Sub-Saharan Africa	1995	2292053	57	29
+103	Mauritius	Sub-Saharan Africa	1995	1122457	70	129
+110	Mozambique	Sub-Saharan Africa	1995	15933452	45	8
+112	Namibia	Sub-Saharan Africa	1995	1651352	60	131
+117	Niger	Sub-Saharan Africa	1995	9178575	44	7
+118	Nigeria	Sub-Saharan Africa	1995	110014688	45	38
+133	Rwanda	Sub-Saharan Africa	1995	5570206	30	10
+135	Sao Tome and Principe	Sub-Saharan Africa	1995	127935	62	59
+137	Senegal	Sub-Saharan Africa	1995	8369125	54	23
+138	Sierra Leone	Sub-Saharan Africa	1995	3898363	37	34
+143	Somalia	Sub-Saharan Africa	1995	6524697	45	5
+144	South Africa	Sub-Saharan Africa	1995	39120000	60	271
+149	Sudan	Sub-Saharan Africa	1995	24538815	54	16
+151	Swaziland	Sub-Saharan Africa	1995	963591	56	87
+156	Tanzania	Sub-Saharan Africa	1995	29943732	50	6
+158	Togo	Sub-Saharan Africa	1995	4085492	54	17
+164	Uganda	Sub-Saharan Africa	1995	20831075	45	15
+175	Zambia	Sub-Saharan Africa	1995	8919456	44	22
+176	Zimbabwe	Sub-Saharan Africa	1995	11684693	53	98
+182	Australia	East Asia & Pacific	1996	18311000	78	1760
+198	Brunei Darussalam	East Asia & Pacific	1996	297188	75	638
+202	Cambodia	East Asia & Pacific	1996	11458858	56	29
+230	Fiji	East Asia & Pacific	1996	784713	67	87
+249	Indonesia	East Asia & Pacific	1996	202257039	64	22
+263	Lao PDR	East Asia & Pacific	1996	4907960	59	18
+274	Malaysia	East Asia & Pacific	1996	21247102	71	137
+281	"Micronesia, Fed. Sts."	East Asia & Pacific	1996	107904	67	175
+283	Mongolia	East Asia & Pacific	1996	2325369	61	21
+287	Myanmar	East Asia & Pacific	1996	42735941	61	3
+291	New Zealand	East Asia & Pacific	1996	3732000	77	1278
+299	Papua New Guinea	East Asia & Pacific	1996	4840693	58	39
+302	Philippines	East Asia & Pacific	1996	70831419	66	41
+309	Samoa	East Asia & Pacific	1996	169969	68	69
+315	Singapore	East Asia & Pacific	1996	3670700	77	770
+318	Solomon Islands	East Asia & Pacific	1996	366363	60	47
+333	Thailand	East Asia & Pacific	1996	60258113	72	116
+335	Tonga	East Asia & Pacific	1996	96196	70	96
+347	Vanuatu	East Asia & Pacific	1996	171783	66	39
+349	Vietnam	East Asia & Pacific	1996	73156700	70	17
+209	China	East Asia & Pacific	1996	1217550000	71	26
+256	Japan	East Asia & Pacific	1996	125761000	80	2600
+260	"Korea, Rep."	East Asia & Pacific	1996	45525000	74	494
+232	France	Europe & Central Asia	1996	59798609	78	2739
+177	Albania	Europe & Central Asia	1996	3112597	72	43
+181	Armenia	Europe & Central Asia	1996	3172185	69	29
+183	Austria	Europe & Central Asia	1996	7959017	77	2811
+184	Azerbaijan	Europe & Central Asia	1996	7763000	65	25
+189	Belarus	Europe & Central Asia	1996	10160000	69	88
+190	Belgium	Europe & Central Asia	1996	10156637	77	2148
+195	Bosnia and Herzegovina	Europe & Central Asia	1996	3305672	70	94
+199	Bulgaria	Europe & Central Asia	1996	8362826	71	55
+216	Croatia	Europe & Central Asia	1996	4494000	72	369
+218	Cyprus	Europe & Central Asia	1996	873277	77	755
+219	Czech Republic	Europe & Central Asia	1996	10315241	74	403
+220	Denmark	Europe & Central Asia	1996	5263074	76	2878
+228	Estonia	Europe & Central Asia	1996	1415594	70	218
+231	Finland	Europe & Central Asia	1996	5124573	77	2011
+235	Georgia	Europe & Central Asia	1996	4616100	71	46
+238	Greece	Europe & Central Asia	1996	10709173	78	1113
+246	Hungary	Europe & Central Asia	1996	10311238	70	315
+247	Iceland	Europe & Central Asia	1996	268916	79	2275
+252	Ireland	Europe & Central Asia	1996	3637510	76	1328
+258	Kazakhstan	Europe & Central Asia	1996	15577894.26	64	58
+262	Kyrgyz Republic	Europe & Central Asia	1996	4628400	67	25
+264	Latvia	Europe & Central Asia	1996	2457222	69	141
+269	Lithuania	Europe & Central Asia	1996	3601613	70	131
+270	Luxembourg	Europe & Central Asia	1996	414225	77	2810
+271	"Macedonia, FYR"	Europe & Central Asia	1996	1973283	72	202
+282	Moldova	Europe & Central Asia	1996	3667748	67	40
+284	Montenegro	Europe & Central Asia	1996	644121	76	98
+290	Netherlands	Europe & Central Asia	1996	15530498	77	2211
+295	Norway	Europe & Central Asia	1996	4381336	78	3180
+303	Poland	Europe & Central Asia	1996	38624370	72	240
+304	Portugal	Europe & Central Asia	1996	10057861	75	939
+306	Romania	Europe & Central Asia	1996	22619004	69	53
+310	San Marino	Europe & Central Asia	1996	25897	79	2930
+316	Slovak Republic	Europe & Central Asia	1996	5373361	73	253
+317	Slovenia	Europe & Central Asia	1996	1988628	74	812
+328	Sweden	Europe & Central Asia	1996	8840998	79	2564
+331	Tajikistan	Europe & Central Asia	1996	5860334	63	6
+339	Turkmenistan	Europe & Central Asia	1996	4267690	63	18
+341	Ukraine	Europe & Central Asia	1996	51057188.98	67	54
+346	Uzbekistan	Europe & Central Asia	1996	23225000	66	41
+236	Germany	Europe & Central Asia	1996	81914831	77	3101
+254	Italy	Europe & Central Asia	1996	56860281	78	1634
+307	Russian Federation	Europe & Central Asia	1996	147739000	66	147
+321	Spain	Europe & Central Asia	1996	39478186	78	1177
+329	Switzerland	Europe & Central Asia	1996	7071850	79	4266
+338	Turkey	Europe & Central Asia	1996	59821978	67	117
+343	United Kingdom	Europe & Central Asia	1996	58166950	77	1435
+180	Argentina	Latin America & Caribbean	1996	35287113	73	619
+185	"Bahamas, The"	Latin America & Caribbean	1996	283677	70	880
+188	Barbados	Latin America & Caribbean	1996	264237	75	465
+191	Belize	Latin America & Caribbean	1996	222000	73	104
+194	Bolivia	Latin America & Caribbean	1996	7637622	61	45
+197	Brazil	Latin America & Caribbean	1996	164342524	69	350
+208	Chile	Latin America & Caribbean	1996	14630769	75	373
+210	Colombia	Latin America & Caribbean	1996	37112621	70	214
+214	Costa Rica	Latin America & Caribbean	1996	3557095	77	221
+217	Cuba	Latin America & Caribbean	1996	10949206	75	119
+222	Dominican Republic	Latin America & Caribbean	1996	8054768	70	112
+223	Ecuador	Latin America & Caribbean	1996	11584074	72	81
+225	El Salvador	Latin America & Caribbean	1996	5791403	69	135
+239	Grenada	Latin America & Caribbean	1996	100707	72	203
+240	Guatemala	Latin America & Caribbean	1996	10246429	66	56
+243	Guyana	Latin America & Caribbean	1996	728990	63	48
+244	Haiti	Latin America & Caribbean	1996	8031903	57	24
+245	Honduras	Latin America & Caribbean	1996	5706605	69	35
+255	Jamaica	Latin America & Caribbean	1996	2509923.425	70	123
+280	Mexico	Latin America & Caribbean	1996	93858373	73	184
+292	Nicaragua	Latin America & Caribbean	1996	4733164	68	58
+298	Panama	Latin America & Caribbean	1996	2731717	73	245
+300	Paraguay	Latin America & Caribbean	1996	4905150	69	121
+301	Peru	Latin America & Caribbean	1996	24248671	68	104
+323	St. Lucia	Latin America & Caribbean	1996	147062	72	209
+324	St. Vincent and the Grenadines	Latin America & Caribbean	1996	108049	70	116
+326	Suriname	Latin America & Caribbean	1996	441896	68	144
+336	Trinidad and Tobago	Latin America & Caribbean	1996	1268851	69	197
+345	Uruguay	Latin America & Caribbean	1996	3235549	74	822
+348	"Venezuela, RB"	Latin America & Caribbean	1996	22502000	72	106
+178	Algeria	Middle East & North Africa	1996	28786855	69	62
+186	Bahrain	Middle East & North Africa	1996	574914	73	486
+221	Djibouti	Middle East & North Africa	1996	644434	53	31
+224	"Egypt, Arab Rep."	Middle East & North Africa	1996	63120498	66	46
+250	"Iran, Islamic Rep."	Middle East & North Africa	1996	60815686	69	86
+251	Iraq	Middle East & North Africa	1996	21545638	71	9
+253	Israel	Middle East & North Africa	1996	5692000	78	1422
+257	Jordan	Middle East & North Africa	1996	4325045	72	132
+261	Kuwait	Middle East & North Africa	1996	1628120	73	670
+265	Lebanon	Middle East & North Africa	1996	3539137	70	414
+268	Libya	Middle East & North Africa	1996	4862665	71	190
+277	Malta	Middle East & North Africa	1996	372687	77	640
+285	Morocco	Middle East & North Africa	1996	27323664	67	52
+296	Oman	Middle East & North Africa	1996	2258730	73	238
+305	Qatar	Middle East & North Africa	1996	512422	75	641
+312	Saudi Arabia	Middle East & North Africa	1996	18786467	71	248
+330	Syrian Arab Republic	Middle East & North Africa	1996	14518843	73	59
+337	Tunisia	Middle East & North Africa	1996	9089300	72	128
+342	United Arab Emirates	Middle East & North Africa	1996	2473983	74	731
+350	"Yemen, Rep."	Middle East & North Africa	1996	15710211	58	25
+204	Canada	North America	1996	29671900	78	1829
+344	United States	North America	1996	269394000	76	3900
+187	Bangladesh	South Asia	1996	119928682	63	11
+193	Bhutan	South Asia	1996	520529	58	37
+248	India	South Asia	1996	982553253	60	16
+275	Maldives	South Asia	1996	253960	66	112
+289	Nepal	South Asia	1996	22137784	58	11
+297	Pakistan	South Asia	1996	130737306	62	15
+322	Sri Lanka	South Asia	1996	18336000	69	26
+179	Angola	Sub-Saharan Africa	1996	12452725	43	19
+192	Benin	Sub-Saharan Africa	1996	5821985	51	19
+196	Botswana	Sub-Saharan Africa	1996	1623704	57	125
+200	Burkina Faso	Sub-Saharan Africa	1996	10992170	49	12
+201	Burundi	Sub-Saharan Africa	1996	6140258	45	8
+203	Cameroon	Sub-Saharan Africa	1996	14287475	52	34
+205	Cape Verde	Sub-Saharan Africa	1996	404166	68	60
+206	Central African Republic	Sub-Saharan Africa	1996	3406451	45	12
+207	Chad	Sub-Saharan Africa	1996	7219081	50	12
+211	Comoros	Sub-Saharan Africa	1996	507062	57	21
+212	"Congo, Dem. Rep."	Sub-Saharan Africa	1996	45295039	46	4
+213	"Congo, Rep."	Sub-Saharan Africa	1996	2810118	54	26
+215	Cote d'Ivoire	Sub-Saharan Africa	1996	15089912	51	45
+226	Equatorial Guinea	Sub-Saharan Africa	1996	457321	48	27
+227	Eritrea	Sub-Saharan Africa	1996	3263016	53	8
+229	Ethiopia	Sub-Saharan Africa	1996	58774378	50	4
+233	Gabon	Sub-Saharan Africa	1996	1118215	61	150
+234	"Gambia, The"	Sub-Saharan Africa	1996	1158308	54	25
+237	Ghana	Sub-Saharan Africa	1996	17429209	58	20
+241	Guinea	Sub-Saharan Africa	1996	7805735	46	28
+242	Guinea-Bissau	Sub-Saharan Africa	1996	1147908	44	20
+259	Kenya	Sub-Saharan Africa	1996	28191597	55	18
+266	Lesotho	Sub-Saharan Africa	1996	1829222	55	34
+267	Liberia	Sub-Saharan Africa	1996	2203809	43	0
+272	Madagascar	Sub-Saharan Africa	1996	13547271	56	9
+273	Malawi	Sub-Saharan Africa	1996	10070605	46	10
+276	Mali	Sub-Saharan Africa	1996	10092753	46	22
+278	Mauritania	Sub-Saharan Africa	1996	2357678	57	23
+279	Mauritius	Sub-Saharan Africa	1996	1133996	70	135
+286	Mozambique	Sub-Saharan Africa	1996	16412893	46	8
+288	Namibia	Sub-Saharan Africa	1996	1700975	60	135
+293	Niger	Sub-Saharan Africa	1996	9499892	45	7
+294	Nigeria	Sub-Saharan Africa	1996	112618306	45	53
+308	Rwanda	Sub-Saharan Africa	1996	5803830	34	11
+311	Sao Tome and Principe	Sub-Saharan Africa	1996	130499	62	70
+313	Senegal	Sub-Saharan Africa	1996	8591861	55	24
+314	Sierra Leone	Sub-Saharan Africa	1996	3898177	37	37
+319	Somalia	Sub-Saharan Africa	1996	6628554	45	5
+320	South Africa	Sub-Saharan Africa	1996	40000246.95	59	271
+325	Sudan	Sub-Saharan Africa	1996	25160191	55	11
+327	Swaziland	Sub-Saharan Africa	1996	984632	55	88
+332	Tanzania	Sub-Saharan Africa	1996	30783155	50	7
+334	Togo	Sub-Saharan Africa	1996	4208738	54	18
+340	Uganda	Sub-Saharan Africa	1996	21473592	45	15
+351	Zambia	Sub-Saharan Africa	1996	9161931	43	21
+352	Zimbabwe	Sub-Saharan Africa	1996	11891290	51	99
+359	Australia	East Asia & Pacific	1997	18517000	78	1761
+375	Brunei Darussalam	East Asia & Pacific	1997	304726	75	634
+379	Cambodia	East Asia & Pacific	1997	11731187	56	23
+408	Fiji	East Asia & Pacific	1997	793165	67	92
+427	Indonesia	East Asia & Pacific	1997	205063468	65	20
+438	Kiribati	East Asia & Pacific	1997	79713	60	82
+442	Lao PDR	East Asia & Pacific	1997	5016576	60	22
+453	Malaysia	East Asia & Pacific	1997	21781499	72	123
+460	"Micronesia, Fed. Sts."	East Asia & Pacific	1997	107947	67	149
+462	Mongolia	East Asia & Pacific	1997	2345618	62	18
+466	Myanmar	East Asia & Pacific	1997	43352191	61	2
+470	New Zealand	East Asia & Pacific	1997	3781300	77	1297
+478	Papua New Guinea	East Asia & Pacific	1997	4970478	58	34
+481	Philippines	East Asia & Pacific	1997	72427130	66	41
+488	Samoa	East Asia & Pacific	1997	171766	68	78
+496	Singapore	East Asia & Pacific	1997	3796000	77	761
+499	Solomon Islands	East Asia & Pacific	1997	376511	61	50
+515	Thailand	East Asia & Pacific	1997	60933752	72	99
+517	Tonga	East Asia & Pacific	1997	96551	70	98
+529	Vanuatu	East Asia & Pacific	1997	174921	66	48
+531	Vietnam	East Asia & Pacific	1997	74306900	71	17
+386	China	East Asia & Pacific	1997	1230075000	71	31
+434	Japan	East Asia & Pacific	1997	126091000	80	2362
+439	"Korea, Rep."	East Asia & Pacific	1997	45954000	74	454
+410	France	Europe & Central Asia	1997	60042230	78	2437
+353	Albania	Europe & Central Asia	1997	3091902	73	36
+358	Armenia	Europe & Central Asia	1997	3134836	69	30
+360	Austria	Europe & Central Asia	1997	7968041	77	2559
+361	Azerbaijan	Europe & Central Asia	1997	7838250	65	27
+366	Belarus	Europe & Central Asia	1997	10117000	68	91
+367	Belgium	Europe & Central Asia	1997	10181245	77	1905
+372	Bosnia and Herzegovina	Europe & Central Asia	1997	3365616	71	89
+376	Bulgaria	Europe & Central Asia	1997	8312068	70	64
+393	Croatia	Europe & Central Asia	1997	4572000	72	302
+395	Cyprus	Europe & Central Asia	1997	890758	78	716
+396	Czech Republic	Europe & Central Asia	1997	10304131	74	369
+397	Denmark	Europe & Central Asia	1997	5284991	76	2629
+406	Estonia	Europe & Central Asia	1997	1399535	70	222
+409	Finland	Europe & Central Asia	1997	5139835	77	1846
+413	Georgia	Europe & Central Asia	1997	4531600	71	57
+416	Greece	Europe & Central Asia	1997	10776504	78	1064
+424	Hungary	Europe & Central Asia	1997	10290486	71	309
+425	Iceland	Europe & Central Asia	1997	271128	79	2649
+430	Ireland	Europe & Central Asia	1997	3674171	76	1402
+436	Kazakhstan	Europe & Central Asia	1997	15333703.04	64	67
+441	Kyrgyz Republic	Europe & Central Asia	1997	4696400	67	21
+443	Latvia	Europe & Central Asia	1997	2432851	69	160
+448	Lithuania	Europe & Central Asia	1997	3575137	71	163
+449	Luxembourg	Europe & Central Asia	1997	419450	77	2471
+450	"Macedonia, FYR"	Europe & Central Asia	1997	1982994	72	178
+461	Moldova	Europe & Central Asia	1997	3659655	67	42
+463	Montenegro	Europe & Central Asia	1997	642533	76	98
+469	Netherlands	Europe & Central Asia	1997	15610650	78	1969
+474	Norway	Europe & Central Asia	1997	4405157	78	3017
+482	Poland	Europe & Central Asia	1997	38649660	73	230
+483	Portugal	Europe & Central Asia	1997	10091120	75	892
+485	Romania	Europe & Central Asia	1997	22553978	69	66
+414	Germany	Europe & Central Asia	1997	82034771	77	2699
+489	San Marino	Europe & Central Asia	1997	26077	79	2731
+493	Serbia	Europe & Central Asia	1997	7649630.752	72	194
+497	Slovak Republic	Europe & Central Asia	1997	5383291	73	230
+498	Slovenia	Europe & Central Asia	1997	1985956	75	797
+510	Sweden	Europe & Central Asia	1997	8846062	79	2297
+513	Tajikistan	Europe & Central Asia	1997	5945181	63	6
+521	Turkmenistan	Europe & Central Asia	1997	4335991	63	30
+523	Ukraine	Europe & Central Asia	1997	50594105.02	67	61
+528	Uzbekistan	Europe & Central Asia	1997	23667000	67	43
+432	Italy	Europe & Central Asia	1997	56890372	79	1604
+486	Russian Federation	Europe & Central Asia	1997	147304000	67	194
+502	Spain	Europe & Central Asia	1997	39582413	79	1061
+511	Switzerland	Europe & Central Asia	1997	7088906	79	3701
+520	Turkey	Europe & Central Asia	1997	60783217	67	130
+525	United Kingdom	Europe & Central Asia	1997	58316954	77	1545
+356	Antigua and Barbuda	Latin America & Caribbean	1997	72322	75	372
+357	Argentina	Latin America & Caribbean	1997	35714929	73	686
+362	"Bahamas, The"	Latin America & Caribbean	1997	287217	71	959
+365	Barbados	Latin America & Caribbean	1997	265088	75	494
+368	Belize	Latin America & Caribbean	1997	230000	73	111
+371	Bolivia	Latin America & Caribbean	1997	7804333	62	45
+374	Brazil	Latin America & Caribbean	1997	166869168	69	355
+385	Chile	Latin America & Caribbean	1997	14840038	76	402
+387	Colombia	Latin America & Caribbean	1997	37775054	70	253
+391	Costa Rica	Latin America & Caribbean	1997	3648263	77	223
+394	Cuba	Latin America & Caribbean	1997	10992290	76	126
+399	Dominica	Latin America & Caribbean	1997	70846	76	213
+400	Dominican Republic	Latin America & Caribbean	1997	8190620	70	133
+401	Ecuador	Latin America & Caribbean	1997	11774005	72	88
+403	El Salvador	Latin America & Caribbean	1997	5839103	69	155
+417	Grenada	Latin America & Caribbean	1997	101039	72	219
+418	Guatemala	Latin America & Caribbean	1997	10481515	66	64
+421	Guyana	Latin America & Caribbean	1997	729743	63	53
+422	Haiti	Latin America & Caribbean	1997	8187204	58	25
+423	Honduras	Latin America & Caribbean	1997	5835607	69	39
+433	Jamaica	Latin America & Caribbean	1997	2534068.675	70	178
+459	Mexico	Latin America & Caribbean	1997	95441345	73	225
+471	Nicaragua	Latin America & Caribbean	1997	4824799	68	48
+477	Panama	Latin America & Caribbean	1997	2787228	74	258
+479	Paraguay	Latin America & Caribbean	1997	5014650	69	123
+480	Peru	Latin America & Caribbean	1997	24667356	69	104
+504	St. Kitts and Nevis	Latin America & Caribbean	1997	40740	70	316
+505	St. Lucia	Latin America & Caribbean	1997	149666	72	199
+506	St. Vincent and the Grenadines	Latin America & Caribbean	1997	107979	70	128
+508	Suriname	Latin America & Caribbean	1997	447957	68	160
+518	Trinidad and Tobago	Latin America & Caribbean	1997	1275460	69	187
+527	Uruguay	Latin America & Caribbean	1997	3256181.753	74	683
+530	"Venezuela, RB"	Latin America & Caribbean	1997	22959000	73	144
+354	Algeria	Middle East & North Africa	1997	29242917	69	67
+363	Bahrain	Middle East & North Africa	1997	592986	73	504
+398	Djibouti	Middle East & North Africa	1997	665755	53	34
+402	"Egypt, Arab Rep."	Middle East & North Africa	1997	64199588	67	59
+428	"Iran, Islamic Rep."	Middle East & North Africa	1997	61955730	69	110
+429	Iraq	Middle East & North Africa	1997	22206597	71	9
+431	Israel	Middle East & North Africa	1997	5836000	78	1470
+435	Jordan	Middle East & North Africa	1997	4459121.395	72	146
+440	Kuwait	Middle East & North Africa	1997	1678812	73	668
+444	Lebanon	Middle East & North Africa	1997	3597350	70	502
+447	Libya	Middle East & North Africa	1997	4951076	72	193
+456	Malta	Middle East & North Africa	1997	375236	77	635
+464	Morocco	Middle East & North Africa	1997	27708647	67	49
+475	Oman	Middle East & North Africa	1997	2266469	74	232
+484	Qatar	Middle East & North Africa	1997	528787	76	680
+491	Saudi Arabia	Middle East & North Africa	1997	19020639	71	265
+512	Syrian Arab Republic	Middle East & North Africa	1997	14856464	73	59
+519	Tunisia	Middle East & North Africa	1997	9215000	72	116
+524	United Arab Emirates	Middle East & North Africa	1997	2611610	74	751
+532	"Yemen, Rep."	Middle East & North Africa	1997	16226938	58	21
+381	Canada	North America	1997	29987200	78	1873
+526	United States	North America	1997	272657000	76	4055
+364	Bangladesh	South Asia	1997	122370403	63	9
+370	Bhutan	South Asia	1997	528222	59	50
+426	India	South Asia	1997	1000558144	61	18
+454	Maldives	South Asia	1997	259002	67	124
+468	Nepal	South Asia	1997	22691788	59	12
+476	Pakistan	South Asia	1997	134255952	63	15
+503	Sri Lanka	South Asia	1997	18568000	69	27
+355	Angola	Sub-Saharan Africa	1997	12792237	43	28
+369	Benin	Sub-Saharan Africa	1997	5988093	52	16
+373	Botswana	Sub-Saharan Africa	1997	1660538	56	138
+377	Burkina Faso	Sub-Saharan Africa	1997	11301608	49	11
+378	Burundi	Sub-Saharan Africa	1997	6181493	45	8
+380	Cameroon	Sub-Saharan Africa	1997	14631908	51	29
+382	Cape Verde	Sub-Saharan Africa	1997	412893	68	57
+383	Central African Republic	Sub-Saharan Africa	1997	3484027	45	11
+384	Chad	Sub-Saharan Africa	1997	7448585	49	11
+388	Comoros	Sub-Saharan Africa	1997	520151	57	19
+389	"Congo, Dem. Rep."	Sub-Saharan Africa	1997	46369335	45	5
+390	"Congo, Rep."	Sub-Saharan Africa	1997	2890841	54	25
+392	Cote d'Ivoire	Sub-Saharan Africa	1997	15492127	50	47
+404	Equatorial Guinea	Sub-Saharan Africa	1997	472486	49	44
+405	Eritrea	Sub-Saharan Africa	1997	3335157	54	9
+407	Ethiopia	Sub-Saharan Africa	1997	60481739	50	4
+411	Gabon	Sub-Saharan Africa	1997	1148416	61	117
+412	"Gambia, The"	Sub-Saharan Africa	1997	1191155	54	21
+415	Ghana	Sub-Saharan Africa	1997	17855250	58	21
+419	Guinea	Sub-Saharan Africa	1997	7982155	46	26
+420	Guinea-Bissau	Sub-Saharan Africa	1997	1170619	44	16
+437	Kenya	Sub-Saharan Africa	1997	28944780	54	19
+445	Lesotho	Sub-Saharan Africa	1997	1865218	53	32
+446	Liberia	Sub-Saharan Africa	1997	2360511	43	0
+451	Madagascar	Sub-Saharan Africa	1997	13981666	57	9
+452	Malawi	Sub-Saharan Africa	1997	10319125	46	13
+455	Mali	Sub-Saharan Africa	1997	10371338	46	18
+457	Mauritania	Sub-Saharan Africa	1997	2425374	57	23
+458	Mauritius	Sub-Saharan Africa	1997	1148284	70	127
+465	Mozambique	Sub-Saharan Africa	1997	16862385	46	10
+467	Namibia	Sub-Saharan Africa	1997	1751872	59	142
+472	Niger	Sub-Saharan Africa	1997	9835945	46	7
+473	Nigeria	Sub-Saharan Africa	1997	115268715	45	53
+487	Rwanda	Sub-Saharan Africa	1997	6297733	38	14
+490	Sao Tome and Principe	Sub-Saharan Africa	1997	133152	62	55
+492	Senegal	Sub-Saharan Africa	1997	8812695	55	22
+494	Seychelles	Sub-Saharan Africa	1997	77319	71	432
+495	Sierra Leone	Sub-Saharan Africa	1997	3913681	38	31
+500	Somalia	Sub-Saharan Africa	1997	6786636	46	6
+501	South Africa	Sub-Saharan Africa	1997	40926063.04	58	287
+507	Sudan	Sub-Saharan Africa	1997	25763173	55	14
+509	Swaziland	Sub-Saharan Africa	1997	1006824	53	87
+514	Tanzania	Sub-Saharan Africa	1997	31592450	50	8
+516	Togo	Sub-Saharan Africa	1997	4349349	54	18
+522	Uganda	Sub-Saharan Africa	1997	22123185	45	15
+533	Zambia	Sub-Saharan Africa	1997	9418120	43	26
+534	Zimbabwe	Sub-Saharan Africa	1997	12086519	49	92
+540	Australia	East Asia & Pacific	1998	18711000	79	1587
+556	Brunei Darussalam	East Asia & Pacific	1998	312216	76	575
+560	Cambodia	East Asia & Pacific	1998	11986128	57	18
+588	Fiji	East Asia & Pacific	1998	800685	67	65
+607	Indonesia	East Asia & Pacific	1998	207839287	65	10
+621	Lao PDR	East Asia & Pacific	1998	5120845	60	16
+632	Malaysia	East Asia & Pacific	1998	22322448	72	96
+639	"Micronesia, Fed. Sts."	East Asia & Pacific	1998	107605	67	142
+641	Mongolia	East Asia & Pacific	1998	2366895	62	19
+645	Myanmar	East Asia & Pacific	1998	43952526	61	2
+649	New Zealand	East Asia & Pacific	1998	3815000	78	1124
+657	Papua New Guinea	East Asia & Pacific	1998	5104153	58	28
+660	Philippines	East Asia & Pacific	1998	74040838	66	31
+667	Samoa	East Asia & Pacific	1998	173543	69	72
+673	Singapore	East Asia & Pacific	1998	3927200	77	706
+676	Solomon Islands	East Asia & Pacific	1998	386906	62	43
+691	Thailand	East Asia & Pacific	1998	61660383	72	68
+693	Tonga	East Asia & Pacific	1998	96966	70	92
+705	Vanuatu	East Asia & Pacific	1998	177946	67	58
+707	Vietnam	East Asia & Pacific	1998	75456300	71	17
+567	China	East Asia & Pacific	1998	1241935000	71	35
+614	Japan	East Asia & Pacific	1998	126410000	81	2221
+618	"Korea, Rep."	East Asia & Pacific	1998	46287000	75	313
+590	France	Europe & Central Asia	1998	60299148	78	2483
+594	Germany	Europe & Central Asia	1998	82047195	77	2733
+535	Albania	Europe & Central Asia	1998	3079037	73	47
+539	Armenia	Europe & Central Asia	1998	3109101	70	35
+541	Austria	Europe & Central Asia	1998	7976789	78	2667
+542	Azerbaijan	Europe & Central Asia	1998	7913000	66	30
+547	Belarus	Europe & Central Asia	1998	10069000	68	89
+548	Belgium	Europe & Central Asia	1998	10203008	77	1976
+553	Bosnia and Herzegovina	Europe & Central Asia	1998	3480285	73	95
+557	Bulgaria	Europe & Central Asia	1998	8256786	71	83
+574	Croatia	Europe & Central Asia	1998	4501000	72	372
+576	Cyprus	Europe & Central Asia	1998	908059	78	764
+577	Czech Republic	Europe & Central Asia	1998	10294373	75	398
+578	Denmark	Europe & Central Asia	1998	5304219	76	2671
+586	Estonia	Europe & Central Asia	1998	1386156	69	223
+589	Finland	Europe & Central Asia	1998	5153498	77	1851
+593	Georgia	Europe & Central Asia	1998	4487300	71	49
+596	Greece	Europe & Central Asia	1998	10834880	78	1055
+604	Hungary	Europe & Central Asia	1998	10266570	71	335
+605	Iceland	Europe & Central Asia	1998	274047	80	2784
+610	Ireland	Europe & Central Asia	1998	3712696	76	1459
+616	Kazakhstan	Europe & Central Asia	1998	15071300.13	65	70
+620	Kyrgyz Republic	Europe & Central Asia	1998	4769000	67	23
+622	Latvia	Europe & Central Asia	1998	2410019	69	176
+627	Lithuania	Europe & Central Asia	1998	3549331	71	193
+628	Luxembourg	Europe & Central Asia	1998	424700	77	2583
+629	"Macedonia, FYR"	Europe & Central Asia	1998	1992404	73	187
+640	Moldova	Europe & Central Asia	1998	3652771	67	36
+642	Montenegro	Europe & Central Asia	1998	639309	75	100
+648	Netherlands	Europe & Central Asia	1998	15707209	78	2067
+653	Norway	Europe & Central Asia	1998	4431464	78	3155
+661	Poland	Europe & Central Asia	1998	38663481	73	267
+662	Portugal	Europe & Central Asia	1998	10129290	76	933
+664	Romania	Europe & Central Asia	1998	22507344	70	70
+668	San Marino	Europe & Central Asia	1998	26271	80	2861
+674	Slovak Republic	Europe & Central Asia	1998	5390516	73	235
+675	Slovenia	Europe & Central Asia	1998	1981629	75	857
+686	Sweden	Europe & Central Asia	1998	8850974	79	2336
+689	Tajikistan	Europe & Central Asia	1998	6027676	63	8
+697	Turkmenistan	Europe & Central Asia	1998	4395293	64	33
+699	Ukraine	Europe & Central Asia	1998	50143939.13	68	55
+704	Uzbekistan	Europe & Central Asia	1998	24051000	67	40
+612	Italy	Europe & Central Asia	1998	56906744	78	1653
+665	Russian Federation	Europe & Central Asia	1998	146899000	67	121
+679	Spain	Europe & Central Asia	1998	39721108	79	1107
+687	Switzerland	Europe & Central Asia	1998	7110001	79	3851
+696	Turkey	Europe & Central Asia	1998	61742674	68	155
+701	United Kingdom	Europe & Central Asia	1998	58487141	77	1663
+538	Argentina	Latin America & Caribbean	1998	36134642	73	707
+543	"Bahamas, The"	Latin America & Caribbean	1998	290571	71	1029
+546	Barbados	Latin America & Caribbean	1998	265941	75	530
+549	Belize	Latin America & Caribbean	1998	238500	73	111
+552	Bolivia	Latin America & Caribbean	1998	7971237	62	54
+555	Brazil	Latin America & Caribbean	1998	169409713	69	336
+566	Chile	Latin America & Caribbean	1998	15039162	76	405
+568	Colombia	Latin America & Caribbean	1998	38439099	70	224
+572	Costa Rica	Latin America & Caribbean	1998	3740578	77	268
+575	Cuba	Latin America & Caribbean	1998	11031429	76	134
+580	Dominican Republic	Latin America & Caribbean	1998	8324680	70	143
+581	Ecuador	Latin America & Caribbean	1998	11959586	73	83
+583	El Salvador	Latin America & Caribbean	1998	5878097	69	169
+597	Grenada	Latin America & Caribbean	1998	101219	73	247
+598	Guatemala	Latin America & Caribbean	1998	10723154	67	75
+601	Guyana	Latin America & Caribbean	1998	730458	63	52
+602	Haiti	Latin America & Caribbean	1998	8342233	58	27
+603	Honduras	Latin America & Caribbean	1998	5963008	70	50
+613	Jamaica	Latin America & Caribbean	1998	2556780.051	70	175
+638	Mexico	Latin America & Caribbean	1998	97001933	74	237
+650	Nicaragua	Latin America & Caribbean	1998	4911886	69	53
+656	Panama	Latin America & Caribbean	1998	2843276	74	272
+658	Paraguay	Latin America & Caribbean	1998	5124050	70	111
+659	Peru	Latin America & Caribbean	1998	25079136	70	102
+681	St. Lucia	Latin America & Caribbean	1998	151952	71	221
+682	St. Vincent and the Grenadines	Latin America & Caribbean	1998	107907	70	123
+684	Suriname	Latin America & Caribbean	1998	454124	68	178
+694	Trinidad and Tobago	Latin America & Caribbean	1998	1281396	69	174
+703	Uruguay	Latin America & Caribbean	1998	3273776.897	74	776
+706	"Venezuela, RB"	Latin America & Caribbean	1998	23413000	73	176
+536	Algeria	Middle East & North Africa	1998	29673694	69	66
+544	Bahrain	Middle East & North Africa	1998	611237	74	479
+579	Djibouti	Middle East & North Africa	1998	688940	53	39
+582	"Egypt, Arab Rep."	Middle East & North Africa	1998	65309201	68	66
+608	"Iran, Islamic Rep."	Middle East & North Africa	1998	63133032	69	134
+609	Iraq	Middle East & North Africa	1998	22887833	71	9
+611	Israel	Middle East & North Africa	1998	5971000	78	1429
+615	Jordan	Middle East & North Africa	1998	4597400	72	157
+619	Kuwait	Middle East & North Africa	1998	1763693	74	653
+623	Lebanon	Middle East & North Africa	1998	3644171	70	542
+626	Libya	Middle East & North Africa	1998	5041233	72	222
+635	Malta	Middle East & North Africa	1998	377516	77	662
+643	Morocco	Middle East & North Africa	1998	28082684	68	55
+654	Oman	Middle East & North Africa	1998	2262969	74	228
+663	Qatar	Middle East & North Africa	1998	548828	76	637
+670	Saudi Arabia	Middle East & North Africa	1998	19256649	71	253
+688	Syrian Arab Republic	Middle East & North Africa	1998	15200324	74	57
+695	Tunisia	Middle East & North Africa	1998	9333300	72	127
+700	United Arab Emirates	Middle East & North Africa	1998	2755497	74	721
+708	"Yemen, Rep."	Middle East & North Africa	1998	16716850	59	22
+562	Canada	North America	1998	30247900	79	1849
+702	United States	North America	1998	275854000	77	4236
+545	Bangladesh	South Asia	1998	124803351	64	9
+551	Bhutan	South Asia	1998	540507	60	49
+606	India	South Asia	1998	1018471141	61	18
+633	Maldives	South Asia	1998	263867	68	130
+647	Nepal	South Asia	1998	23255046	60	13
+655	Pakistan	South Asia	1998	137808222	63	16
+680	Sri Lanka	South Asia	1998	18784000	70	31
+537	Angola	Sub-Saharan Africa	1998	13138265	44	24
+550	Benin	Sub-Saharan Africa	1998	6154708	52	17
+554	Botswana	Sub-Saharan Africa	1998	1695587	54	126
+558	Burkina Faso	Sub-Saharan Africa	1998	11621159	50	12
+559	Burundi	Sub-Saharan Africa	1998	6223515	45	8
+561	Cameroon	Sub-Saharan Africa	1998	14976200	51	29
+563	Cape Verde	Sub-Saharan Africa	1998	421203	68	65
+564	Central African Republic	Sub-Saharan Africa	1998	3559604	44	10
+565	Chad	Sub-Saharan Africa	1998	7689836	49	12
+569	Comoros	Sub-Saharan Africa	1998	533754	57	17
+570	"Congo, Dem. Rep."	Sub-Saharan Africa	1998	47373590	45	6
+571	"Congo, Rep."	Sub-Saharan Africa	1998	2973329	54	25
+573	Cote d'Ivoire	Sub-Saharan Africa	1998	15878555	50	53
+584	Equatorial Guinea	Sub-Saharan Africa	1998	488039	49	49
+585	Eritrea	Sub-Saharan Africa	1998	3428264	55	9
+587	Ethiopia	Sub-Saharan Africa	1998	62174171	51	5
+591	Gabon	Sub-Saharan Africa	1998	1177936	60	134
+592	"Gambia, The"	Sub-Saharan Africa	1998	1225044	55	24
+595	Ghana	Sub-Saharan Africa	1998	18281113	58	21
+599	Guinea	Sub-Saharan Africa	1998	8112650	47	25
+600	Guinea-Bissau	Sub-Saharan Africa	1998	1193585	44	12
+617	Kenya	Sub-Saharan Africa	1998	29696410	54	21
+624	Lesotho	Sub-Saharan Africa	1998	1900962	51	29
+625	Liberia	Sub-Saharan Africa	1998	2540835	44	8
+630	Madagascar	Sub-Saharan Africa	1998	14430739	58	8
+631	Malawi	Sub-Saharan Africa	1998	10612353	46	9
+634	Mali	Sub-Saharan Africa	1998	10662517	47	17
+636	Mauritania	Sub-Saharan Africa	1998	2495316	57	24
+637	Mauritius	Sub-Saharan Africa	1998	1160421	71	127
+644	Mozambique	Sub-Saharan Africa	1998	17295521	47	11
+646	Namibia	Sub-Saharan Africa	1998	1802579	59	129
+651	Niger	Sub-Saharan Africa	1998	10185812	47	7
+652	Nigeria	Sub-Saharan Africa	1998	117983368	45	61
+666	Rwanda	Sub-Saharan Africa	1998	6944116	41	15
+669	Sao Tome and Principe	Sub-Saharan Africa	1998	135838	62	37
+671	Senegal	Sub-Saharan Africa	1998	9035367	55	23
+672	Sierra Leone	Sub-Saharan Africa	1998	3953705	38	24
+677	Somalia	Sub-Saharan Africa	1998	6982940	47	7
+678	South Africa	Sub-Saharan Africa	1998	41899682.78	57	265
+683	Sudan	Sub-Saharan Africa	1998	26356626	56	14
+685	Swaziland	Sub-Saharan Africa	1998	1008143	52	84
+690	Tanzania	Sub-Saharan Africa	1998	32388671	50	10
+692	Togo	Sub-Saharan Africa	1998	4500173	55	16
+698	Uganda	Sub-Saharan Africa	1998	22788843	45	15
+709	Zambia	Sub-Saharan Africa	1998	9682058	42	22
+710	Zimbabwe	Sub-Saharan Africa	1998	12261742	47	53
+716	Australia	East Asia & Pacific	1999	18926000	79	1745
+732	Brunei Darussalam	East Asia & Pacific	1999	319654	76	589
+736	Cambodia	East Asia & Pacific	1999	12224414	57	18
+764	Fiji	East Asia & Pacific	1999	806927	67	75
+783	Indonesia	East Asia & Pacific	1999	210610776	65	15
+797	Lao PDR	East Asia & Pacific	1999	5220920	61	10
+808	Malaysia	East Asia & Pacific	1999	22867698	72	107
+812	Marshall Islands	East Asia & Pacific	1999	52080	68	374
+816	"Micronesia, Fed. Sts."	East Asia & Pacific	1999	107237	67	156
+818	Mongolia	East Asia & Pacific	1999	2388862	63	18
+822	Myanmar	East Asia & Pacific	1999	44496687	62	3
+826	New Zealand	East Asia & Pacific	1999	3835100	78	1153
+834	Papua New Guinea	East Asia & Pacific	1999	5240560	58	27
+837	Philippines	East Asia & Pacific	1999	75669587	67	35
+844	Samoa	East Asia & Pacific	1999	175169	69	82
+850	Singapore	East Asia & Pacific	1999	3958700	78	632
+853	Solomon Islands	East Asia & Pacific	1999	397627	62	46
+868	Thailand	East Asia & Pacific	1999	62408639	72	69
+870	Tonga	East Asia & Pacific	1999	97431	71	103
+882	Vanuatu	East Asia & Pacific	1999	181239	67	52
+884	Vietnam	East Asia & Pacific	1999	76596700	71	18
+743	China	East Asia & Pacific	1999	1252735000	71	39
+790	Japan	East Asia & Pacific	1999	126650000	81	2604
+794	"Korea, Rep."	East Asia & Pacific	1999	46617000	75	422
+766	France	Europe & Central Asia	1999	60495363	79	2452
+770	Germany	Europe & Central Asia	1999	82100243	78	2690
+711	Albania	Europe & Central Asia	1999	3072725	74	65
+715	Armenia	Europe & Central Asia	1999	3090624	70	34
+717	Austria	Europe & Central Asia	1999	7992324	78	2698
+718	Azerbaijan	Europe & Central Asia	1999	7982750	66	31
+723	Belarus	Europe & Central Asia	1999	10035000	68	74
+724	Belgium	Europe & Central Asia	1999	10226419	78	2011
+729	Bosnia and Herzegovina	Europe & Central Asia	1999	3601438	74	114
+733	Bulgaria	Europe & Central Asia	1999	8210624	71	96
+750	Croatia	Europe & Central Asia	1999	4554000	73	372
+752	Cyprus	Europe & Central Asia	1999	925504	78	781
+753	Czech Republic	Europe & Central Asia	1999	10283860	75	384
+754	Denmark	Europe & Central Asia	1999	5321799	76	2927
+762	Estonia	Europe & Central Asia	1999	1375654	70	241
+765	Finland	Europe & Central Asia	1999	5165474	77	1860
+769	Georgia	Europe & Central Asia	1999	4452500	71	37
+772	Greece	Europe & Central Asia	1999	10882580	78	1114
+780	Hungary	Europe & Central Asia	1999	10237530	71	345
+781	Iceland	Europe & Central Asia	1999	277381	79	3219
+786	Ireland	Europe & Central Asia	1999	3754786	76	1558
+792	Kazakhstan	Europe & Central Asia	1999	14928425.85	66	49
+796	Kyrgyz Republic	Europe & Central Asia	1999	4840400	67	15
+798	Latvia	Europe & Central Asia	1999	2390482	70	196
+803	Lithuania	Europe & Central Asia	1999	3524238	72	193
+804	Luxembourg	Europe & Central Asia	1999	430475	78	2868
+805	"Macedonia, FYR"	Europe & Central Asia	1999	2001178	73	162
+817	Moldova	Europe & Central Asia	1999	3646999	67	19
+819	Montenegro	Europe & Central Asia	1999	635689	75	98
+825	Netherlands	Europe & Central Asia	1999	15812088	78	2105
+830	Norway	Europe & Central Asia	1999	4461913	78	3325
+838	Poland	Europe & Central Asia	1999	38660271	73	251
+839	Portugal	Europe & Central Asia	1999	10171949	76	986
+841	Romania	Europe & Central Asia	1999	22472040	71	68
+845	San Marino	Europe & Central Asia	1999	26551	81	3015
+851	Slovak Republic	Europe & Central Asia	1999	5396020	73	218
+852	Slovenia	Europe & Central Asia	1999	1983045	75	877
+863	Sweden	Europe & Central Asia	1999	8857874	79	2395
+866	Tajikistan	Europe & Central Asia	1999	6104268	63	7
+788	Italy	Europe & Central Asia	1999	56916317	79	1643
+874	Turkmenistan	Europe & Central Asia	1999	4449427	64	34
+876	Ukraine	Europe & Central Asia	1999	49673349.99	68	38
+881	Uzbekistan	Europe & Central Asia	1999	24311700	67	42
+842	Russian Federation	Europe & Central Asia	1999	146309000	66	77
+856	Spain	Europe & Central Asia	1999	39926268	79	1132
+864	Switzerland	Europe & Central Asia	1999	7143991	80	3818
+873	Turkey	Europe & Central Asia	1999	62692616	69	188
+878	United Kingdom	Europe & Central Asia	1999	58682466	77	1771
+714	Argentina	Latin America & Caribbean	1999	36541029	74	726
+719	"Bahamas, The"	Latin America & Caribbean	1999	293988	71	1071
+722	Barbados	Latin America & Caribbean	1999	266758	75	569
+725	Belize	Latin America & Caribbean	1999	243100	73	111
+728	Bolivia	Latin America & Caribbean	1999	8138802	63	63
+731	Brazil	Latin America & Caribbean	1999	171936271	70	242
+742	Chile	Latin America & Caribbean	1999	15231557	76	377
+744	Colombia	Latin America & Caribbean	1999	39102653	71	191
+748	Costa Rica	Latin America & Caribbean	1999	3831504	78	282
+751	Cuba	Latin America & Caribbean	1999	11068382	76	153
+756	Dominican Republic	Latin America & Caribbean	1999	8458164	71	150
+757	Ecuador	Latin America & Caribbean	1999	12148188	73	65
+759	El Salvador	Latin America & Caribbean	1999	5911094	70	168
+773	Grenada	Latin America & Caribbean	1999	101354	73	292
+774	Guatemala	Latin America & Caribbean	1999	10974314	67	82
+777	Guyana	Latin America & Caribbean	1999	731496	64	44
+778	Haiti	Latin America & Caribbean	1999	8495358	58	27
+779	Honduras	Latin America & Caribbean	1999	6090164	70	55
+789	Jamaica	Latin America & Caribbean	1999	2574289.364	70	162
+815	Mexico	Latin America & Caribbean	1999	98513690	74	278
+827	Nicaragua	Latin America & Caribbean	1999	4994730	69	52
+833	Panama	Latin America & Caribbean	1999	2899636	74	271
+835	Paraguay	Latin America & Caribbean	1999	5233615	70	109
+836	Peru	Latin America & Caribbean	1999	25478577	70	98
+858	St. Lucia	Latin America & Caribbean	1999	153703	71	247
+859	St. Vincent and the Grenadines	Latin America & Caribbean	1999	107869	70	128
+861	Suriname	Latin America & Caribbean	1999	460419	68	135
+871	Trinidad and Tobago	Latin America & Caribbean	1999	1286871	69	225
+880	Uruguay	Latin America & Caribbean	1999	3288819.058	74	811
+883	"Venezuela, RB"	Latin America & Caribbean	1999	23867000	73	232
+712	Algeria	Middle East & North Africa	1999	30099010	70	55
+720	Bahrain	Middle East & North Africa	1999	626765	74	496
+755	Djibouti	Middle East & North Africa	1999	711573	54	47
+758	"Egypt, Arab Rep."	Middle East & North Africa	1999	66457136	68	73
+784	"Iran, Islamic Rep."	Middle East & North Africa	1999	64278307	69	178
+785	Iraq	Middle East & North Africa	1999	23589967	71	15
+787	Israel	Middle East & North Africa	1999	6125000	79	1359
+791	Jordan	Middle East & North Africa	1999	4680500	72	161
+795	Kuwait	Middle East & North Africa	1999	1857217	74	595
+799	Lebanon	Middle East & North Africa	1999	3690033	70	490
+802	Libya	Middle East & North Africa	1999	5134324	72	229
+811	Malta	Middle East & North Africa	1999	379360	77	656
+820	Morocco	Middle East & North Africa	1999	28444414	68	56
+831	Oman	Middle East & North Africa	1999	2259398	74	244
+840	Qatar	Middle East & North Africa	1999	569870	76	632
+847	Saudi Arabia	Middle East & North Africa	1999	19578923	71	339
+865	Syrian Arab Republic	Middle East & North Africa	1999	15572833	74	59
+872	Tunisia	Middle East & North Africa	1999	9455900	73	133
+877	United Arab Emirates	Middle East & North Africa	1999	2897038	74	722
+885	"Yemen, Rep."	Middle East & North Africa	1999	17208494	59	22
+738	Canada	North America	1999	30499200	79	1937
+879	United States	North America	1999	279040000	77	4450
+721	Bangladesh	South Asia	1999	127214841	64	10
+727	Bhutan	South Asia	1999	555377	60	50
+782	India	South Asia	1999	1036258683	61	18
+809	Maldives	South Asia	1999	268600	69	143
+824	Nepal	South Asia	1999	23825372	61	12
+832	Pakistan	South Asia	1999	141261069	63	16
+857	Sri Lanka	South Asia	1999	19056000	70	31
+713	Angola	Sub-Saharan Africa	1999	13511575	44	26
+726	Benin	Sub-Saharan Africa	1999	6329476	52	18
+730	Botswana	Sub-Saharan Africa	1999	1728179	52	131
+734	Burkina Faso	Sub-Saharan Africa	1999	11951701	50	13
+735	Burundi	Sub-Saharan Africa	1999	6283662	46	7
+737	Cameroon	Sub-Saharan Africa	1999	15324051	50	29
+739	Cape Verde	Sub-Saharan Africa	1999	429278	69	65
+740	Central African Republic	Sub-Saharan Africa	1999	3632287	44	11
+741	Chad	Sub-Saharan Africa	1999	7946982	49	11
+745	Comoros	Sub-Saharan Africa	1999	547864	58	16
+746	"Congo, Dem. Rep."	Sub-Saharan Africa	1999	48429878	45	11
+747	"Congo, Rep."	Sub-Saharan Africa	1999	3055437	54	24
+749	Cote d'Ivoire	Sub-Saharan Africa	1999	16242889	50	43
+760	Equatorial Guinea	Sub-Saharan Africa	1999	504001	49	40
+761	Eritrea	Sub-Saharan Africa	1999	3539885	55	9
+763	Ethiopia	Sub-Saharan Africa	1999	63868806	51	5
+767	Gabon	Sub-Saharan Africa	1999	1206862	60	116
+768	"Gambia, The"	Sub-Saharan Africa	1999	1260283	55	23
+771	Ghana	Sub-Saharan Africa	1999	18715676	58	20
+775	Guinea	Sub-Saharan Africa	1999	8226138	48	24
+776	Guinea-Bissau	Sub-Saharan Africa	1999	1216902	45	11
+793	Kenya	Sub-Saharan Africa	1999	30462154	53	18
+800	Lesotho	Sub-Saharan Africa	1999	1934337	49	28
+801	Liberia	Sub-Saharan Africa	1999	2710963	45	10
+806	Madagascar	Sub-Saharan Africa	1999	14892172	59	8
+807	Malawi	Sub-Saharan Africa	1999	10922265	46	11
+810	Mali	Sub-Saharan Africa	1999	10969725	47	16
+813	Mauritania	Sub-Saharan Africa	1999	2567741	57	28
+814	Mauritius	Sub-Saharan Africa	1999	1175267	71	126
+821	Mozambique	Sub-Saharan Africa	1999	17735992	47	14
+823	Namibia	Sub-Saharan Africa	1999	1851034	58	127
+828	Niger	Sub-Saharan Africa	1999	10548219	48	7
+829	Nigeria	Sub-Saharan Africa	1999	120784408	46	16
+843	Rwanda	Sub-Saharan Africa	1999	7582861	44	11
+846	Sao Tome and Principe	Sub-Saharan Africa	1999	138475	62	45
+848	Senegal	Sub-Saharan Africa	1999	9265135	55	24
+849	Sierra Leone	Sub-Saharan Africa	1999	4028260	39	28
+854	Somalia	Sub-Saharan Africa	1999	7193120	48	7
+855	South Africa	Sub-Saharan Africa	1999	42923484.53	56	268
+860	Sudan	Sub-Saharan Africa	1999	26949878	56	12
+862	Swaziland	Sub-Saharan Africa	1999	1009464	50	79
+867	Tanzania	Sub-Saharan Africa	1999	33197305	50	9
+869	Togo	Sub-Saharan Africa	1999	4650754	55	16
+875	Uganda	Sub-Saharan Africa	1999	23482533	46	16
+886	Zambia	Sub-Saharan Africa	1999	9945115	42	18
+887	Zimbabwe	Sub-Saharan Africa	1999	12405236	46	36
+893	Australia	East Asia & Pacific	2000	19153000	79	1713
+909	Brunei Darussalam	East Asia & Pacific	2000	327036	76	551
+913	Cambodia	East Asia & Pacific	2000	12446949	57	19
+941	Fiji	East Asia & Pacific	2000	811718	68	79
+960	Indonesia	East Asia & Pacific	2000	213395411	66	15
+920	China	East Asia & Pacific	2000	1262645000	71	43
+971	Kiribati	East Asia & Pacific	2000	84010	60	64
+975	Lao PDR	East Asia & Pacific	2000	5317060	61	11
+986	Malaysia	East Asia & Pacific	2000	23414909	72	125
+990	Marshall Islands	East Asia & Pacific	2000	52145	65	466
+994	"Micronesia, Fed. Sts."	East Asia & Pacific	2000	107103	67	170
+996	Mongolia	East Asia & Pacific	2000	2411369	63	22
+1000	Myanmar	East Asia & Pacific	2000	44957660	62	3
+1004	New Zealand	East Asia & Pacific	2000	3857700	79	1051
+1011	Palau	East Asia & Pacific	2000	19172	70	661
+1013	Papua New Guinea	East Asia & Pacific	2000	5378824	59	26
+1016	Philippines	East Asia & Pacific	2000	77309965	67	34
+1023	Samoa	East Asia & Pacific	2000	176549	69	79
+1030	Singapore	East Asia & Pacific	2000	4027900	78	663
+1033	Solomon Islands	East Asia & Pacific	2000	408732	63	49
+1048	Thailand	East Asia & Pacific	2000	63155029	73	66
+1049	Timor-Leste	East Asia & Pacific	2000	830089	56	30
+1051	Tonga	East Asia & Pacific	2000	97935	71	92
+1063	Vanuatu	East Asia & Pacific	2000	185074	68	52
+1065	Vietnam	East Asia & Pacific	2000	77630900	72	21
+967	Japan	East Asia & Pacific	2000	126870000	81	2834
+972	"Korea, Rep."	East Asia & Pacific	2000	47008000	76	508
+943	France	Europe & Central Asia	2000	60910922	79	2203
+947	Germany	Europe & Central Asia	2000	82211508	78	2386
+965	Italy	Europe & Central Asia	2000	56942108	79	1554
+888	Albania	Europe & Central Asia	2000	3071856	74	75
+892	Armenia	Europe & Central Asia	2000	3076098	71	39
+894	Austria	Europe & Central Asia	2000	8011566	78	2403
+895	Azerbaijan	Europe & Central Asia	2000	8048600	67	30
+900	Belarus	Europe & Central Asia	2000	10005000	69	63
+901	Belgium	Europe & Central Asia	2000	10251250	78	1844
+906	Bosnia and Herzegovina	Europe & Central Asia	2000	3693698	74	106
+910	Bulgaria	Europe & Central Asia	2000	8170172	72	98
+927	Croatia	Europe & Central Asia	2000	4426000	73	377
+929	Cyprus	Europe & Central Asia	2000	943294	78	744
+930	Czech Republic	Europe & Central Asia	2000	10272322	75	361
+931	Denmark	Europe & Central Asia	2000	5339616	77	2609
+939	Estonia	Europe & Central Asia	2000	1369515	70	217
+942	Finland	Europe & Central Asia	2000	5176209	77	1699
+946	Georgia	Europe & Central Asia	2000	4418300	72	45
+949	Greece	Europe & Central Asia	2000	10917482	78	917
+957	Hungary	Europe & Central Asia	2000	10210971	71	326
+958	Iceland	Europe & Central Asia	2000	281205	80	3034
+963	Ireland	Europe & Central Asia	2000	3805174	77	1561
+969	Kazakhstan	Europe & Central Asia	2000	14883626	66	51
+974	Kyrgyz Republic	Europe & Central Asia	2000	4898400	69	13
+976	Latvia	Europe & Central Asia	2000	2372985	70	197
+981	Lithuania	Europe & Central Asia	2000	3499536	72	212
+982	Luxembourg	Europe & Central Asia	2000	436300	78	3474
+983	"Macedonia, FYR"	Europe & Central Asia	2000	2009091	73	157
+995	Moldova	Europe & Central Asia	2000	3639588	67	24
+997	Montenegro	Europe & Central Asia	2000	632606	75	117
+1003	Netherlands	Europe & Central Asia	2000	15925513	78	1925
+1008	Norway	Europe & Central Asia	2000	4490967	79	3155
+1017	Poland	Europe & Central Asia	2000	38453757	74	247
+1018	Portugal	Europe & Central Asia	2000	10225836	76	1066
+1020	Romania	Europe & Central Asia	2000	22442971	71	72
+1024	San Marino	Europe & Central Asia	2000	26967	81	2743
+1028	Serbia	Europe & Central Asia	2000	7516346	72	60
+1031	Slovak Republic	Europe & Central Asia	2000	5388720	73	208
+1032	Slovenia	Europe & Central Asia	2000	1988925	75	830
+1043	Sweden	Europe & Central Asia	2000	8872109	80	2280
+1046	Tajikistan	Europe & Central Asia	2000	6172807	64	6
+1055	Turkmenistan	Europe & Central Asia	2000	4501419	64	44
+1057	Ukraine	Europe & Central Asia	2000	49175847.64	68	36
+1062	Uzbekistan	Europe & Central Asia	2000	24650400	67	32
+1021	Russian Federation	Europe & Central Asia	2000	146303000	65	96
+1036	Spain	Europe & Central Asia	2000	40263216	79	1040
+1044	Switzerland	Europe & Central Asia	2000	7184250	80	3519
+1054	Turkey	Europe & Central Asia	2000	63627862	69	205
+1059	United Kingdom	Europe & Central Asia	2000	58892514	78	1765
+891	Argentina	Latin America & Caribbean	2000	36930709	74	709
+896	"Bahamas, The"	Latin America & Caribbean	2000	297651	72	1107
+899	Barbados	Latin America & Caribbean	2000	267511	75	601
+902	Belize	Latin America & Caribbean	2000	249800	74	133
+905	Bolivia	Latin America & Caribbean	2000	8307248	63	61
+908	Brazil	Latin America & Caribbean	2000	174425387	70	265
+919	Chile	Latin America & Caribbean	2000	15419820	77	387
+921	Colombia	Latin America & Caribbean	2000	39764166	71	148
+925	Costa Rica	Latin America & Caribbean	2000	3919180	78	288
+928	Cuba	Latin America & Caribbean	2000	11104313	76	166
+933	Dominican Republic	Latin America & Caribbean	2000	8591967	71	175
+934	Ecuador	Latin America & Caribbean	2000	12345023	73	54
+936	El Salvador	Latin America & Caribbean	2000	5940305	70	177
+950	Grenada	Latin America & Caribbean	2000	101522	73	339
+951	Guatemala	Latin America & Caribbean	2000	11237101	68	96
+954	Guyana	Latin America & Caribbean	2000	733101	64	57
+955	Haiti	Latin America & Caribbean	2000	8645371	58	26
+956	Honduras	Latin America & Caribbean	2000	6218151	70	77
+966	Jamaica	Latin America & Caribbean	2000	2589388.551	70	189
+993	Mexico	Latin America & Caribbean	2000	99959594	74	328
+1005	Nicaragua	Latin America & Caribbean	2000	5073704	70	54
+1012	Panama	Latin America & Caribbean	2000	2956126	74	305
+1014	Paraguay	Latin America & Caribbean	2000	5343539	70	124
+1015	Peru	Latin America & Caribbean	2000	25861887	70	97
+1038	St. Lucia	Latin America & Caribbean	2000	155996	71	265
+1039	St. Vincent and the Grenadines	Latin America & Caribbean	2000	107891	70	137
+1041	Suriname	Latin America & Caribbean	2000	466846	68	167
+1052	Trinidad and Tobago	Latin America & Caribbean	2000	1292058	68	245
+1061	Uruguay	Latin America & Caribbean	2000	3300847.408	75	773
+1064	"Venezuela, RB"	Latin America & Caribbean	2000	24311000	73	274
+889	Algeria	Middle East & North Africa	2000	30533827	70	63
+897	Bahrain	Middle East & North Africa	2000	638193	74	497
+932	Djibouti	Middle East & North Africa	2000	731930	54	44
+935	"Egypt, Arab Rep."	Middle East & North Africa	2000	67648419	69	79
+961	"Iran, Islamic Rep."	Middle East & North Africa	2000	65342319	70	231
+962	Iraq	Middle East & North Africa	2000	24313641	71	34
+964	Israel	Middle East & North Africa	2000	6289000	79	1495
+968	Jordan	Middle East & North Africa	2000	4797500	72	169
+973	Kuwait	Middle East & North Africa	2000	1940786	74	488
+977	Lebanon	Middle East & North Africa	2000	3742329	71	455
+980	Libya	Middle East & North Africa	2000	5231189	73	244
+989	Malta	Middle East & North Africa	2000	381363	78	643
+998	Morocco	Middle East & North Africa	2000	28793236	69	54
+1009	Oman	Middle East & North Africa	2000	2264163	74	264
+1019	Qatar	Middle East & North Africa	2000	590957	76	655
+1026	Saudi Arabia	Middle East & North Africa	2000	20045276	71	400
+1045	Syrian Arab Republic	Middle East & North Africa	2000	15988534	74	59
+1053	Tunisia	Middle East & North Africa	2000	9563500	73	123
+1058	United Arab Emirates	Middle East & North Africa	2000	3033491	75	752
+1066	"Yemen, Rep."	Middle East & North Africa	2000	17723186	60	25
+915	Canada	North America	2000	30769700	79	2089
+1060	United States	North America	2000	282162411	77	4703
+898	Bangladesh	South Asia	2000	129592275	65	10
+904	Bhutan	South Asia	2000	571262	61	52
+959	India	South Asia	2000	1053898107	62	20
+987	Maldives	South Asia	2000	273236	70	160
+1002	Nepal	South Asia	2000	24400606	62	12
+1010	Pakistan	South Asia	2000	144522192	63	15
+1037	Sri Lanka	South Asia	2000	19102000	71	33
+890	Angola	Sub-Saharan Africa	2000	13926373	45	19
+903	Benin	Sub-Saharan Africa	2000	6517810	53	16
+907	Botswana	Sub-Saharan Africa	2000	1757925	51	152
+911	Burkina Faso	Sub-Saharan Africa	2000	12294012	50	11
+912	Burundi	Sub-Saharan Africa	2000	6374347	46	7
+914	Cameroon	Sub-Saharan Africa	2000	15678269	50	27
+916	Cape Verde	Sub-Saharan Africa	2000	437238	69	59
+917	Central African Republic	Sub-Saharan Africa	2000	3701607	44	11
+918	Chad	Sub-Saharan Africa	2000	8222327	48	11
+922	Comoros	Sub-Saharan Africa	2000	562469	58	13
+923	"Congo, Dem. Rep."	Sub-Saharan Africa	2000	49626200	46	13
+924	"Congo, Rep."	Sub-Saharan Africa	2000	3135773	54	22
+926	Cote d'Ivoire	Sub-Saharan Africa	2000	16581653	50	32
+937	Equatorial Guinea	Sub-Saharan Africa	2000	520380	49	46
+938	Eritrea	Sub-Saharan Africa	2000	3667576	56	8
+940	Ethiopia	Sub-Saharan Africa	2000	65577897	52	5
+944	Gabon	Sub-Saharan Africa	2000	1235274	60	102
+945	"Gambia, The"	Sub-Saharan Africa	2000	1297084	55	22
+948	Ghana	Sub-Saharan Africa	2000	19165490	58	12
+952	Guinea	Sub-Saharan Africa	2000	8344486	48	21
+953	Guinea-Bissau	Sub-Saharan Africa	2000	1240655	45	17
+970	Kenya	Sub-Saharan Africa	2000	31253701	52	19
+978	Lesotho	Sub-Saharan Africa	2000	1963878	48	27
+979	Liberia	Sub-Saharan Africa	2000	2847290	46	11
+984	Madagascar	Sub-Saharan Africa	2000	15364272	60	9
+985	Malawi	Sub-Saharan Africa	2000	11228756	46	9
+988	Mali	Sub-Saharan Africa	2000	11295324	47	15
+991	Mauritania	Sub-Saharan Africa	2000	2642743	57	24
+992	Mauritius	Sub-Saharan Africa	2000	1186873	72	145
+999	Mozambique	Sub-Saharan Africa	2000	18200656	47	15
+1001	Namibia	Sub-Saharan Africa	2000	1895839	58	126
+1006	Niger	Sub-Saharan Africa	2000	10922421	48	5
+1007	Nigeria	Sub-Saharan Africa	2000	123688536	46	17
+1022	Rwanda	Sub-Saharan Africa	2000	8098344	47	9
+1025	Sao Tome and Principe	Sub-Saharan Africa	2000	141010	62	46
+1027	Senegal	Sub-Saharan Africa	2000	9505862	56	21
+1029	Sierra Leone	Sub-Saharan Africa	2000	4143115	40	27
+1034	Somalia	Sub-Saharan Africa	2000	7399033	48	7
+1035	South Africa	Sub-Saharan Africa	2000	4.40E+07	55	246
+1040	Sudan	Sub-Saharan Africa	2000	27556383	57	12
+1042	Swaziland	Sub-Saharan Africa	2000	1010787	49	75
+1047	Tanzania	Sub-Saharan Africa	2000	34038161	50	10
+1050	Togo	Sub-Saharan Africa	2000	4793504	55	14
+1056	Uganda	Sub-Saharan Africa	2000	24213120	46	16
+1067	Zambia	Sub-Saharan Africa	2000	10201562	42	18
+1068	Zimbabwe	Sub-Saharan Africa	2000	12509477	45	59
+1074	Australia	East Asia & Pacific	2001	19413000	80	1632
+1101	China	East Asia & Pacific	2001	1271850000	71	47
+1090	Brunei Darussalam	East Asia & Pacific	2001	334348	76	533
+1094	Cambodia	East Asia & Pacific	2001	12653684	58	20
+1122	Fiji	East Asia & Pacific	2001	814780	68	66
+1141	Indonesia	East Asia & Pacific	2001	216203499	66	17
+1155	Lao PDR	East Asia & Pacific	2001	5408912	62	13
+1166	Malaysia	East Asia & Pacific	2001	23964621	72	138
+1173	"Micronesia, Fed. Sts."	East Asia & Pacific	2001	107290	67	190
+1175	Mongolia	East Asia & Pacific	2001	2434515	64	24
+1179	Myanmar	East Asia & Pacific	2001	45323903	62	3
+1183	New Zealand	East Asia & Pacific	2001	3880500	79	1052
+1191	Papua New Guinea	East Asia & Pacific	2001	5518586	59	25
+1194	Philippines	East Asia & Pacific	2001	78964389	67	29
+1201	Samoa	East Asia & Pacific	2001	177645	70	78
+1208	Singapore	East Asia & Pacific	2001	4138000	78	531
+1211	Solomon Islands	East Asia & Pacific	2001	420232	63	61
+1226	Thailand	East Asia & Pacific	2001	63898879	73	60
+1227	Timor-Leste	East Asia & Pacific	2001	852522	57	34
+1229	Tonga	East Asia & Pacific	2001	98476	71	96
+1241	Vanuatu	East Asia & Pacific	2001	189544	68	50
+1243	Vietnam	East Asia & Pacific	2001	78621000	72	23
+1148	Japan	East Asia & Pacific	2001	127149000	81	2551
+1152	"Korea, Rep."	East Asia & Pacific	2001	47357000	76	539
+1124	France	Europe & Central Asia	2001	61355563	79	2234
+1128	Germany	Europe & Central Asia	2001	82349925	78	2399
+1146	Italy	Europe & Central Asia	2001	56977217	80	1611
+1069	Albania	Europe & Central Asia	2001	3077378	75	80
+1073	Armenia	Europe & Central Asia	2001	3065810	71	41
+1075	Austria	Europe & Central Asia	2001	8042293	79	2406
+1076	Azerbaijan	Europe & Central Asia	2001	8111200	67	31
+1081	Belarus	Europe & Central Asia	2001	9928000	69	82
+1082	Belgium	Europe & Central Asia	2001	10286570	78	1875
+1087	Bosnia and Herzegovina	Europe & Central Asia	2001	3748370	75	111
+1091	Bulgaria	Europe & Central Asia	2001	8020282	72	129
+1108	Croatia	Europe & Central Asia	2001	4440000	75	376
+1110	Cyprus	Europe & Central Asia	2001	961482	78	776
+1111	Czech Republic	Europe & Central Asia	2001	10236491	75	404
+1112	Denmark	Europe & Central Asia	2001	5358783	77	2726
+1120	Estonia	Europe & Central Asia	2001	1364101	70	220
+1123	Finland	Europe & Central Asia	2001	5188008	78	1784
+1127	Georgia	Europe & Central Asia	2001	4386400	72	54
+1130	Greece	Europe & Central Asia	2001	10949957	78	1053
+1138	Hungary	Europe & Central Asia	2001	10187576	72	375
+1139	Iceland	Europe & Central Asia	2001	284968	81	2674
+1144	Ireland	Europe & Central Asia	2001	3866243	77	1831
+1150	Kazakhstan	Europe & Central Asia	2001	14858335	66	52
+1154	Kyrgyz Republic	Europe & Central Asia	2001	4945100	69	15
+1156	Latvia	Europe & Central Asia	2001	2355011	71	215
+1161	Lithuania	Europe & Central Asia	2001	3481292	72	220
+1162	Luxembourg	Europe & Central Asia	2001	441525	78	3388
+1163	"Macedonia, FYR"	Europe & Central Asia	2001	2016075	73	145
+1174	Moldova	Europe & Central Asia	2001	3631460	67	29
+1176	Montenegro	Europe & Central Asia	2001	630299	75	155
+1182	Netherlands	Europe & Central Asia	2001	16046180	78	2072
+1187	Norway	Europe & Central Asia	2001	4513751	79	3333
+1195	Poland	Europe & Central Asia	2001	38248076	74	292
+1196	Portugal	Europe & Central Asia	2001	10292999	77	1083
+1198	Romania	Europe & Central Asia	2001	22131970	71	79
+1202	San Marino	Europe & Central Asia	2001	27543	81	2770
+1206	Serbia	Europe & Central Asia	2001	7503433	72	115
+1209	Slovak Republic	Europe & Central Asia	2001	5378867	73	216
+1210	Slovenia	Europe & Central Asia	2001	1992060	76	882
+1221	Sweden	Europe & Central Asia	2001	8895960	80	2270
+1224	Tajikistan	Europe & Central Asia	2001	6232587	64	8
+1233	Turkmenistan	Europe & Central Asia	2001	4551737	64	58
+1235	Ukraine	Europe & Central Asia	2001	48683864.58	68	44
+1240	Uzbekistan	Europe & Central Asia	2001	24964400	67	27
+1199	Russian Federation	Europe & Central Asia	2001	145949580.3	65	119
+1214	Spain	Europe & Central Asia	2001	40720484	79	1083
+1222	Switzerland	Europe & Central Asia	2001	7229854	80	3707
+1232	Turkey	Europe & Central Asia	2001	64544914	70	155
+1237	United Kingdom	Europe & Central Asia	2001	59107960	78	1806
+1072	Argentina	Latin America & Caribbean	2001	37302116	74	676
+1077	"Bahamas, The"	Latin America & Caribbean	2001	301606	72	1112
+1080	Barbados	Latin America & Caribbean	2001	268192	76	635
+1083	Belize	Latin America & Caribbean	2001	257300	74	154
+1086	Bolivia	Latin America & Caribbean	2001	8476709	63	61
+1089	Brazil	Latin America & Caribbean	2001	176877135	70	228
+1100	Chile	Latin America & Caribbean	2001	15604200	77	344
+1102	Colombia	Latin America & Caribbean	2001	40422597	71	145
+1106	Costa Rica	Latin America & Caribbean	2001	4002946	78	292
+1109	Cuba	Latin America & Caribbean	2001	11140168	77	178
+1114	Dominican Republic	Latin America & Caribbean	2001	8726256	71	174
+1115	Ecuador	Latin America & Caribbean	2001	12552036	74	78
+1117	El Salvador	Latin America & Caribbean	2001	5966027	70	181
+1131	Grenada	Latin America & Caribbean	2001	101731	74	392
+1132	Guatemala	Latin America & Caribbean	2001	11512637	68	105
+1135	Guyana	Latin America & Caribbean	2001	735327	65	55
+1136	Haiti	Latin America & Caribbean	2001	8791931	59	22
+1137	Honduras	Latin America & Caribbean	2001	6347272	71	83
+1147	Jamaica	Latin America & Caribbean	2001	2604788.619	71	178
+1172	Mexico	Latin America & Caribbean	2001	101329543	75	373
+1184	Nicaragua	Latin America & Caribbean	2001	5148635	70	55
+1190	Panama	Latin America & Caribbean	2001	3012635	74	303
+1192	Paraguay	Latin America & Caribbean	2001	5453921	70	107
+1193	Peru	Latin America & Caribbean	2001	26228274	71	96
+1216	St. Lucia	Latin America & Caribbean	2001	157897	74	273
+1217	St. Vincent and the Grenadines	Latin America & Caribbean	2001	107987	70	145
+1219	Suriname	Latin America & Caribbean	2001	473431	68	135
+1230	Trinidad and Tobago	Latin America & Caribbean	2001	1296962	68	281
+1239	Uruguay	Latin America & Caribbean	2001	3308356.425	75	703
+1242	"Venezuela, RB"	Latin America & Caribbean	2001	24765000	73	295
+1070	Algeria	Middle East & North Africa	2001	30982214	70	68
+1078	Bahrain	Middle East & North Africa	2001	642510	74	528
+1113	Djibouti	Middle East & North Africa	2001	749604	54	41
+1116	"Egypt, Arab Rep."	Middle East & North Africa	2001	68888032	70	76
+1142	"Iran, Islamic Rep."	Middle East & North Africa	2001	66313553	70	294
+1143	Iraq	Middle East & North Africa	2001	24937728	70	24
+1145	Israel	Middle East & North Africa	2001	6439000	79	1539
+1149	Jordan	Middle East & North Africa	2001	4917500	72	181
+1153	Kuwait	Middle East & North Africa	2001	2009588	74	627
+1157	Lebanon	Middle East & North Africa	2001	3802903	71	433
+1160	Libya	Middle East & North Africa	2001	5331311	73	254
+1169	Malta	Middle East & North Africa	2001	393028	78	679
+1177	Morocco	Middle East & North Africa	2001	29129204	69	57
+1188	Oman	Middle East & North Africa	2001	2279171	74	263
+1197	Qatar	Middle East & North Africa	2001	608057	76	736
+1204	Saudi Arabia	Middle East & North Africa	2001	20681576	72	399
+1223	Syrian Arab Republic	Middle East & North Africa	2001	16454926	74	58
+1231	Tunisia	Middle East & North Africa	2001	9673600	73	122
+1236	United Arab Emirates	Middle East & North Africa	2001	3149440	75	815
+1244	"Yemen, Rep."	Middle East & North Africa	2001	18266008	60	27
+1096	Canada	North America	2001	31081900	79	2149
+1238	United States	North America	2001	284968955	77	5052
+1079	Bangladesh	South Asia	2001	131944584	65	10
+1085	Bhutan	South Asia	2001	588050	62	50
+1140	India	South Asia	2001	1071374264	62	21
+1167	Maldives	South Asia	2001	277791	71	152
+1181	Nepal	South Asia	2001	24980184	62	13
+1189	Pakistan	South Asia	2001	147557907	63	13
+1215	Sri Lanka	South Asia	2001	18797000	72	31
+1071	Angola	Sub-Saharan Africa	2001	14388244	46	30
+1084	Benin	Sub-Saharan Africa	2001	6721337	53	17
+1088	Botswana	Sub-Saharan Africa	2001	1784449	50	175
+1092	Burkina Faso	Sub-Saharan Africa	2001	12648474	51	11
+1093	Burundi	Sub-Saharan Africa	2001	6499653	46	7
+1095	Cameroon	Sub-Saharan Africa	2001	16039737	50	28
+1097	Cape Verde	Sub-Saharan Africa	2001	445096	70	66
+1098	Central African Republic	Sub-Saharan Africa	2001	3767068	44	10
+1099	Chad	Sub-Saharan Africa	2001	8517944	48	12
+1103	Comoros	Sub-Saharan Africa	2001	577569	58	11
+1104	"Congo, Dem. Rep."	Sub-Saharan Africa	2001	50989424	46	6
+1105	"Congo, Rep."	Sub-Saharan Africa	2001	3213330	54	21
+1107	Cote d'Ivoire	Sub-Saharan Africa	2001	16892864	50	25
+1118	Equatorial Guinea	Sub-Saharan Africa	2001	537195	49	64
+1119	Eritrea	Sub-Saharan Africa	2001	3812473	57	7
+1121	Ethiopia	Sub-Saharan Africa	2001	67303731	52	6
+1125	Gabon	Sub-Saharan Africa	2001	1263165	59	107
+1126	"Gambia, The"	Sub-Saharan Africa	2001	1335674	55	19
+1129	Ghana	Sub-Saharan Africa	2001	19632265	59	15
+1133	Guinea	Sub-Saharan Africa	2001	8472339	49	21
+1134	Guinea-Bissau	Sub-Saharan Africa	2001	1264855	45	16
+1151	Kenya	Sub-Saharan Africa	2001	32076186	52	19
+1158	Lesotho	Sub-Saharan Africa	2001	1988983	46	27
+1159	Liberia	Sub-Saharan Africa	2001	2939296	47	11
+1164	Madagascar	Sub-Saharan Africa	2001	15846412	61	11
+1165	Malawi	Sub-Saharan Africa	2001	11529337	46	8
+1168	Mali	Sub-Saharan Africa	2001	11639798	48	17
+1170	Mauritania	Sub-Saharan Africa	2001	2720367	57	20
+1171	Mauritius	Sub-Saharan Africa	2001	1199881	72	145
+1178	Mozambique	Sub-Saharan Africa	2001	18691461	47	12
+1180	Namibia	Sub-Saharan Africa	2001	1936399	57	113
+1185	Niger	Sub-Saharan Africa	2001	11308134	49	7
+1186	Nigeria	Sub-Saharan Africa	2001	126704722	47	18
+1200	Rwanda	Sub-Saharan Africa	2001	8456968	48	9
+1203	Sao Tome and Principe	Sub-Saharan Africa	2001	143430	63	52
+1205	Senegal	Sub-Saharan Africa	2001	9758841	56	23
+1207	Sierra Leone	Sub-Saharan Africa	2001	4303850	41	32
+1212	Somalia	Sub-Saharan Africa	2001	7596920	49	4
+1213	South Africa	Sub-Saharan Africa	2001	44909738	54	224
+1218	Sudan	Sub-Saharan Africa	2001	28177967	58	13
+1220	Swaziland	Sub-Saharan Africa	2001	1012111	47	65
+1225	Tanzania	Sub-Saharan Africa	2001	34917073	51	11
+1228	Togo	Sub-Saharan Africa	2001	4926142	55	14
+1234	Uganda	Sub-Saharan Africa	2001	24984181	47	17
+1245	Zambia	Sub-Saharan Africa	2001	10449825	42	21
+1246	Zimbabwe	Sub-Saharan Africa	2001	12575015	44	66
+1254	Australia	East Asia & Pacific	2002	19651400	80	1847
+1281	China	East Asia & Pacific	2002	1280400000	72	54
+1270	Brunei Darussalam	East Asia & Pacific	2002	341585	77	533
+1274	Cambodia	East Asia & Pacific	2002	12845222	58	21
+1303	Fiji	East Asia & Pacific	2002	816336	68	78
+1322	Indonesia	East Asia & Pacific	2002	219026365	66	20
+1333	Kiribati	East Asia & Pacific	2002	87147	63	75
+1337	Lao PDR	East Asia & Pacific	2002	5496700	63	13
+1348	Malaysia	East Asia & Pacific	2002	24515323	72	149
+1355	"Micronesia, Fed. Sts."	East Asia & Pacific	2002	107728	67	177
+1357	Mongolia	East Asia & Pacific	2002	2458853	64	27
+1361	Myanmar	East Asia & Pacific	2002	45609292	62	3
+1365	New Zealand	East Asia & Pacific	2002	3948500	79	1244
+1373	Papua New Guinea	East Asia & Pacific	2002	5659946	59	24
+1376	Philippines	East Asia & Pacific	2002	80630416	67	28
+1383	Samoa	East Asia & Pacific	2002	178488	70	82
+1391	Singapore	East Asia & Pacific	2002	4176000	79	648
+1394	Solomon Islands	East Asia & Pacific	2002	432107	64	48
+1409	Thailand	East Asia & Pacific	2002	64642931	73	73
+1410	Timor-Leste	East Asia & Pacific	2002	888099	58	31
+1412	Tonga	East Asia & Pacific	2002	99053	71	92
+1424	Vanuatu	East Asia & Pacific	2002	194555	68	52
+1426	Vietnam	East Asia & Pacific	2002	79538700	73	22
+1329	Japan	East Asia & Pacific	2002	127445000	82	2454
+1334	"Korea, Rep."	East Asia & Pacific	2002	47622000	77	594
+1305	France	Europe & Central Asia	2002	61803045	79	2489
+1309	Germany	Europe & Central Asia	2002	82488495	78	2609
+1327	Italy	Europe & Central Asia	2002	57157406	80	1778
+1248	Albania	Europe & Central Asia	2002	3089778	75	90
+1253	Armenia	Europe & Central Asia	2002	3061067	72	42
+1255	Austria	Europe & Central Asia	2002	8081957	79	2599
+1256	Azerbaijan	Europe & Central Asia	2002	8171950	68	34
+1261	Belarus	Europe & Central Asia	2002	9865000	68	95
+1262	Belgium	Europe & Central Asia	2002	10332785	78	2071
+1267	Bosnia and Herzegovina	Europe & Central Asia	2002	3775883	75	125
+1271	Bulgaria	Europe & Central Asia	2002	7868468	72	154
+1288	Croatia	Europe & Central Asia	2002	4440000	75	375
+1290	Cyprus	Europe & Central Asia	2002	979874	78	882
+1291	Czech Republic	Europe & Central Asia	2002	10204853	75	523
+1292	Denmark	Europe & Central Asia	2002	5375931	77	3019
+1301	Estonia	Europe & Central Asia	2002	1358644	71	259
+1304	Finland	Europe & Central Asia	2002	5200598	78	2030
+1308	Georgia	Europe & Central Asia	2002	4357000	72	64
+1311	Greece	Europe & Central Asia	2002	10987543	79	1221
+1319	Hungary	Europe & Central Asia	2002	10158608	72	496
+1320	Iceland	Europe & Central Asia	2002	287523	81	3228
+1325	Ireland	Europe & Central Asia	2002	3931947	78	2206
+1381	Russian Federation	Europe & Central Asia	2002	145299690.3	65	142
+1331	Kazakhstan	Europe & Central Asia	2002	14858948	66	60
+1336	Kyrgyz Republic	Europe & Central Asia	2002	4990700	68	17
+1338	Latvia	Europe & Central Asia	2002	2338624	71	248
+1343	Lithuania	Europe & Central Asia	2002	3469070	72	263
+1344	Luxembourg	Europe & Central Asia	2002	446175	78	4182
+1345	"Macedonia, FYR"	Europe & Central Asia	2002	2022255	73	175
+1356	Moldova	Europe & Central Asia	2002	3623059	67	37
+1358	Montenegro	Europe & Central Asia	2002	628594	74	175
+1364	Netherlands	Europe & Central Asia	2002	16148929	78	2405
+1369	Norway	Europe & Central Asia	2002	4538159	79	4140
+1377	Poland	Europe & Central Asia	2002	38230364	74	328
+1378	Portugal	Europe & Central Asia	2002	10368403	77	1186
+1380	Romania	Europe & Central Asia	2002	21803129	71	97
+1384	San Marino	Europe & Central Asia	2002	28251	81	2891
+1388	Serbia	Europe & Central Asia	2002	7500031	72	179
+1392	Slovak Republic	Europe & Central Asia	2002	5379056	74	256
+1393	Slovenia	Europe & Central Asia	2002	1994530	76	1000
+1404	Sweden	Europe & Central Asia	2002	8924958	80	2590
+1407	Tajikistan	Europe & Central Asia	2002	6285809	64	9
+1416	Turkmenistan	Europe & Central Asia	2002	4600093	64	63
+1418	Ukraine	Europe & Central Asia	2002	48202500	68	55
+1423	Uzbekistan	Europe & Central Asia	2002	25271800	67	21
+1396	Spain	Europe & Central Asia	2002	41313973	80	1204
+1405	Switzerland	Europe & Central Asia	2002	7284753	80	4141
+1415	Turkey	Europe & Central Asia	2002	65446165	71	189
+1420	United Kingdom	Europe & Central Asia	2002	59325809	78	2058
+1251	Antigua and Barbuda	Latin America & Caribbean	2002	80507	75	438
+1252	Argentina	Latin America & Caribbean	2002	37657340	74	225
+1257	"Bahamas, The"	Latin America & Caribbean	2002	305801	72	1196
+1260	Barbados	Latin America & Caribbean	2002	268813	76	671
+1263	Belize	Latin America & Caribbean	2002	265200	74	157
+1266	Bolivia	Latin America & Caribbean	2002	8646659	64	60
+1269	Brazil	Latin America & Caribbean	2002	179289227	71	203
+1280	Chile	Latin America & Caribbean	2002	15783991	78	327
+1282	Colombia	Latin America & Caribbean	2002	41078136	72	135
+1286	Costa Rica	Latin America & Caribbean	2002	4083197	78	332
+1289	Cuba	Latin America & Caribbean	2002	11175434	77	195
+1294	Dominica	Latin America & Caribbean	2002	69301	77	238
+1295	Dominican Republic	Latin America & Caribbean	2002	8860760	71	177
+1296	Ecuador	Latin America & Caribbean	2002	12767415	74	107
+1298	El Salvador	Latin America & Caribbean	2002	5988233	70	183
+1312	Grenada	Latin America & Caribbean	2002	101954	74	354
+1313	Guatemala	Latin America & Caribbean	2002	11800351	69	110
+1316	Guyana	Latin America & Caribbean	2002	738011	66	57
+1317	Haiti	Latin America & Caribbean	2002	8935252	59	20
+1318	Honduras	Latin America & Caribbean	2002	6477525	71	88
+1328	Jamaica	Latin America & Caribbean	2002	2617495.224	71	180
+1354	Mexico	Latin America & Caribbean	2002	102634153	75	396
+1366	Nicaragua	Latin America & Caribbean	2002	5219724	71	57
+1372	Panama	Latin America & Caribbean	2002	3069123	75	321
+1374	Paraguay	Latin America & Caribbean	2002	5564709	71	80
+1375	Peru	Latin America & Caribbean	2002	26579252	71	103
+1398	St. Kitts and Nevis	Latin America & Caribbean	2002	46710	71	371
+1399	St. Lucia	Latin America & Caribbean	2002	159133	74	283
+1400	St. Vincent and the Grenadines	Latin America & Caribbean	2002	108150	71	168
+1402	Suriname	Latin America & Caribbean	2002	480132	68	161
+1413	Trinidad and Tobago	Latin America & Caribbean	2002	1301576	68	331
+1422	Uruguay	Latin America & Caribbean	2002	3308526.676	75	449
+1425	"Venezuela, RB"	Latin America & Caribbean	2002	25220000	74	208
+1249	Algeria	Middle East & North Africa	2002	31441848	71	70
+1258	Bahrain	Middle East & North Africa	2002	642070	74	580
+1293	Djibouti	Middle East & North Africa	2002	765283	54	42
+1297	"Egypt, Arab Rep."	Middle East & North Africa	2002	70174632	70	74
+1323	"Iran, Islamic Rep."	Middle East & North Africa	2002	67212850	70	108
+1324	Iraq	Middle East & North Africa	2002	25577836	70	10
+1326	Israel	Middle East & North Africa	2002	6570000	79	1369
+1330	Jordan	Middle East & North Africa	2002	5038000	72	186
+1335	Kuwait	Middle East & North Africa	2002	2069816	74	657
+1339	Lebanon	Middle East & North Africa	2002	3868504	71	427
+1342	Libya	Middle East & North Africa	2002	5434293	73	176
+1351	Malta	Middle East & North Africa	2002	395969	78	832
+1359	Morocco	Middle East & North Africa	2002	29453931	69	73
+1370	Oman	Middle East & North Africa	2002	2302874	74	278
+1379	Qatar	Middle East & North Africa	2002	624173	77	840
+1386	Saudi Arabia	Middle East & North Africa	2002	21463072	72	378
+1406	Syrian Arab Republic	Middle East & North Africa	2002	16962918	74	57
+1414	Tunisia	Middle East & North Africa	2002	9781900	73	128
+1419	United Arab Emirates	Middle East & North Africa	2002	3254691	75	917
+1427	"Yemen, Rep."	Middle East & North Africa	2002	18831819	61	28
+1276	Canada	North America	2002	31362000	80	2249
+1421	United States	North America	2002	287625193	77	5453
+1247	Afghanistan	South Asia	2002	27465525	46	14
+1259	Bangladesh	South Asia	2002	134266428	66	11
+1265	Bhutan	South Asia	2002	606024	63	70
+1321	India	South Asia	2002	1088694080	62	21
+1349	Maldives	South Asia	2002	282266	72	151
+1363	Nepal	South Asia	2002	25562573	63	13
+1371	Pakistan	South Asia	2002	150407242	64	15
+1397	Sri Lanka	South Asia	2002	18921000	73	34
+1250	Angola	Sub-Saharan Africa	2002	14890474	47	29
+1264	Benin	Sub-Saharan Africa	2002	6937985	53	17
+1268	Botswana	Sub-Saharan Africa	2002	1808103	49	193
+1272	Burkina Faso	Sub-Saharan Africa	2002	13015435	51	13
+1273	Burundi	Sub-Saharan Africa	2002	6656071	47	6
+1275	Cameroon	Sub-Saharan Africa	2002	16408085	50	32
+1277	Cape Verde	Sub-Saharan Africa	2002	452740	71	71
+1278	Central African Republic	Sub-Saharan Africa	2002	3829238	44	11
+1279	Chad	Sub-Saharan Africa	2002	8831199	48	18
+1283	Comoros	Sub-Saharan Africa	2002	593170	58	15
+1284	"Congo, Dem. Rep."	Sub-Saharan Africa	2002	52491329	46	4
+1285	"Congo, Rep."	Sub-Saharan Africa	2002	3288923	54	23
+1287	Cote d'Ivoire	Sub-Saharan Africa	2002	17180649	50	23
+1299	Equatorial Guinea	Sub-Saharan Africa	2002	554429	49	145
+1300	Eritrea	Sub-Saharan Africa	2002	3973973	57	7
+1302	Ethiopia	Sub-Saharan Africa	2002	69040669	53	5
+1306	Gabon	Sub-Saharan Africa	2002	1290532	59	122
+1307	"Gambia, The"	Sub-Saharan Africa	2002	1376035	56	16
+1310	Ghana	Sub-Saharan Africa	2002	20114361	59	15
+1314	Guinea	Sub-Saharan Africa	2002	8604936	49	22
+1315	Guinea-Bissau	Sub-Saharan Africa	2002	1289526	45	18
+1332	Kenya	Sub-Saharan Africa	2002	32927864	52	18
+1340	Lesotho	Sub-Saharan Africa	2002	2010261	45	23
+1341	Liberia	Sub-Saharan Africa	2002	2996082	48	10
+1346	Madagascar	Sub-Saharan Africa	2002	16338968	62	10
+1347	Malawi	Sub-Saharan Africa	2002	11833102	47	11
+1350	Mali	Sub-Saharan Africa	2002	12001887	48	17
+1352	Mauritania	Sub-Saharan Africa	2002	2800333	57	24
+1353	Mauritius	Sub-Saharan Africa	2002	1210196	72	165
+1360	Mozambique	Sub-Saharan Africa	2002	19200021	48	14
+1362	Namibia	Sub-Saharan Africa	2002	1973408	57	105
+1367	Niger	Sub-Saharan Africa	2002	11706182	50	7
+1368	Nigeria	Sub-Saharan Africa	2002	129832447	47	18
+1382	Rwanda	Sub-Saharan Africa	2002	8696378	49	8
+1385	Sao Tome and Principe	Sub-Saharan Africa	2002	145761	63	59
+1387	Senegal	Sub-Saharan Africa	2002	10023194	56	27
+1389	Seychelles	Sub-Saharan Africa	2002	83700	73	379
+1390	Sierra Leone	Sub-Saharan Africa	2002	4505515	41	35
+1395	South Africa	Sub-Saharan Africa	2002	45533292	53	205
+1401	Sudan	Sub-Saharan Africa	2002	28806330	58	15
+1403	Swaziland	Sub-Saharan Africa	2002	1013437	47	58
+1408	Tanzania	Sub-Saharan Africa	2002	35832494	51	10
+1411	Togo	Sub-Saharan Africa	2002	5050919	55	14
+1417	Uganda	Sub-Saharan Africa	2002	25794397	48	18
+1428	Zambia	Sub-Saharan Africa	2002	10693471	42	23
+1435	Australia	East Asia & Pacific	2003	19895400	80	2323
+1462	China	East Asia & Pacific	2003	1288400000	72	61
+1451	Brunei Darussalam	East Asia & Pacific	2003	348771	77	583
+1455	Cambodia	East Asia & Pacific	2003	13024171	59	26
+1483	Fiji	East Asia & Pacific	2003	817339	68	94
+1502	Indonesia	East Asia & Pacific	2003	221839235	67	27
+1516	Lao PDR	East Asia & Pacific	2003	5582028	63	18
+1527	Malaysia	East Asia & Pacific	2003	25060184	73	185
+1534	"Micronesia, Fed. Sts."	East Asia & Pacific	2003	108325	68	215
+1536	Mongolia	East Asia & Pacific	2003	2485177	65	42
+1540	Myanmar	East Asia & Pacific	2003	45843675	62	4
+1544	New Zealand	East Asia & Pacific	2003	4027200	79	1602
+1552	Papua New Guinea	East Asia & Pacific	2003	5803029	60	25
+1555	Philippines	East Asia & Pacific	2003	82293990	67	33
+1562	Samoa	East Asia & Pacific	2003	179141	70	92
+1570	Singapore	East Asia & Pacific	2003	4114800	79	903
+1573	Solomon Islands	East Asia & Pacific	2003	444344	65	45
+1587	Thailand	East Asia & Pacific	2003	65370277	73	78
+1588	Timor-Leste	East Asia & Pacific	2003	931324	58	33
+1590	Tonga	East Asia & Pacific	2003	99659	71	106
+1602	Vanuatu	East Asia & Pacific	2003	199968	69	58
+1604	Vietnam	East Asia & Pacific	2003	80468400	73	25
+1509	Japan	East Asia & Pacific	2003	127718000	82	2692
+1513	"Korea, Rep."	East Asia & Pacific	2003	47859000	77	697
+1485	France	Europe & Central Asia	2003	62242266	79	3159
+1489	Germany	Europe & Central Asia	2003	82534176	78	3207
+1507	Italy	Europe & Central Asia	2003	57604658	80	2184
+1560	Russian Federation	Europe & Central Asia	2003	144599446.8	65	167
+1430	Albania	Europe & Central Asia	2003	3106701	76	113
+1434	Armenia	Europe & Central Asia	2003	3060554	72	51
+1436	Austria	Europe & Central Asia	2003	8121423	79	3223
+1437	Azerbaijan	Europe & Central Asia	2003	8234100	68	57
+1442	Belarus	Europe & Central Asia	2003	9797000	69	118
+1443	Belgium	Europe & Central Asia	2003	10376133	78	3003
+1448	Bosnia and Herzegovina	Europe & Central Asia	2003	3782717	75	178
+1452	Bulgaria	Europe & Central Asia	2003	7823557	72	201
+1469	Croatia	Europe & Central Asia	2003	4440000	75	495
+1471	Cyprus	Europe & Central Asia	2003	998134	78	1235
+1472	Czech Republic	Europe & Central Asia	2003	10207362	75	666
+1473	Denmark	Europe & Central Asia	2003	5390574	77	3751
+1481	Estonia	Europe & Central Asia	2003	1353557	71	363
+1484	Finland	Europe & Central Asia	2003	5213014	78	2568
+1488	Georgia	Europe & Central Asia	2003	4328900	72	74
+1491	Greece	Europe & Central Asia	2003	11023514	79	1577
+1499	Hungary	Europe & Central Asia	2003	10129552	72	707
+1500	Iceland	Europe & Central Asia	2003	289521	81	4026
+1505	Ireland	Europe & Central Asia	2003	3996521	78	2908
+1511	Kazakhstan	Europe & Central Asia	2003	14909019	66	76
+1515	Kyrgyz Republic	Europe & Central Asia	2003	5043300	68	21
+1517	Latvia	Europe & Central Asia	2003	2325342	71	295
+1522	Lithuania	Europe & Central Asia	2003	3454205	72	351
+1523	Luxembourg	Europe & Central Asia	2003	451630	78	4949
+1524	"Macedonia, FYR"	Europe & Central Asia	2003	2027819	73	218
+1535	Moldova	Europe & Central Asia	2003	3612869	67	46
+1537	Montenegro	Europe & Central Asia	2003	627500	74	249
+1543	Netherlands	Europe & Central Asia	2003	16225302	78	3243
+1548	Norway	Europe & Central Asia	2003	4564855	79	4937
+1556	Poland	Europe & Central Asia	2003	38204570	75	354
+1557	Portugal	Europe & Central Asia	2003	10441075	77	1510
+1559	Romania	Europe & Central Asia	2003	21742013	71	146
+1563	San Marino	Europe & Central Asia	2003	29013	81	2835
+1567	Serbia	Europe & Central Asia	2003	7480591	72	230
+1571	Slovak Republic	Europe & Central Asia	2003	5379607	74	360
+1572	Slovenia	Europe & Central Asia	2003	1995733	77	1262
+1582	Sweden	Europe & Central Asia	2003	8958229	80	3271
+1585	Tajikistan	Europe & Central Asia	2003	6336724	65	11
+1594	Turkmenistan	Europe & Central Asia	2003	4647912	64	95
+1596	Ukraine	Europe & Central Asia	2003	47812950	68	73
+1601	Uzbekistan	Europe & Central Asia	2003	25567700	67	21
+1575	Spain	Europe & Central Asia	2003	42004522	80	1722
+1583	Switzerland	Europe & Central Asia	2003	7339001	81	4940
+1593	Turkey	Europe & Central Asia	2003	66339433	71	242
+1598	United Kingdom	Europe & Central Asia	2003	59566259	78	2429
+1433	Argentina	Latin America & Caribbean	2003	38001251	74	280
+1438	"Bahamas, The"	Latin America & Caribbean	2003	310201	73	1259
+1441	Barbados	Latin America & Caribbean	2003	269389	76	696
+1444	Belize	Latin America & Caribbean	2003	273700	74	169
+1447	Bolivia	Latin America & Caribbean	2003	8815911	64	51
+1450	Brazil	Latin America & Caribbean	2003	181633074	71	214
+1461	Chile	Latin America & Caribbean	2003	15959793	78	335
+1463	Colombia	Latin America & Caribbean	2003	41731914	72	134
+1467	Costa Rica	Latin America & Caribbean	2003	4160438	78	343
+1470	Cuba	Latin America & Caribbean	2003	11208029	77	202
+1475	Dominican Republic	Latin America & Caribbean	2003	8995398	72	144
+1476	Ecuador	Latin America & Caribbean	2003	12987992	74	168
+1478	El Salvador	Latin America & Caribbean	2003	6008523	70	183
+1492	Grenada	Latin America & Caribbean	2003	102195	74	359
+1493	Guatemala	Latin America & Caribbean	2003	12098576	69	115
+1496	Guyana	Latin America & Caribbean	2003	740925	66	56
+1497	Haiti	Latin America & Caribbean	2003	9075399	59	17
+1498	Honduras	Latin America & Caribbean	2003	6609337	71	103
+1508	Jamaica	Latin America & Caribbean	2003	2625700	71	162
+1533	Mexico	Latin America & Caribbean	2003	103902569	75	397
+1545	Nicaragua	Latin America & Caribbean	2003	5288271	71	62
+1551	Panama	Latin America & Caribbean	2003	3125565	75	315
+1553	Paraguay	Latin America & Caribbean	2003	5675754	71	71
+1554	Peru	Latin America & Caribbean	2003	26916342	72	103
+1577	St. Lucia	Latin America & Caribbean	2003	160620	74	294
+1578	St. Vincent and the Grenadines	Latin America & Caribbean	2003	108354	71	174
+1580	Suriname	Latin America & Caribbean	2003	486800	68	173
+1591	Trinidad and Tobago	Latin America & Caribbean	2003	1306065	68	425
+1600	Uruguay	Latin America & Caribbean	2003	3303539.568	75	351
+1603	"Venezuela, RB"	Latin America & Caribbean	2003	25674000	73	190
+1431	Algeria	Middle East & North Africa	2003	31913462	71	80
+1439	Bahrain	Middle East & North Africa	2003	647164	74	639
+1474	Djibouti	Middle East & North Africa	2003	779640	55	50
+1477	"Egypt, Arab Rep."	Middle East & North Africa	2003	71498433	71	56
+1503	"Iran, Islamic Rep."	Middle East & North Africa	2003	68061695	71	119
+1504	Iraq	Middle East & North Africa	2003	26234373	70	18
+1506	Israel	Middle East & North Africa	2003	6689700	80	1400
+1510	Jordan	Middle East & North Africa	2003	5164000	72	186
+1514	Kuwait	Middle East & North Africa	2003	2126786	74	727
+1518	Lebanon	Middle East & North Africa	2003	3935421	71	420
+1521	Libya	Middle East & North Africa	2003	5541062	73	183
+1530	Malta	Middle East & North Africa	2003	398582	78	1078
+1538	Morocco	Middle East & North Africa	2003	29770316	70	88
+1549	Oman	Middle East & North Africa	2003	2335967	74	294
+1558	Qatar	Middle East & North Africa	2003	653500	77	1490
+1565	Saudi Arabia	Middle East & North Africa	2003	22334371	72	387
+1584	Syrian Arab Republic	Middle East & North Africa	2003	17490104	75	60
+1592	Tunisia	Middle East & North Africa	2003	9839800	73	151
+1597	United Arab Emirates	Middle East & North Africa	2003	3400959	75	968
+1605	"Yemen, Rep."	Middle East & North Africa	2003	19419710	62	36
+1457	Canada	North America	2003	31676000	80	2677
+1599	United States	North America	2003	290107933	77	5989
+1429	Afghanistan	South Asia	2003	28255719	46	18
+1440	Bangladesh	South Asia	2003	136514768	66	11
+1446	Bhutan	South Asia	2003	624431	64	50
+1501	India	South Asia	2003	1105885689	63	24
+1528	Maldives	South Asia	2003	286665	73	200
+1542	Nepal	South Asia	2003	26143530	64	13
+1550	Pakistan	South Asia	2003	153139895	64	16
+1576	Sri Lanka	South Asia	2003	19173000	73	38
+1432	Angola	Sub-Saharan Africa	2003	15419943	47	37
+1445	Benin	Sub-Saharan Africa	2003	7164976	53	23
+1449	Botswana	Sub-Saharan Africa	2003	1830127	49	250
+1453	Burkina Faso	Sub-Saharan Africa	2003	13395599	51	18
+1454	Burundi	Sub-Saharan Africa	2003	6838764	47	6
+1456	Cameroon	Sub-Saharan Africa	2003	16783366	49	40
+1458	Cape Verde	Sub-Saharan Africa	2003	460031	71	88
+1459	Central African Republic	Sub-Saharan Africa	2003	3890075	44	13
+1460	Chad	Sub-Saharan Africa	2003	9153893	48	17
+1464	Comoros	Sub-Saharan Africa	2003	609271	59	20
+1465	"Congo, Dem. Rep."	Sub-Saharan Africa	2003	54098245	47	5
+1466	"Congo, Rep."	Sub-Saharan Africa	2003	3365171	55	27
+1468	Cote d'Ivoire	Sub-Saharan Africa	2003	17455501	51	30
+1479	Equatorial Guinea	Sub-Saharan Africa	2003	571999	49	125
+1480	Eritrea	Sub-Saharan Africa	2003	4145500	58	7
+1482	Ethiopia	Sub-Saharan Africa	2003	70784012	54	6
+1486	Gabon	Sub-Saharan Africa	2003	1317484	59	154
+1487	"Gambia, The"	Sub-Saharan Africa	2003	1417818	56	14
+1490	Ghana	Sub-Saharan Africa	2003	20610897	60	18
+1494	Guinea	Sub-Saharan Africa	2003	8743954	50	19
+1495	Guinea-Bissau	Sub-Saharan Africa	2003	1314795	46	20
+1512	Kenya	Sub-Saharan Africa	2003	33805301	52	20
+1519	Lesotho	Sub-Saharan Africa	2003	2028976	44	33
+1520	Liberia	Sub-Saharan Africa	2003	3037412	50	5
+1525	Madagascar	Sub-Saharan Africa	2003	16842482	62	11
+1526	Malawi	Sub-Saharan Africa	2003	12144945	47	13
+1529	Mali	Sub-Saharan Africa	2003	12380104	48	21
+1531	Mauritania	Sub-Saharan Africa	2003	2882003	57	24
+1532	Mauritius	Sub-Saharan Africa	2003	1222811	72	183
+1539	Mozambique	Sub-Saharan Africa	2003	19721009	48	15
+1541	Namibia	Sub-Saharan Africa	2003	2008342	57	160
+1546	Niger	Sub-Saharan Africa	2003	12118322	50	8
+1547	Nigeria	Sub-Saharan Africa	2003	133067097	48	38
+1561	Rwanda	Sub-Saharan Africa	2003	8857859	50	13
+1564	Sao Tome and Principe	Sub-Saharan Africa	2003	148038	63	78
+1566	Senegal	Sub-Saharan Africa	2003	10297956	57	36
+1568	Seychelles	Sub-Saharan Africa	2003	82800	71	415
+1569	Sierra Leone	Sub-Saharan Africa	2003	4730020	42	20
+1574	South Africa	Sub-Saharan Africa	2003	46116494	52	311
+1579	Sudan	Sub-Saharan Africa	2003	29445166	59	19
+1581	Swaziland	Sub-Saharan Africa	2003	1014765	46	98
+1586	Tanzania	Sub-Saharan Africa	2003	36788281	52	12
+1589	Togo	Sub-Saharan Africa	2003	5170252	55	18
+1595	Uganda	Sub-Saharan Africa	2003	26641627	48	18
+1606	Zambia	Sub-Saharan Africa	2003	10938261	43	26
+1613	Australia	East Asia & Pacific	2004	20127400	80	2872
+1640	China	East Asia & Pacific	2004	1296075000	72	70
+1629	Brunei Darussalam	East Asia & Pacific	2004	355943	77	667
+1633	Cambodia	East Asia & Pacific	2004	13193961	59	29
+1661	Fiji	East Asia & Pacific	2004	819102	68	119
+1680	Indonesia	East Asia & Pacific	2004	224606531	67	27
+1694	Lao PDR	East Asia & Pacific	2004	5667055	64	19
+1705	Malaysia	East Asia & Pacific	2004	25590453	73	190
+1712	"Micronesia, Fed. Sts."	East Asia & Pacific	2004	108926	68	228
+1714	Mongolia	East Asia & Pacific	2004	2514462	65	49
+1718	Myanmar	East Asia & Pacific	2004	46070248	63	5
+1722	New Zealand	East Asia & Pacific	2004	4087500	80	1974
+1730	Papua New Guinea	East Asia & Pacific	2004	5948135	60	30
+1733	Philippines	East Asia & Pacific	2004	83936698	67	35
+1740	Samoa	East Asia & Pacific	2004	179699	71	106
+1748	Singapore	East Asia & Pacific	2004	4166700	79	921
+1751	Solomon Islands	East Asia & Pacific	2004	456919	65	46
+1765	Thailand	East Asia & Pacific	2004	66060383	73	86
+1766	Timor-Leste	East Asia & Pacific	2004	974024	59	35
+1768	Tonga	East Asia & Pacific	2004	100286	71	115
+1780	Vanuatu	East Asia & Pacific	2004	205561	69	62
+1782	Vietnam	East Asia & Pacific	2004	81437700	73	31
+1687	Japan	East Asia & Pacific	2004	127761000	82	2913
+1691	"Korea, Rep."	East Asia & Pacific	2004	48039000	78	789
+1663	France	Europe & Central Asia	2004	62701871	80	3630
+1667	Germany	Europe & Central Asia	2004	82516260	79	3526
+1685	Italy	Europe & Central Asia	2004	58175310	81	2570
+1738	Russian Federation	Europe & Central Asia	2004	143849574.2	65	212
+1608	Albania	Europe & Central Asia	2004	3124861	76	152
+1612	Armenia	Europe & Central Asia	2004	3062612	73	64
+1614	Austria	Europe & Central Asia	2004	8171966	79	3720
+1615	Azerbaijan	Europe & Central Asia	2004	8306500	68	81
+1620	Belarus	Europe & Central Asia	2004	9730000	69	154
+1621	Belgium	Europe & Central Asia	2004	10421137	79	3514
+1626	Bosnia and Herzegovina	Europe & Central Asia	2004	3781358	75	243
+1630	Bulgaria	Europe & Central Asia	2004	7781161	73	238
+1647	Croatia	Europe & Central Asia	2004	4439000	76	614
+1649	Cyprus	Europe & Central Asia	2004	1015806	78	1353
+1650	Czech Republic	Europe & Central Asia	2004	10216016	76	771
+1651	Denmark	Europe & Central Asia	2004	5404523	77	4382
+1659	Estonia	Europe & Central Asia	2004	1349290	72	457
+1662	Finland	Europe & Central Asia	2004	5228172	79	2969
+1666	Georgia	Europe & Central Asia	2004	4318300	72	97
+1669	Greece	Europe & Central Asia	2004	11061701	79	1805
+1677	Hungary	Europe & Central Asia	2004	10107146	73	829
+1678	Iceland	Europe & Central Asia	2004	292074	81	4560
+1683	Ireland	Europe & Central Asia	2004	4070262	78	3449
+1689	Kazakhstan	Europe & Central Asia	2004	15012984	66	113
+1693	Kyrgyz Republic	Europe & Central Asia	2004	5104700	68	25
+1695	Latvia	Europe & Central Asia	2004	2312819	72	389
+1700	Lithuania	Europe & Central Asia	2004	3435591	72	374
+1701	Luxembourg	Europe & Central Asia	2004	458095	79	6107
+1702	"Macedonia, FYR"	Europe & Central Asia	2004	2033039	74	237
+1713	Moldova	Europe & Central Asia	2004	3603934	68	61
+1715	Montenegro	Europe & Central Asia	2004	626912	74	287
+1721	Netherlands	Europe & Central Asia	2004	16281779	79	3735
+1726	Norway	Europe & Central Asia	2004	4591910	80	5436
+1734	Poland	Europe & Central Asia	2004	38182222	75	411
+1735	Portugal	Europe & Central Asia	2004	10501970	78	1774
+1737	Romania	Europe & Central Asia	2004	21684890	72	191
+1741	San Marino	Europe & Central Asia	2004	29722	82	3359
+1745	Serbia	Europe & Central Asia	2004	7463157	73	274
+1749	Slovak Republic	Europe & Central Asia	2004	5382438	74	565
+1750	Slovenia	Europe & Central Asia	2004	1997012	77	1413
+1760	Sweden	Europe & Central Asia	2004	8993531	80	3659
+1753	Spain	Europe & Central Asia	2004	42691689	80	2013
+1763	Tajikistan	Europe & Central Asia	2004	6391120	65	14
+1772	Turkmenistan	Europe & Central Asia	2004	4696771	64	111
+1774	Ukraine	Europe & Central Asia	2004	47451600	68	91
+1779	Uzbekistan	Europe & Central Asia	2004	25864400	67	24
+1761	Switzerland	Europe & Central Asia	2004	7389625	81	5503
+1771	Turkey	Europe & Central Asia	2004	67235927	72	311
+1776	United Kingdom	Europe & Central Asia	2004	59867866	79	2943
+1611	Argentina	Latin America & Caribbean	2004	38340778	75	327
+1616	"Bahamas, The"	Latin America & Caribbean	2004	314739	73	1358
+1619	Barbados	Latin America & Caribbean	2004	269947	76	731
+1622	Belize	Latin America & Caribbean	2004	282600	74	171
+1625	Bolivia	Latin America & Caribbean	2004	8982917	64	52
+1628	Brazil	Latin America & Caribbean	2004	183873377	71	257
+1639	Chile	Latin America & Caribbean	2004	16132209	78	410
+1641	Colombia	Latin America & Caribbean	2004	42385712	72	153
+1645	Costa Rica	Latin America & Caribbean	2004	4235605	78	346
+1648	Cuba	Latin America & Caribbean	2004	11234970	77	209
+1653	Dominican Republic	Latin America & Caribbean	2004	9129965	72	121
+1654	Ecuador	Latin America & Caribbean	2004	13208869	75	182
+1656	El Salvador	Latin America & Caribbean	2004	6028792	70	189
+1670	Grenada	Latin America & Caribbean	2004	102455	75	336
+1671	Guatemala	Latin America & Caribbean	2004	12404764	69	124
+1674	Guyana	Latin America & Caribbean	2004	743743	67	57
+1675	Haiti	Latin America & Caribbean	2004	9212634	59	22
+1676	Honduras	Latin America & Caribbean	2004	6743128	71	104
+1686	Jamaica	Latin America & Caribbean	2004	2638100	71	183
+1711	Mexico	Latin America & Caribbean	2004	105175967	75	441
+1723	Nicaragua	Latin America & Caribbean	2004	5356012	72	66
+1729	Panama	Latin America & Caribbean	2004	3181969	75	360
+1731	Paraguay	Latin America & Caribbean	2004	5786836	71	82
+1732	Peru	Latin America & Caribbean	2004	27242033	72	112
+1755	St. Lucia	Latin America & Caribbean	2004	162434	73	325
+1756	St. Vincent and the Grenadines	Latin America & Caribbean	2004	108566	71	179
+1758	Suriname	Latin America & Caribbean	2004	493236	69	207
+1769	Trinidad and Tobago	Latin America & Caribbean	2004	1310622	68	491
+1778	Uruguay	Latin America & Caribbean	2004	3301732	75	350
+1781	"Venezuela, RB"	Latin America & Caribbean	2004	26127000	73	239
+1609	Algeria	Middle East & North Africa	2004	32396048	71	89
+1617	Bahrain	Middle East & North Africa	2004	671760	74	661
+1652	Djibouti	Middle East & North Africa	2004	793738	55	47
+1655	"Egypt, Arab Rep."	Middle East & North Africa	2004	72844998	71	57
+1681	"Iran, Islamic Rep."	Middle East & North Africa	2004	68893323	71	146
+1682	Iraq	Middle East & North Africa	2004	26907763	69	62
+1684	Israel	Middle East & North Africa	2004	6809000	80	1446
+1688	Jordan	Middle East & North Africa	2004	5290000	73	203
+1692	Kuwait	Middle East & North Africa	2004	2189485	74	748
+1696	Lebanon	Middle East & North Africa	2004	3998042	71	453
+1699	Libya	Middle East & North Africa	2004	5652797	73	195
+1708	Malta	Middle East & North Africa	2004	401268	79	1231
+1716	Morocco	Middle East & North Africa	2004	30082152	70	99
+1727	Oman	Middle East & North Africa	2004	2378336	74	310
+1736	Qatar	Middle East & North Africa	2004	715146	77	1599
+1743	Saudi Arabia	Middle East & North Africa	2004	23213767	72	398
+1762	Syrian Arab Republic	Middle East & North Africa	2004	18004797	75	61
+1770	Tunisia	Middle East & North Africa	2004	9932400	73	179
+1775	United Arab Emirates	Middle East & North Africa	2004	3658042	75	995
+1783	"Yemen, Rep."	Middle East & North Africa	2004	20026117	62	38
+1635	Canada	North America	2004	31995000	80	3036
+1777	United States	North America	2004	292805298	77	6349
+1607	Afghanistan	South Asia	2004	29068646	46	19
+1618	Bangladesh	South Asia	2004	138633401	67	13
+1624	Bhutan	South Asia	2004	642400	64	48
+1679	India	South Asia	2004	1122991192	63	29
+1706	Maldives	South Asia	2004	290988	74	218
+1720	Nepal	South Asia	2004	26717875	65	16
+1728	Pakistan	South Asia	2004	155860066	64	18
+1754	Sri Lanka	South Asia	2004	19435000	74	45
+1610	Angola	Sub-Saharan Africa	2004	15957460	48	54
+1623	Benin	Sub-Saharan Africa	2004	7397985	54	25
+1627	Botswana	Sub-Saharan Africa	2004	1852243	50	427
+1631	Burkina Faso	Sub-Saharan Africa	2004	13789736	52	23
+1632	Burundi	Sub-Saharan Africa	2004	7039534	47	9
+1634	Cameroon	Sub-Saharan Africa	2004	17165267	49	43
+1636	Cape Verde	Sub-Saharan Africa	2004	466784	72	100
+1637	Central African Republic	Sub-Saharan Africa	2004	3952281	44	13
+1638	Chad	Sub-Saharan Africa	2004	9474792	48	24
+1642	Comoros	Sub-Saharan Africa	2004	625876	59	24
+1643	"Congo, Dem. Rep."	Sub-Saharan Africa	2004	55754885	47	6
+1644	"Congo, Rep."	Sub-Saharan Africa	2004	3445765	55	34
+1646	Cote d'Ivoire	Sub-Saharan Africa	2004	17731840	51	37
+1657	Equatorial Guinea	Sub-Saharan Africa	2004	589794	49	189
+1658	Eritrea	Sub-Saharan Africa	2004	4318343	58	8
+1660	Ethiopia	Sub-Saharan Africa	2004	72526620	54	6
+1664	Gabon	Sub-Saharan Africa	2004	1344171	60	160
+1665	"Gambia, The"	Sub-Saharan Africa	2004	1460493	56	17
+1668	Ghana	Sub-Saharan Africa	2004	21119911	60	26
+1672	Guinea	Sub-Saharan Africa	2004	8889321	51	22
+1673	Guinea-Bissau	Sub-Saharan Africa	2004	1340814	46	21
+1690	Kenya	Sub-Saharan Africa	2004	34702176	52	20
+1697	Lesotho	Sub-Saharan Africa	2004	2047006	44	46
+1698	Liberia	Sub-Saharan Africa	2004	3092721	51	13
+1703	Madagascar	Sub-Saharan Africa	2004	17357913	63	9
+1704	Malawi	Sub-Saharan Africa	2004	12472794	48	16
+1707	Mali	Sub-Saharan Africa	2004	12772264	49	24
+1709	Mauritania	Sub-Saharan Africa	2004	2964526	57	29
+1710	Mauritius	Sub-Saharan Africa	2004	1233386	72	220
+1717	Mozambique	Sub-Saharan Africa	2004	20246287	48	17
+1719	Namibia	Sub-Saharan Africa	2004	2043339	58	209
+1724	Niger	Sub-Saharan Africa	2004	12546945	51	9
+1725	Nigeria	Sub-Saharan Africa	2004	136399438	48	45
+1739	Rwanda	Sub-Saharan Africa	2004	9009655	51	14
+1742	Sao Tome and Principe	Sub-Saharan Africa	2004	150311	63	79
+1744	Senegal	Sub-Saharan Africa	2004	10581316	57	43
+1746	Seychelles	Sub-Saharan Africa	2004	82500	73	436
+1747	Sierra Leone	Sub-Saharan Africa	2004	4952134	43	34
+1752	South Africa	Sub-Saharan Africa	2004	46664771	51	413
+1757	Sudan	Sub-Saharan Africa	2004	30101696	59	24
+1759	Swaziland	Sub-Saharan Africa	2004	1016094	46	130
+1764	Tanzania	Sub-Saharan Africa	2004	37786946	53	12
+1767	Togo	Sub-Saharan Africa	2004	5288273	55	22
+1773	Uganda	Sub-Saharan Africa	2004	27521632	49	24
+1784	Zambia	Sub-Saharan Africa	2004	11192422	44	32
+1791	Australia	East Asia & Pacific	2005	20394800	81	3136
+1818	China	East Asia & Pacific	2005	1303720000	72	80
+1807	Brunei Darussalam	East Asia & Pacific	2005	363123	77	691
+1811	Cambodia	East Asia & Pacific	2005	13357574	60	33
+1839	Fiji	East Asia & Pacific	2005	822553	69	132
+1858	Indonesia	East Asia & Pacific	2005	227303175	67	36
+1869	Kiribati	East Asia & Pacific	2005	91988	61	116
+1873	Lao PDR	East Asia & Pacific	2005	5753341	64	20
+1884	Malaysia	East Asia & Pacific	2005	26100241	73	188
+1891	"Micronesia, Fed. Sts."	East Asia & Pacific	2005	109419	68	277
+1893	Mongolia	East Asia & Pacific	2005	2547339	66	52
+1897	Myanmar	East Asia & Pacific	2005	46321162	63	5
+1901	New Zealand	East Asia & Pacific	2005	4133900	80	2288
+1908	Palau	East Asia & Pacific	2005	19906	69	798
+1910	Papua New Guinea	East Asia & Pacific	2005	6095437	61	32
+1913	Philippines	East Asia & Pacific	2005	85546427	67	42
+1920	Samoa	East Asia & Pacific	2005	180237	71	114
+1928	Singapore	East Asia & Pacific	2005	4265800	80	1175
+1931	Solomon Islands	East Asia & Pacific	2005	469805	65	69
+1945	Thailand	East Asia & Pacific	2005	66698483	73	94
+1946	Timor-Leste	East Asia & Pacific	2005	983125	60	46
+1948	Tonga	East Asia & Pacific	2005	100926	71	167
+1960	Vanuatu	East Asia & Pacific	2005	211170	69	61
+1962	Vietnam	East Asia & Pacific	2005	82393500	74	37
+1865	Japan	East Asia & Pacific	2005	127773000	82	2928
+1870	"Korea, Rep."	East Asia & Pacific	2005	48138000	78	994
+1841	France	Europe & Central Asia	2005	63175934	80	3785
+1845	Germany	Europe & Central Asia	2005	82469422	79	3625
+1863	Italy	Europe & Central Asia	2005	58607043	81	2712
+1918	Russian Federation	Europe & Central Asia	2005	143150000	65	277
+1933	Spain	Europe & Central Asia	2005	43398143	80	2163
+1786	Albania	Europe & Central Asia	2005	3141800	76	162
+1790	Armenia	Europe & Central Asia	2005	3065954	73	78
+1792	Austria	Europe & Central Asia	2005	8227829	79	3863
+1793	Azerbaijan	Europe & Central Asia	2005	8391850	69	121
+1798	Belarus	Europe & Central Asia	2005	9663000	69	212
+1799	Belgium	Europe & Central Asia	2005	10478617	79	3634
+1804	Bosnia and Herzegovina	Europe & Central Asia	2005	3781001	75	252
+1808	Bulgaria	Europe & Central Asia	2005	7739900	73	274
+1825	Croatia	Europe & Central Asia	2005	4442000	75	705
+1827	Cyprus	Europe & Central Asia	2005	1032562	79	1434
+1828	Czech Republic	Europe & Central Asia	2005	10235828	76	881
+1829	Denmark	Europe & Central Asia	2005	5419432	78	4646
+1837	Estonia	Europe & Central Asia	2005	1346097	73	518
+1840	Finland	Europe & Central Asia	2005	5246096	79	3146
+1844	Georgia	Europe & Central Asia	2005	4361200	73	123
+1847	Greece	Europe & Central Asia	2005	11103965	79	2089
+1855	Hungary	Europe & Central Asia	2005	10087065	73	924
+1856	Iceland	Europe & Central Asia	2005	296734	82	5231
+1861	Ireland	Europe & Central Asia	2005	4159914	78	3693
+1867	Kazakhstan	Europe & Central Asia	2005	15147029	66	153
+1872	Kyrgyz Republic	Europe & Central Asia	2005	5162600	68	28
+1874	Latvia	Europe & Central Asia	2005	2300512	71	443
+1879	Lithuania	Europe & Central Asia	2005	3414304	71	446
+1880	Luxembourg	Europe & Central Asia	2005	465158	79	6435
+1881	"Macedonia, FYR"	Europe & Central Asia	2005	2038109	74	238
+1892	Moldova	Europe & Central Asia	2005	3595182	68	76
+1894	Montenegro	Europe & Central Asia	2005	626739	74	313
+1900	Netherlands	Europe & Central Asia	2005	16319868	79	3846
+1905	Norway	Europe & Central Asia	2005	4623291	80	5944
+1914	Poland	Europe & Central Asia	2005	38165445	75	495
+1915	Portugal	Europe & Central Asia	2005	10549424	78	1883
+1917	Romania	Europe & Central Asia	2005	21634371	72	252
+1921	San Marino	Europe & Central Asia	2005	30301	82	3399
+1925	Serbia	Europe & Central Asia	2005	7440769	73	307
+1929	Slovak Republic	Europe & Central Asia	2005	5387001	74	626
+1930	Slovenia	Europe & Central Asia	2005	2000474	78	1491
+1940	Sweden	Europe & Central Asia	2005	9029572	81	3719
+1943	Tajikistan	Europe & Central Asia	2005	6453240	66	17
+1952	Turkmenistan	Europe & Central Asia	2005	4747839	64	107
+1954	Ukraine	Europe & Central Asia	2005	47105150	68	118
+1959	Uzbekistan	Europe & Central Asia	2005	26167000	67	27
+1941	Switzerland	Europe & Central Asia	2005	7437115	81	5572
+1951	Turkey	Europe & Central Asia	2005	68143186	72	384
+1956	United Kingdom	Europe & Central Asia	2005	60224307	79	3122
+1789	Argentina	Latin America & Caribbean	2005	38681174	75	394
+1794	"Bahamas, The"	Latin America & Caribbean	2005	319358	74	1437
+1797	Barbados	Latin America & Caribbean	2005	270503	76	773
+1800	Belize	Latin America & Caribbean	2005	291800	75	178
+1803	Bolivia	Latin America & Caribbean	2005	9146655	65	58
+1806	Brazil	Latin America & Caribbean	2005	185986964	72	387
+1817	Chile	Latin America & Caribbean	2005	16301726	78	493
+1819	Colombia	Latin America & Caribbean	2005	43040558	72	205
+1823	Costa Rica	Latin America & Caribbean	2005	4309413	79	364
+1826	Cuba	Latin America & Caribbean	2005	11254242	78	306
+1831	Dominican Republic	Latin America & Caribbean	2005	9264267	72	190
+1832	Ecuador	Latin America & Caribbean	2005	13426402	75	195
+1834	El Salvador	Latin America & Caribbean	2005	6050513	71	201
+1848	Grenada	Latin America & Caribbean	2005	102734	75	412
+1849	Guatemala	Latin America & Caribbean	2005	12717154	70	138
+1852	Guyana	Latin America & Caribbean	2005	746235	67	60
+1853	Haiti	Latin America & Caribbean	2005	9347262	60	20
+1854	Honduras	Latin America & Caribbean	2005	6879243	71	109
+1864	Jamaica	Latin America & Caribbean	2005	2650400	71	171
+1890	Mexico	Latin America & Caribbean	2005	106483757	75	478
+1902	Nicaragua	Latin America & Caribbean	2005	5424336	72	71
+1909	Panama	Latin America & Caribbean	2005	3238321	75	357
+1911	Paraguay	Latin America & Caribbean	2005	5897816	71	82
+1912	Peru	Latin America & Caribbean	2005	27558769	72	128
+1935	St. Lucia	Latin America & Caribbean	2005	164330	73	342
+1936	St. Vincent and the Grenadines	Latin America & Caribbean	2005	108755	71	185
+1938	Suriname	Latin America & Caribbean	2005	499294	69	243
+1949	Trinidad and Tobago	Latin America & Caribbean	2005	1315386	69	688
+1958	Uruguay	Latin America & Caribbean	2005	3305723	76	431
+1961	"Venezuela, RB"	Latin America & Caribbean	2005	26577000	73	296
+1787	Algeria	Middle East & North Africa	2005	32888449	72	96
+1795	Bahrain	Middle East & North Africa	2005	724807	74	697
+1830	Djibouti	Middle East & North Africa	2005	808367	56	63
+1833	"Egypt, Arab Rep."	Middle East & North Africa	2005	74203215	72	65
+1859	"Iran, Islamic Rep."	Middle East & North Africa	2005	69732007	71	179
+1860	Iraq	Middle East & North Africa	2005	27598437	68	62
+1862	Israel	Middle East & North Africa	2005	6930100	80	1502
+1866	Jordan	Middle East & North Africa	2005	5411500	73	206
+1871	Kuwait	Middle East & North Africa	2005	2264014	74	849
+1875	Lebanon	Middle East & North Africa	2005	4052420	71	434
+1878	Libya	Middle East & North Africa	2005	5769709	74	211
+1887	Malta	Middle East & North Africa	2005	403837	80	1385
+1895	Morocco	Middle East & North Africa	2005	30392473	70	99
+1906	Oman	Middle East & North Africa	2005	2429510	74	331
+1916	Qatar	Middle East & North Africa	2005	820986	77	1633
+1923	Saudi Arabia	Middle East & North Africa	2005	24041116	73	465
+1942	Syrian Arab Republic	Middle East & North Africa	2005	18484122	75	63
+1950	Tunisia	Middle East & North Africa	2005	10029000	74	181
+1955	United Arab Emirates	Middle East & North Africa	2005	4069349	76	1030
+1963	"Yemen, Rep."	Middle East & North Africa	2005	20648643	63	42
+1813	Canada	North America	2005	32312000	80	3453
+1957	United States	North America	2005	295516599	77	6728
+1785	Afghanistan	South Asia	2005	29904962	47	21
+1796	Bangladesh	South Asia	2005	140587922	67	13
+1802	Bhutan	South Asia	2005	659293	65	54
+1857	India	South Asia	2005	1140042863	63	31
+1885	Maldives	South Asia	2005	295240	74	237
+1899	Nepal	South Asia	2005	27281945	66	19
+1907	Pakistan	South Asia	2005	158645463	64	19
+1934	Sri Lanka	South Asia	2005	19644000	74	51
+1788	Angola	Sub-Saharan Africa	2005	16489021	49	66
+1801	Benin	Sub-Saharan Africa	2005	7633757	54	27
+1805	Botswana	Sub-Saharan Africa	2005	1875673	50	393
+1809	Burkina Faso	Sub-Saharan Africa	2005	14198463	52	26
+1810	Burundi	Sub-Saharan Africa	2005	7251424	48	15
+1812	Cameroon	Sub-Saharan Africa	2005	17553589	49	45
+1814	Cape Verde	Sub-Saharan Africa	2005	472883	72	104
+1815	Central African Republic	Sub-Saharan Africa	2005	4017880	44	15
+1816	Chad	Sub-Saharan Africa	2005	9785902	48	26
+1820	Comoros	Sub-Saharan Africa	2005	642974	59	27
+1821	"Congo, Dem. Rep."	Sub-Saharan Africa	2005	57420522	47	7
+1822	"Congo, Rep."	Sub-Saharan Africa	2005	3533177	55	42
+1824	Cote d'Ivoire	Sub-Saharan Africa	2005	18020946	52	39
+1835	Equatorial Guinea	Sub-Saharan Africa	2005	607739	49	230
+1836	Eritrea	Sub-Saharan Africa	2005	4486155	59	7
+1838	Ethiopia	Sub-Saharan Africa	2005	74263861	55	7
+1842	Gabon	Sub-Saharan Africa	2005	1370729	60	164
+1843	"Gambia, The"	Sub-Saharan Africa	2005	1503678	57	19
+1846	Ghana	Sub-Saharan Africa	2005	21639806	61	35
+1850	Guinea	Sub-Saharan Africa	2005	9041448	51	17
+1851	Guinea-Bissau	Sub-Saharan Africa	2005	1367695	46	23
+1868	Kenya	Sub-Saharan Africa	2005	35614576	53	23
+1876	Lesotho	Sub-Saharan Africa	2005	2065752	44	46
+1877	Liberia	Sub-Saharan Africa	2005	3182539	52	14
+1882	Madagascar	Sub-Saharan Africa	2005	17885967	64	10
+1883	Malawi	Sub-Saharan Africa	2005	12822587	49	18
+1886	Mali	Sub-Saharan Africa	2005	13176642	49	26
+1888	Mauritania	Sub-Saharan Africa	2005	3047249	57	30
+1889	Mauritius	Sub-Saharan Africa	2005	1243253	72	232
+1896	Mozambique	Sub-Saharan Africa	2005	20770013	48	22
+1898	Namibia	Sub-Saharan Africa	2005	2079951	59	256
+1903	Niger	Sub-Saharan Africa	2005	12993884	52	15
+1904	Nigeria	Sub-Saharan Africa	2005	139823340	49	53
+1919	Rwanda	Sub-Saharan Africa	2005	9201727	52	18
+1922	Sao Tome and Principe	Sub-Saharan Africa	2005	152622	63	82
+1924	Senegal	Sub-Saharan Africa	2005	10871908	57	43
+1926	Seychelles	Sub-Saharan Africa	2005	82900	72	441
+1927	Sierra Leone	Sub-Saharan Africa	2005	5153435	44	39
+1932	South Africa	Sub-Saharan Africa	2005	47198469	51	455
+1937	Sudan	Sub-Saharan Africa	2005	30777563	60	28
+1939	Swaziland	Sub-Saharan Africa	2005	1017425	46	159
+1944	Tanzania	Sub-Saharan Africa	2005	38831024	53	15
+1947	Togo	Sub-Saharan Africa	2005	5408044	55	26
+1953	Uganda	Sub-Saharan Africa	2005	28431204	50	29
+1964	Zambia	Sub-Saharan Africa	2005	11462365	44	44
+1971	Australia	East Asia & Pacific	2006	20697900	81	3330
+1998	China	East Asia & Pacific	2006	1311020000	72	93
+1987	Brunei Darussalam	East Asia & Pacific	2006	370317	77	711
+1991	Cambodia	East Asia & Pacific	2006	13515884	61	30
+2045	Japan	East Asia & Pacific	2006	127756000	82	2796
+2019	Fiji	East Asia & Pacific	2006	828046	69	144
+2038	Indonesia	East Asia & Pacific	2006	229918547	67	47
+2052	Lao PDR	East Asia & Pacific	2006	5841572	65	25
+2063	Malaysia	East Asia & Pacific	2006	26586287	73	230
+2070	"Micronesia, Fed. Sts."	East Asia & Pacific	2006	109789	68	275
+2072	Mongolia	East Asia & Pacific	2006	2584143	67	63
+2076	Myanmar	East Asia & Pacific	2006	46605278	63	6
+2080	New Zealand	East Asia & Pacific	2006	4184600	80	2295
+2088	Papua New Guinea	East Asia & Pacific	2006	6244916	61	31
+2091	Philippines	East Asia & Pacific	2006	87116275	68	48
+2098	Samoa	East Asia & Pacific	2006	180766	71	129
+2106	Singapore	East Asia & Pacific	2006	4401400	80	1275
+2109	Solomon Islands	East Asia & Pacific	2006	483000	66	63
+2123	Thailand	East Asia & Pacific	2006	67276383	73	108
+2124	Timor-Leste	East Asia & Pacific	2006	1014439	60	50
+2126	Tonga	East Asia & Pacific	2006	101584	72	159
+2138	Vanuatu	East Asia & Pacific	2006	216760	70	72
+2140	Vietnam	East Asia & Pacific	2006	83313000	74	47
+2049	"Korea, Rep."	East Asia & Pacific	2006	48372000	79	1190
+2021	France	Europe & Central Asia	2006	63617567	81	3947
+2025	Germany	Europe & Central Asia	2006	82376451	79	3747
+2043	Italy	Europe & Central Asia	2006	58941499	81	2851
+2096	Russian Federation	Europe & Central Asia	2006	142500000	67	366
+2111	Spain	Europe & Central Asia	2006	44116441	81	2358
+1966	Albania	Europe & Central Asia	2006	3156607	76	171
+1970	Armenia	Europe & Central Asia	2006	3069844	73	87
+1972	Austria	Europe & Central Asia	2006	8268641	80	4016
+1973	Azerbaijan	Europe & Central Asia	2006	8484550	69	149
+1978	Belarus	Europe & Central Asia	2006	9604000	69	240
+1979	Belgium	Europe & Central Asia	2006	10547958	79	3632
+1984	Bosnia and Herzegovina	Europe & Central Asia	2006	3781588	75	282
+1988	Bulgaria	Europe & Central Asia	2006	7699020	73	297
+2005	Croatia	Europe & Central Asia	2006	4440000	76	790
+2007	Cyprus	Europe & Central Asia	2006	1048272	79	1494
+2008	Czech Republic	Europe & Central Asia	2006	10269134	77	967
+2009	Denmark	Europe & Central Asia	2006	5437272	78	5008
+2017	Estonia	Europe & Central Asia	2006	1343547	73	627
+2020	Finland	Europe & Central Asia	2006	5266268	79	3295
+2024	Georgia	Europe & Central Asia	2006	4398000	73	146
+2027	Greece	Europe & Central Asia	2006	11148460	79	2289
+2035	Hungary	Europe & Central Asia	2006	10071370	73	923
+2036	Iceland	Europe & Central Asia	2006	303782	81	5067
+2041	Ireland	Europe & Central Asia	2006	4260341	79	3926
+2047	Kazakhstan	Europe & Central Asia	2006	15308085	66	209
+2051	Kyrgyz Republic	Europe & Central Asia	2006	5218400	68	38
+2053	Latvia	Europe & Central Asia	2006	2287948	71	590
+2058	Lithuania	Europe & Central Asia	2006	3394082	71	552
+2059	Luxembourg	Europe & Central Asia	2006	472637	79	6982
+2060	"Macedonia, FYR"	Europe & Central Asia	2006	2043091	74	252
+2071	Moldova	Europe & Central Asia	2006	3585520	68	101
+2073	Montenegro	Europe & Central Asia	2006	627074	74	355
+2079	Netherlands	Europe & Central Asia	2006	16346101	80	4032
+2084	Norway	Europe & Central Asia	2006	4660677	80	6248
+2092	Poland	Europe & Central Asia	2006	38141267	75	555
+2093	Portugal	Europe & Central Asia	2006	10584344	78	1913
+2095	Romania	Europe & Central Asia	2006	21587666	72	290
+2099	San Marino	Europe & Central Asia	2006	30721	82	3444
+2103	Serbia	Europe & Central Asia	2006	7411569	73	371
+2107	Slovak Republic	Europe & Central Asia	2006	5391409	74	760
+2108	Slovenia	Europe & Central Asia	2006	2006868	78	1605
+2118	Sweden	Europe & Central Asia	2006	9080505	81	3932
+2121	Tajikistan	Europe & Central Asia	2006	6524634	66	21
+2130	Turkmenistan	Europe & Central Asia	2006	4801847	65	98
+2132	Ukraine	Europe & Central Asia	2006	46787750	68	148
+2137	Uzbekistan	Europe & Central Asia	2006	26488200	67	36
+2119	Switzerland	Europe & Central Asia	2006	7483934	81	5569
+2129	Turkey	Europe & Central Asia	2006	69063538	72	445
+2134	United Kingdom	Europe & Central Asia	2006	60595632	79	3415
+1969	Argentina	Latin America & Caribbean	2006	39023850	75	453
+1974	"Bahamas, The"	Latin America & Caribbean	2006	324066	74	1704
+1977	Barbados	Latin America & Caribbean	2006	271062	76	838
+1980	Belize	Latin America & Caribbean	2006	301386	75	188
+1983	Bolivia	Latin America & Caribbean	2006	9306660	65	59
+1986	Brazil	Latin America & Caribbean	2006	187958211	72	492
+1997	Chile	Latin America & Caribbean	2006	16468677	78	585
+1999	Colombia	Latin America & Caribbean	2006	43696540	73	241
+2003	Costa Rica	Latin America & Caribbean	2006	4381820	79	410
+2006	Cuba	Latin America & Caribbean	2006	11265124	78	360
+2011	Dominican Republic	Latin America & Caribbean	2006	9398285	72	199
+2012	Ecuador	Latin America & Caribbean	2006	13639708	75	222
+2014	El Salvador	Latin America & Caribbean	2006	6074487	71	203
+2028	Grenada	Latin America & Caribbean	2006	103037	75	436
+2029	Guatemala	Latin America & Caribbean	2006	13034904	70	170
+2032	Guyana	Latin America & Caribbean	2006	748321	68	82
+2033	Haiti	Latin America & Caribbean	2006	9479136	60	29
+2034	Honduras	Latin America & Caribbean	2006	7017769	72	119
+2044	Jamaica	Latin America & Caribbean	2006	2663100	72	187
+2069	Mexico	Latin America & Caribbean	2006	107835259	76	515
+2081	Nicaragua	Latin America & Caribbean	2006	5493527	72	78
+2087	Panama	Latin America & Caribbean	2006	3294583	75	364
+2089	Paraguay	Latin America & Caribbean	2006	6008597	71	101
+2090	Peru	Latin America & Caribbean	2006	27866387	73	150
+2113	St. Lucia	Latin America & Caribbean	2006	166387	73	390
+2114	St. Vincent and the Grenadines	Latin America & Caribbean	2006	108918	71	218
+2116	Suriname	Latin America & Caribbean	2006	504913	69	323
+2127	Trinidad and Tobago	Latin America & Caribbean	2006	1320418	69	690
+2136	Uruguay	Latin America & Caribbean	2006	3314466	76	491
+2139	"Venezuela, RB"	Latin America & Caribbean	2006	27031000	73	388
+1967	Algeria	Middle East & North Africa	2006	33391954	72	110
+1975	Bahrain	Middle East & North Africa	2006	811410	75	704
+2010	Djibouti	Middle East & North Africa	2006	823682	56	66
+2013	"Egypt, Arab Rep."	Middle East & North Africa	2006	75568453	72	75
+2039	"Iran, Islamic Rep."	Middle East & North Africa	2006	70582086	72	205
+2040	Iraq	Middle East & North Africa	2006	28432904	68	66
+2042	Israel	Middle East & North Africa	2006	7053700	85	1560
+2046	Jordan	Middle East & North Africa	2006	5537000	73	218
+2050	Kuwait	Middle East & North Africa	2006	2351441	74	973
+2054	Lebanon	Middle East & North Africa	2006	4097457	72	438
+2057	Libya	Middle East & North Africa	2006	5893738	74	226
+2066	Malta	Middle East & North Africa	2006	406408	79	1465
+2074	Morocco	Middle East & North Africa	2006	30702084	71	112
+2085	Oman	Middle East & North Africa	2006	2490620	73	346
+2094	Qatar	Middle East & North Africa	2006	978336	77	1607
+2101	Saudi Arabia	Middle East & North Africa	2006	24799436	73	537
+2120	Syrian Arab Republic	Middle East & North Africa	2006	18860939	75	66
+2128	Tunisia	Middle East & North Africa	2006	10127900	74	194
+2133	United Arab Emirates	Middle East & North Africa	2006	4662728	76	1109
+2141	"Yemen, Rep."	Middle East & North Africa	2006	21288070	63	52
+1993	Canada	North America	2006	32576074	81	3912
+2135	United States	North America	2006	298379912	78	7107
+1965	Afghanistan	South Asia	2006	30751661	47	23
+1976	Bangladesh	South Asia	2006	142353501	67	14
+1982	Bhutan	South Asia	2006	674681	65	59
+2037	India	South Asia	2006	1157038539	64	33
+2064	Maldives	South Asia	2006	299419	75	290
+2078	Nepal	South Asia	2006	27833665	66	19
+2086	Pakistan	South Asia	2006	161513324	64	22
+2112	Sri Lanka	South Asia	2006	19858000	74	58
+1968	Angola	Sub-Saharan Africa	2006	17010366	49	112
+1981	Benin	Sub-Saharan Africa	2006	7871707	54	28
+1985	Botswana	Sub-Saharan Africa	2006	1900905	51	368
+1989	Burkina Faso	Sub-Saharan Africa	2006	14622202	53	26
+1990	Burundi	Sub-Saharan Africa	2006	7474363	48	20
+1992	Cameroon	Sub-Saharan Africa	2006	17948395	50	47
+1994	Cape Verde	Sub-Saharan Africa	2006	478267	73	126
+1995	Central African Republic	Sub-Saharan Africa	2006	4087534	45	15
+1996	Chad	Sub-Saharan Africa	2006	10084087	48	24
+2000	Comoros	Sub-Saharan Africa	2006	660559	59	29
+2001	"Congo, Dem. Rep."	Sub-Saharan Africa	2006	59088415	47	8
+2002	"Congo, Rep."	Sub-Saharan Africa	2006	3628561	55	51
+2004	Cote d'Ivoire	Sub-Saharan Africa	2006	18325979	52	44
+2015	Equatorial Guinea	Sub-Saharan Africa	2006	625777	50	279
+2016	Eritrea	Sub-Saharan Africa	2006	4645837	59	8
+2018	Ethiopia	Sub-Saharan Africa	2006	75993403	56	8
+2022	Gabon	Sub-Saharan Africa	2006	1397192	60	191
+2023	"Gambia, The"	Sub-Saharan Africa	2006	1547259	57	19
+2026	Ghana	Sub-Saharan Africa	2006	22170556	62	47
+2030	Guinea	Sub-Saharan Africa	2006	9201941	52	18
+2031	Guinea-Bissau	Sub-Saharan Africa	2006	1395492	46	24
+2048	Kenya	Sub-Saharan Africa	2006	36540948	54	28
+2055	Lesotho	Sub-Saharan Africa	2006	2085561	45	53
+2056	Liberia	Sub-Saharan Africa	2006	3313718	53	19
+2061	Madagascar	Sub-Saharan Africa	2006	18426870	65	12
+2062	Malawi	Sub-Saharan Africa	2006	13195329	50	21
+2065	Mali	Sub-Saharan Africa	2006	13592796	49	30
+2067	Mauritania	Sub-Saharan Africa	2006	3129959	57	31
+2068	Mauritius	Sub-Saharan Africa	2006	1252698	72	262
+2075	Mozambique	Sub-Saharan Africa	2006	21290952	48	22
+2077	Namibia	Sub-Saharan Africa	2006	2118653	59	271
+2082	Niger	Sub-Saharan Africa	2006	13460138	52	16
+2083	Nigeria	Sub-Saharan Africa	2006	143338939	50	61
+2097	Rwanda	Sub-Saharan Africa	2006	9441406	53	33
+2100	Sao Tome and Principe	Sub-Saharan Africa	2006	154970	63	70
+2102	Senegal	Sub-Saharan Africa	2006	11169549	58	49
+2104	Seychelles	Sub-Saharan Africa	2006	84600	72	458
+2105	Sierra Leone	Sub-Saharan Africa	2006	5327364	45	38
+2110	South Africa	Sub-Saharan Africa	2006	47730946	51	461
+2115	Sudan	Sub-Saharan Africa	2006	31400127	60	45
+2117	Swaziland	Sub-Saharan Africa	2006	1018758	46	179
+2122	Tanzania	Sub-Saharan Africa	2006	39923609	54	23
+2125	Togo	Sub-Saharan Africa	2006	5529908	55	26
+2131	Uganda	Sub-Saharan Africa	2006	29370251	51	32
+2142	Zambia	Sub-Saharan Africa	2006	11750105	45	58
+2149	Australia	East Asia & Pacific	2007	21015900	81	3956
+2176	China	East Asia & Pacific	2007	1317885000	73	114
+2223	Japan	East Asia & Pacific	2007	127770750	83	2806
+2165	Brunei Darussalam	East Asia & Pacific	2007	377513	78	783
+2169	Cambodia	East Asia & Pacific	2007	13669857	61	28
+2197	Fiji	East Asia & Pacific	2007	835267	69	152
+2216	Indonesia	East Asia & Pacific	2007	232461746	68	58
+2230	Lao PDR	East Asia & Pacific	2007	5931385	66	29
+2241	Malaysia	East Asia & Pacific	2007	27051142	73	262
+2248	"Micronesia, Fed. Sts."	East Asia & Pacific	2007	110092	68	279
+2250	Mongolia	East Asia & Pacific	2007	2624509	67	85
+2254	Myanmar	East Asia & Pacific	2007	46915826	63	7
+2258	New Zealand	East Asia & Pacific	2007	4228300	80	2694
+2266	Papua New Guinea	East Asia & Pacific	2007	6396307	61	41
+2269	Philippines	East Asia & Pacific	2007	88652631	68	66
+2276	Samoa	East Asia & Pacific	2007	181277	72	165
+2284	Singapore	East Asia & Pacific	2007	4588600	80	1449
+2287	Solomon Islands	East Asia & Pacific	2007	496490	66	68
+2301	Thailand	East Asia & Pacific	2007	67796451	73	130
+2302	Timor-Leste	East Asia & Pacific	2007	1046030	61	50
+2304	Tonga	East Asia & Pacific	2007	102254	72	205
+2316	Vanuatu	East Asia & Pacific	2007	222377	70	110
+2318	Vietnam	East Asia & Pacific	2007	84221100	74	58
+2227	"Korea, Rep."	East Asia & Pacific	2007	48598000	79	1361
+2199	France	Europe & Central Asia	2007	64012051	81	4483
+2203	Germany	Europe & Central Asia	2007	82266372	80	4230
+2221	Italy	Europe & Central Asia	2007	59375289	81	3095
+2274	Russian Federation	Europe & Central Asia	2007	142100000	67	488
+2289	Spain	Europe & Central Asia	2007	44878945	81	2729
+2144	Albania	Europe & Central Asia	2007	3169665	76	206
+2148	Armenia	Europe & Central Asia	2007	3074181	73	116
+2150	Austria	Europe & Central Asia	2007	8300788	80	4636
+2151	Azerbaijan	Europe & Central Asia	2007	8581300	70	191
+2156	Belarus	Europe & Central Asia	2007	9560000	70	300
+2157	Belgium	Europe & Central Asia	2007	10625700	80	4155
+2162	Bosnia and Herzegovina	Europe & Central Asia	2007	3779034	75	349
+2166	Bulgaria	Europe & Central Asia	2007	7659764	73	375
+2183	Croatia	Europe & Central Asia	2007	4436000	76	1008
+2185	Cyprus	Europe & Central Asia	2007	1063027	79	1691
+2186	Czech Republic	Europe & Central Asia	2007	10334160	77	1140
+2187	Denmark	Europe & Central Asia	2007	5461438	78	5696
+2195	Estonia	Europe & Central Asia	2007	1341672	73	845
+2198	Finland	Europe & Central Asia	2007	5288720	79	3744
+2202	Georgia	Europe & Central Asia	2007	4388400	73	188
+2297	Switzerland	Europe & Central Asia	2007	7551117	82	6051
+2205	Greece	Europe & Central Asia	2007	11192763	79	2677
+2213	Hungary	Europe & Central Asia	2007	10055780	73	1039
+2214	Iceland	Europe & Central Asia	2007	311566	81	6030
+2219	Ireland	Europe & Central Asia	2007	4356931	79	4552
+2225	Kazakhstan	Europe & Central Asia	2007	15484192	67	232
+2229	Kyrgyz Republic	Europe & Central Asia	2007	5268400	68	51
+2231	Latvia	Europe & Central Asia	2007	2276100	71	883
+2236	Lithuania	Europe & Central Asia	2007	3375618	71	725
+2237	Luxembourg	Europe & Central Asia	2007	479993	79	7625
+2238	"Macedonia, FYR"	Europe & Central Asia	2007	2047922	74	274
+2249	Moldova	Europe & Central Asia	2007	3576904	68	134
+2251	Montenegro	Europe & Central Asia	2007	627962	74	458
+2257	Netherlands	Europe & Central Asia	2007	16381696	80	5174
+2262	Norway	Europe & Central Asia	2007	4709153	80	7313
+2270	Poland	Europe & Central Asia	2007	38120560	75	706
+2271	Portugal	Europe & Central Asia	2007	10608335	78	2183
+2273	Romania	Europe & Central Asia	2007	21546873	73	415
+2277	San Marino	Europe & Central Asia	2007	31007	83	3869
+2281	Serbia	Europe & Central Asia	2007	7381579	73	547
+2285	Slovak Republic	Europe & Central Asia	2007	5397318	74	1077
+2286	Slovenia	Europe & Central Asia	2007	2018122	79	1836
+2296	Sweden	Europe & Central Asia	2007	9148092	81	4508
+2299	Tajikistan	Europe & Central Asia	2007	6604426	66	30
+2308	Turkmenistan	Europe & Central Asia	2007	4858843	65	113
+2310	Ukraine	Europe & Central Asia	2007	46509350	68	196
+2315	Uzbekistan	Europe & Central Asia	2007	26868000	67	47
+2307	Turkey	Europe & Central Asia	2007	69992754	73	556
+2312	United Kingdom	Europe & Central Asia	2007	60986649	79	3910
+2147	Argentina	Latin America & Caribbean	2007	39368066	75	547
+2152	"Bahamas, The"	Latin America & Caribbean	2007	328861	74	1790
+2155	Barbados	Latin America & Caribbean	2007	271618	76	874
+2158	Belize	Latin America & Caribbean	2007	311500	75	212
+2161	Bolivia	Latin America & Caribbean	2007	9463497	65	65
+2164	Brazil	Latin America & Caribbean	2007	189798070	72	610
+2175	Chile	Latin America & Caribbean	2007	16633254	79	678
+2177	Colombia	Latin America & Caribbean	2007	44352327	73	320
+2181	Costa Rica	Latin America & Caribbean	2007	4452608	79	524
+2184	Cuba	Latin America & Caribbean	2007	11268687	78	587
+2189	Dominican Republic	Latin America & Caribbean	2007	9531954	73	214
+2190	Ecuador	Latin America & Caribbean	2007	13849721	75	249
+2192	El Salvador	Latin America & Caribbean	2007	6100868	71	207
+2206	Grenada	Latin America & Caribbean	2007	103368	75	448
+2207	Guatemala	Latin America & Caribbean	2007	13358842	70	184
+2210	Guyana	Latin America & Caribbean	2007	750068	68	93
+2211	Haiti	Latin America & Caribbean	2007	9608453	61	34
+2212	Honduras	Latin America & Caribbean	2007	7158819	72	136
+2222	Jamaica	Latin America & Caribbean	2007	2675800	72	230
+2247	Mexico	Latin America & Caribbean	2007	109220753	76	565
+2259	Nicaragua	Latin America & Caribbean	2007	5563654	73	93
+2265	Panama	Latin America & Caribbean	2007	3350673	75	398
+2267	Paraguay	Latin America & Caribbean	2007	6119295	72	126
+2268	Peru	Latin America & Caribbean	2007	28166078	73	194
+2291	St. Lucia	Latin America & Caribbean	2007	168338	74	457
+2292	St. Vincent and the Grenadines	Latin America & Caribbean	2007	109060	72	246
+2294	Suriname	Latin America & Caribbean	2007	510136	69	333
+2305	Trinidad and Tobago	Latin America & Caribbean	2007	1325672	69	787
+2314	Uruguay	Latin America & Caribbean	2007	3323906	76	561
+2317	"Venezuela, RB"	Latin America & Caribbean	2007	27483000	74	498
+2145	Algeria	Middle East & North Africa	2007	33906605	72	141
+2153	Bahrain	Middle East & North Africa	2007	925733	75	725
+2188	Djibouti	Middle East & North Africa	2007	839453	56	78
+2191	"Egypt, Arab Rep."	Middle East & North Africa	2007	76941572	72	85
+2217	"Iran, Islamic Rep."	Middle East & North Africa	2007	71435498	72	255
+2218	Iraq	Middle East & North Africa	2007	29292601	68	108
+2220	Israel	Middle East & North Africa	2007	7180100	85	1768
+2224	Jordan	Middle East & North Africa	2007	5662000	73	252
+2228	Kuwait	Middle East & North Africa	2007	2447818	74	999
+2232	Lebanon	Middle East & North Africa	2007	4134872	72	498
+2235	Libya	Middle East & North Africa	2007	6023053	74	266
+2244	Malta	Middle East & North Africa	2007	409050	79	1584
+2252	Morocco	Middle East & North Africa	2007	31011199	71	132
+2263	Oman	Middle East & North Africa	2007	2561187	73	403
+2272	Qatar	Middle East & North Africa	2007	1178192	78	1564
+2279	Saudi Arabia	Middle East & North Africa	2007	25504176	73	566
+2298	Syrian Arab Republic	Middle East & North Africa	2007	19245438	75	79
+2306	Tunisia	Middle East & North Africa	2007	10225100	74	217
+2311	United Arab Emirates	Middle East & North Africa	2007	5405541	76	1204
+2319	"Yemen, Rep."	Middle East & North Africa	2007	21946990	64	57
+2171	Canada	North America	2007	32927517	81	4341
+2313	United States	North America	2007	301231207	78	7482
+2143	Afghanistan	South Asia	2007	31622333	47	30
+2154	Bangladesh	South Asia	2007	143956805	68	16
+2160	Bhutan	South Asia	2007	688581	66	87
+2215	India	South Asia	2007	1173971629	64	40
+2242	Maldives	South Asia	2007	303539	75	320
+2256	Nepal	South Asia	2007	28373838	67	20
+2264	Pakistan	South Asia	2007	164445596	65	26
+2290	Sri Lanka	South Asia	2007	20039000	74	60
+2146	Angola	Sub-Saharan Africa	2007	17525367	49	117
+2159	Benin	Sub-Saharan Africa	2007	8112573	54	31
+2163	Botswana	Sub-Saharan Africa	2007	1927540	52	466
+2167	Burkina Faso	Sub-Saharan Africa	2007	15061127	53	30
+2168	Burundi	Sub-Saharan Africa	2007	7707781	49	18
+2170	Cameroon	Sub-Saharan Africa	2007	18350022	50	53
+2172	Cape Verde	Sub-Saharan Africa	2007	483023	73	137
+2173	Central African Republic	Sub-Saharan Africa	2007	4160940	45	18
+2174	Chad	Sub-Saharan Africa	2007	10371839	48	28
+2178	Comoros	Sub-Saharan Africa	2007	678602	60	35
+2179	"Congo, Dem. Rep."	Sub-Saharan Africa	2007	60772175	47	10
+2180	"Congo, Rep."	Sub-Saharan Africa	2007	3730612	56	57
+2182	Cote d'Ivoire	Sub-Saharan Africa	2007	18646754	53	61
+2193	Equatorial Guinea	Sub-Saharan Africa	2007	643936	50	372
+2194	Eritrea	Sub-Saharan Africa	2007	4798561	60	9
+2196	Ethiopia	Sub-Saharan Africa	2007	77718436	57	12
+2200	Gabon	Sub-Saharan Africa	2007	1423637	61	234
+2201	"Gambia, The"	Sub-Saharan Africa	2007	1591357	57	20
+2204	Ghana	Sub-Saharan Africa	2007	22712403	62	66
+2208	Guinea	Sub-Saharan Africa	2007	9373619	52	27
+2209	Guinea-Bissau	Sub-Saharan Africa	2007	1424191	47	29
+2226	Kenya	Sub-Saharan Africa	2007	37485246	54	32
+2233	Lesotho	Sub-Saharan Africa	2007	2106128	45	69
+2234	Liberia	Sub-Saharan Africa	2007	3477197	54	22
+2239	Madagascar	Sub-Saharan Africa	2007	18980391	65	16
+2240	Malawi	Sub-Saharan Africa	2007	13589404	51	18
+2243	Mali	Sub-Saharan Africa	2007	14020786	50	36
+2245	Mauritania	Sub-Saharan Africa	2007	3212672	57	39
+2246	Mauritius	Sub-Saharan Africa	2007	1260403	73	317
+2253	Mozambique	Sub-Saharan Africa	2007	21811326	49	22
+2255	Namibia	Sub-Saharan Africa	2007	2158984	60	284
+2260	Niger	Sub-Saharan Africa	2007	13945662	53	16
+2261	Nigeria	Sub-Saharan Africa	2007	146951477	50	80
+2275	Rwanda	Sub-Saharan Africa	2007	9710531	54	36
+2278	Sao Tome and Principe	Sub-Saharan Africa	2007	157361	64	69
+2280	Senegal	Sub-Saharan Africa	2007	11474661	58	56
+2282	Seychelles	Sub-Saharan Africa	2007	85033	73	413
+2283	Sierra Leone	Sub-Saharan Africa	2007	5478289	46	55
+2288	South Africa	Sub-Saharan Africa	2007	48257282	51	456
+2293	Sudan	Sub-Saharan Africa	2007	31934782	60	69
+2295	Swaziland	Sub-Saharan Africa	2007	1020102	47	186
+2300	Tanzania	Sub-Saharan Africa	2007	41068185	55	23
+2303	Togo	Sub-Saharan Africa	2007	5652811	56	29
+2309	Uganda	Sub-Saharan Africa	2007	30339895	52	38
+2320	Zambia	Sub-Saharan Africa	2007	12055384	46	54
+2327	Australia	East Asia & Pacific	2008	21384400	81	4237
+2354	China	East Asia & Pacific	2008	1324655000	73	157
+2401	Japan	East Asia & Pacific	2008	127704040	83	3253
+2343	Brunei Darussalam	East Asia & Pacific	2008	384695	78	877
+2347	Cambodia	East Asia & Pacific	2008	13822644	62	41
+2375	Fiji	East Asia & Pacific	2008	843651	69	154
+2394	Indonesia	East Asia & Pacific	2008	234951154	68	62
+2408	Lao PDR	East Asia & Pacific	2008	6022001	66	37
+2419	Malaysia	East Asia & Pacific	2008	27502008	74	306
+2426	"Micronesia, Fed. Sts."	East Asia & Pacific	2008	110367	68	306
+2428	Mongolia	East Asia & Pacific	2008	2667474	67	123
+2432	Myanmar	East Asia & Pacific	2008	47250315	64	11
+2436	New Zealand	East Asia & Pacific	2008	4268900	80	2820
+2444	Papua New Guinea	East Asia & Pacific	2008	6549268	62	56
+2447	Philippines	East Asia & Pacific	2008	90173139	68	75
+2454	Samoa	East Asia & Pacific	2008	181809	72	167
+2462	Singapore	East Asia & Pacific	2008	4839400	81	1670
+2465	Solomon Islands	East Asia & Pacific	2008	510221	67	71
+2480	Thailand	East Asia & Pacific	2008	68267982	74	158
+2481	Timor-Leste	East Asia & Pacific	2008	1077911	61	53
+2483	Tonga	East Asia & Pacific	2008	102910	72	207
+2495	Vanuatu	East Asia & Pacific	2008	228041	70	135
+2497	Vietnam	East Asia & Pacific	2008	85122300	74	70
+2405	"Korea, Rep."	East Asia & Pacific	2008	48949000	80	1229
+2377	France	Europe & Central Asia	2008	64370515	81	4862
+2381	Germany	Europe & Central Asia	2008	82110097	80	4716
+2399	Italy	Europe & Central Asia	2008	59832179	81	3472
+2452	Russian Federation	Europe & Central Asia	2008	141950000	68	596
+2468	Spain	Europe & Central Asia	2008	45555716	81	3126
+2476	Switzerland	Europe & Central Asia	2008	7647675	82	6996
+2322	Albania	Europe & Central Asia	2008	3181397	77	244
+2326	Armenia	Europe & Central Asia	2008	3079087	73	143
+2328	Austria	Europe & Central Asia	2008	8336926	80	5211
+2329	Azerbaijan	Europe & Central Asia	2008	8763400	70	239
+2334	Belarus	Europe & Central Asia	2008	9528000	70	373
+2335	Belgium	Europe & Central Asia	2008	10709973	80	4733
+2340	Bosnia and Herzegovina	Europe & Central Asia	2008	3774164	75	434
+2344	Bulgaria	Europe & Central Asia	2008	7623395	73	474
+2361	Croatia	Europe & Central Asia	2008	4434000	76	1224
+2363	Cyprus	Europe & Central Asia	2008	1077001	79	2182
+2364	Czech Republic	Europe & Central Asia	2008	10424336	77	1474
+2365	Denmark	Europe & Central Asia	2008	5493621	78	6376
+2373	Estonia	Europe & Central Asia	2008	1340675	74	1073
+2376	Finland	Europe & Central Asia	2008	5313399	80	4250
+2380	Georgia	Europe & Central Asia	2008	4383700	73	262
+2383	Greece	Europe & Central Asia	2008	11237094	80	3314
+2391	Hungary	Europe & Central Asia	2008	10038188	74	1147
+2392	Iceland	Europe & Central Asia	2008	317414	82	4881
+2397	Ireland	Europe & Central Asia	2008	4425683	79	5241
+2403	Kazakhstan	Europe & Central Asia	2008	15673999	67	330
+2407	Kyrgyz Republic	Europe & Central Asia	2008	5318700	68	60
+2409	Latvia	Europe & Central Asia	2008	2266094	72	981
+2414	Lithuania	Europe & Central Asia	2008	3358115	72	934
+2415	Luxembourg	Europe & Central Asia	2008	488650	81	8055
+2416	"Macedonia, FYR"	Europe & Central Asia	2008	2052524	74	315
+2427	Moldova	Europe & Central Asia	2008	3570107	68	193
+2429	Montenegro	Europe & Central Asia	2008	629185	74	574
+2435	Netherlands	Europe & Central Asia	2008	16445593	80	5836
+2440	Norway	Europe & Central Asia	2008	4768212	81	8139
+2448	Poland	Europe & Central Asia	2008	38125759	76	956
+2449	Portugal	Europe & Central Asia	2008	10622413	79	2424
+2451	Romania	Europe & Central Asia	2008	21513622	73	516
+2455	San Marino	Europe & Central Asia	2008	31198	83	4222
+2459	Serbia	Europe & Central Asia	2008	7350221	74	673
+2463	Slovak Republic	Europe & Central Asia	2008	5406626	75	1399
+2464	Slovenia	Europe & Central Asia	2008	2021316	79	2244
+2475	Sweden	Europe & Central Asia	2008	9219637	81	4866
+2478	Tajikistan	Europe & Central Asia	2008	6691416	67	43
+2487	Turkmenistan	Europe & Central Asia	2008	4918396	65	81
+2489	Ukraine	Europe & Central Asia	2008	46258200	68	260
+2494	Uzbekistan	Europe & Central Asia	2008	27302700	68	58
+2486	Turkey	Europe & Central Asia	2008	70923730	73	624
+2491	United Kingdom	Europe & Central Asia	2008	61393521	80	3760
+2325	Argentina	Latin America & Caribbean	2008	39714298	75	685
+2330	"Bahamas, The"	Latin America & Caribbean	2008	333661	75	1805
+2333	Barbados	Latin America & Caribbean	2008	272180	76	958
+2336	Belize	Latin America & Caribbean	2008	322100	75	235
+2339	Bolivia	Latin America & Caribbean	2008	9618466	66	85
+2342	Brazil	Latin America & Caribbean	2008	191543237	72	715
+2353	Chile	Latin America & Caribbean	2008	16795593	79	761
+2355	Colombia	Latin America & Caribbean	2008	45005782	73	369
+2359	Costa Rica	Latin America & Caribbean	2008	4522124	79	615
+2362	Cuba	Latin America & Caribbean	2008	11266905	79	584
+2367	Dominican Republic	Latin America & Caribbean	2008	9664948	73	247
+2368	Ecuador	Latin America & Caribbean	2008	14056740	75	277
+2370	El Salvador	Latin America & Caribbean	2008	6129628	71	216
+2384	Grenada	Latin America & Caribbean	2008	103723	75	474
+2385	Guatemala	Latin America & Caribbean	2008	13690846	70	199
+2388	Guyana	Latin America & Caribbean	2008	751578	69	172
+2389	Haiti	Latin America & Caribbean	2008	9736332	61	36
+2390	Honduras	Latin America & Caribbean	2008	7302742	72	160
+2400	Jamaica	Latin America & Caribbean	2008	2687200	72	272
+2425	Mexico	Latin America & Caribbean	2008	110627158	76	598
+2437	Nicaragua	Latin America & Caribbean	2008	5635577	73	105
+2443	Panama	Latin America & Caribbean	2008	3406487	76	493
+2445	Paraguay	Latin America & Caribbean	2008	6230242	72	167
+2446	Peru	Latin America & Caribbean	2008	28463338	73	256
+2470	St. Lucia	Latin America & Caribbean	2008	170331	74	501
+2471	St. Vincent and the Grenadines	Latin America & Caribbean	2008	109178	72	299
+2473	Suriname	Latin America & Caribbean	2008	515066	70	396
+2484	Trinidad and Tobago	Latin America & Caribbean	2008	1331040	69	909
+2493	Uruguay	Latin America & Caribbean	2008	3334052	76	722
+2496	"Venezuela, RB"	Latin America & Caribbean	2008	27935000	74	634
+2323	Algeria	Middle East & North Africa	2008	34428028	72	186
+2331	Bahrain	Middle East & North Africa	2008	1052359	75	774
+2366	Djibouti	Middle East & North Africa	2008	855636	57	82
+2369	"Egypt, Arab Rep."	Middle East & North Africa	2008	78323298	72	101
+2395	"Iran, Islamic Rep."	Middle East & North Africa	2008	72289291	72	313
+2396	Iraq	Middle East & North Africa	2008	30178292	68	161
+2398	Israel	Middle East & North Africa	2008	7308800	81	2124
+2402	Jordan	Middle East & North Africa	2008	5787000	73	330
+2406	Kuwait	Middle East & North Africa	2008	2548351	74	1117
+2410	Lebanon	Middle East & North Africa	2008	4166915	72	534
+2413	Libya	Middle East & North Africa	2008	6149620	74	311
+2422	Malta	Middle East & North Africa	2008	411950	79	1599
+2430	Morocco	Middle East & North Africa	2008	31321453	71	153
+2441	Oman	Middle East & North Africa	2008	2636963	73	473
+2450	Qatar	Middle East & North Africa	2008	1396060	78	1548
+2457	Saudi Arabia	Middle East & North Africa	2008	26166639	73	561
+2477	Syrian Arab Republic	Middle East & North Africa	2008	19637776	75	90
+2485	Tunisia	Middle East & North Africa	2008	10328900	74	246
+2490	United Arab Emirates	Middle East & North Africa	2008	6206623	76	1519
+2498	"Yemen, Rep."	Middle East & North Africa	2008	22626595	64	68
+2349	Canada	North America	2008	33317662	81	4630
+2492	United States	North America	2008	304093966	78	7760
+2321	Afghanistan	South Asia	2008	32517656	48	35
+2332	Bangladesh	South Asia	2008	145478300	68	19
+2338	Bhutan	South Asia	2008	701363	66	94
+2393	India	South Asia	2008	1190863679	64	43
+2420	Maldives	South Asia	2008	307632	76	477
+2434	Nepal	South Asia	2008	28905358	68	23
+2442	Pakistan	South Asia	2008	167442258	65	29
+2469	Sri Lanka	South Asia	2008	20217000	74	71
+2324	Angola	Sub-Saharan Africa	2008	18037964	50	179
+2337	Benin	Sub-Saharan Africa	2008	8355980	55	33
+2341	Botswana	Sub-Saharan Africa	2008	1954822	53	305
+2345	Burkina Faso	Sub-Saharan Africa	2008	15515258	54	37
+2346	Burundi	Sub-Saharan Africa	2008	7943385	49	19
+2348	Cameroon	Sub-Saharan Africa	2008	18758778	50	64
+2350	Cape Verde	Sub-Saharan Africa	2008	487371	73	145
+2351	Central African Republic	Sub-Saharan Africa	2008	4237961	46	20
+2352	Chad	Sub-Saharan Africa	2008	10653762	49	28
+2356	Comoros	Sub-Saharan Africa	2008	697034	60	40
+2357	"Congo, Dem. Rep."	Sub-Saharan Africa	2008	62474901	48	14
+2358	"Congo, Rep."	Sub-Saharan Africa	2008	3836339	56	64
+2360	Cote d'Ivoire	Sub-Saharan Africa	2008	18987007	53	72
+2371	Equatorial Guinea	Sub-Saharan Africa	2008	662327	50	745
+2372	Eritrea	Sub-Saharan Africa	2008	4947521	60	9
+2374	Ethiopia	Sub-Saharan Africa	2008	79446419	57	14
+2378	Gabon	Sub-Saharan Africa	2008	1450310	61	263
+2379	"Gambia, The"	Sub-Saharan Africa	2008	1636107	58	25
+2382	Ghana	Sub-Saharan Africa	2008	23264176	63	69
+2386	Guinea	Sub-Saharan Africa	2008	9559110	53	29
+2387	Guinea-Bissau	Sub-Saharan Africa	2008	1453757	47	34
+2404	Kenya	Sub-Saharan Africa	2008	38455418	55	33
+2411	Lesotho	Sub-Saharan Africa	2008	2127412	46	72
+2412	Liberia	Sub-Saharan Africa	2008	3658460	55	27
+2417	Madagascar	Sub-Saharan Africa	2008	19546282	66	17
+2418	Malawi	Sub-Saharan Africa	2008	14005113	52	26
+2421	Mali	Sub-Saharan Africa	2008	14459990	50	41
+2423	Mauritania	Sub-Saharan Africa	2008	3295254	58	47
+2424	Mauritius	Sub-Saharan Africa	2008	1268565	73	395
+2431	Mozambique	Sub-Saharan Africa	2008	22332900	49	24
+2433	Namibia	Sub-Saharan Africa	2008	2200422	61	275
+2438	Niger	Sub-Saharan Africa	2008	14450007	53	19
+2439	Nigeria	Sub-Saharan Africa	2008	150665730	50	88
+2453	Rwanda	Sub-Saharan Africa	2008	10004092	54	44
+2456	Sao Tome and Principe	Sub-Saharan Africa	2008	159852	64	79
+2458	Senegal	Sub-Saharan Africa	2008	11787123	58	66
+2460	Seychelles	Sub-Saharan Africa	2008	86956	73	358
+2461	Sierra Leone	Sub-Saharan Africa	2008	5612129	46	63
+2466	South Africa	Sub-Saharan Africa	2008	48793022	51	445
+2467	South Sudan	Sub-Saharan Africa	2008	8976845	62	34
+2472	Sudan	Sub-Saharan Africa	2008	32438306	60	97
+2474	Swaziland	Sub-Saharan Africa	2008	1031747	47	211
+2479	Tanzania	Sub-Saharan Africa	2008	42267667	56	26
+2482	Togo	Sub-Saharan Africa	2008	5776837	56	35
+2488	Uganda	Sub-Saharan Africa	2008	31339392	52	40
+2499	Zambia	Sub-Saharan Africa	2008	12379612	47	71
+2506	Australia	East Asia & Pacific	2009	21778800	82	4118
+2533	China	East Asia & Pacific	2009	1331260000	73	191
+2580	Japan	East Asia & Pacific	2009	127557958	83	3736
+2522	Brunei Darussalam	East Asia & Pacific	2009	391837	78	834
+2526	Cambodia	East Asia & Pacific	2009	13977903	62	47
+2554	Fiji	East Asia & Pacific	2009	852323	69	146
+2573	Indonesia	East Asia & Pacific	2009	237414495	68	65
+2587	Lao PDR	East Asia & Pacific	2009	6112143	67	34
+2598	Malaysia	East Asia & Pacific	2009	27949395	74	317
+2605	"Micronesia, Fed. Sts."	East Asia & Pacific	2009	110676	69	336
+2607	Mongolia	East Asia & Pacific	2009	2711659	68	98
+2611	Myanmar	East Asia & Pacific	2009	47601374	64	14
+2615	New Zealand	East Asia & Pacific	2009	4315800	81	2702
+2623	Papua New Guinea	East Asia & Pacific	2009	6703361	62	50
+2626	Philippines	East Asia & Pacific	2009	91703090	68	77
+2633	Samoa	East Asia & Pacific	2009	182401	72	154
+2641	Singapore	East Asia & Pacific	2009	4987600	81	1772
+2644	Solomon Islands	East Asia & Pacific	2009	524125	67	90
+2658	Thailand	East Asia & Pacific	2009	68706122	74	160
+2659	Timor-Leste	East Asia & Pacific	2009	1110071	62	49
+2661	Tonga	East Asia & Pacific	2009	103519	72	145
+2673	Vanuatu	East Asia & Pacific	2009	233790	71	132
+2675	Vietnam	East Asia & Pacific	2009	86025000	75	79
+2584	"Korea, Rep."	East Asia & Pacific	2009	49182000	80	1174
+2556	France	Europe & Central Asia	2009	64720232	81	4765
+2560	Germany	Europe & Central Asia	2009	81902307	80	4724
+2578	Italy	Europe & Central Asia	2009	60192698	81	3323
+2631	Russian Federation	Europe & Central Asia	2009	141910000	69	527
+2646	Spain	Europe & Central Asia	2009	45908594	81	3052
+2654	Switzerland	Europe & Central Asia	2009	7743831	82	7184
+2501	Albania	Europe & Central Asia	2009	3192723	77	238
+2505	Armenia	Europe & Central Asia	2009	3084979	74	129
+2507	Austria	Europe & Central Asia	2009	8365275	80	5111
+2508	Azerbaijan	Europe & Central Asia	2009	8947243	70	286
+2513	Belarus	Europe & Central Asia	2009	9507000	70	311
+2514	Belgium	Europe & Central Asia	2009	10796493	80	4674
+2519	Bosnia and Herzegovina	Europe & Central Asia	2009	3767683	75	461
+2523	Bulgaria	Europe & Central Asia	2009	7585131	73	463
+2540	Croatia	Europe & Central Asia	2009	4429000	76	1095
+2542	Cyprus	Europe & Central Asia	2009	1090473	79	2067
+2543	Czech Republic	Europe & Central Asia	2009	10487178	77	1494
+2544	Denmark	Europe & Central Asia	2009	5523095	79	6452
+2552	Estonia	Europe & Central Asia	2009	1340271	75	1004
+2555	Finland	Europe & Central Asia	2009	5338871	80	4113
+2559	Georgia	Europe & Central Asia	2009	4410800	73	251
+2562	Greece	Europe & Central Asia	2009	11282760	80	3180
+2570	Hungary	Europe & Central Asia	2009	10022650	74	977
+2571	Iceland	Europe & Central Asia	2009	318499	82	3657
+2576	Ireland	Europe & Central Asia	2009	4458942	80	4714
+2582	Kazakhstan	Europe & Central Asia	2009	16093481	68	326
+2586	Kyrgyz Republic	Europe & Central Asia	2009	5383300	69	60
+2588	Latvia	Europe & Central Asia	2009	2254834	73	784
+2593	Lithuania	Europe & Central Asia	2009	3339456	73	836
+2594	Luxembourg	Europe & Central Asia	2009	497783	81	8262
+2595	"Macedonia, FYR"	Europe & Central Asia	2009	2056769	74	297
+2606	Moldova	Europe & Central Asia	2009	3565603	69	190
+2608	Montenegro	Europe & Central Asia	2009	630435	74	621
+2614	Netherlands	Europe & Central Asia	2009	16530388	81	5766
+2619	Norway	Europe & Central Asia	2009	4828726	81	7593
+2627	Poland	Europe & Central Asia	2009	38151603	76	815
+2628	Portugal	Europe & Central Asia	2009	10632482	79	2381
+2630	Romania	Europe & Central Asia	2009	21480401	73	431
+2634	San Marino	Europe & Central Asia	2009	31359	83	3559
+2638	Serbia	Europe & Central Asia	2009	7320807	74	577
+2642	Slovak Republic	Europe & Central Asia	2009	5418590	75	1474
+2643	Slovenia	Europe & Central Asia	2009	2039669	79	2231
+2664	Turkey	Europe & Central Asia	2009	71846212	73	575
+2653	Sweden	Europe & Central Asia	2009	9298515	81	4337
+2656	Tajikistan	Europe & Central Asia	2009	6783390	67	44
+2665	Turkmenistan	Europe & Central Asia	2009	4979672	65	89
+2667	Ukraine	Europe & Central Asia	2009	46053300	69	200
+2672	Uzbekistan	Europe & Central Asia	2009	27767400	68	71
+2669	United Kingdom	Europe & Central Asia	2009	61811027	80	3445
+2504	Argentina	Latin America & Caribbean	2009	40062470	75	725
+2509	"Bahamas, The"	Latin America & Caribbean	2009	338358	75	1701
+2512	Barbados	Latin America & Caribbean	2009	272750	76	843
+2515	Belize	Latin America & Caribbean	2009	333200	76	254
+2518	Bolivia	Latin America & Caribbean	2009	9773441	66	102
+2521	Brazil	Latin America & Caribbean	2009	193246610	73	734
+2532	Chile	Latin America & Caribbean	2009	16955737	79	782
+2534	Colombia	Latin America & Caribbean	2009	45654044	73	361
+2538	Costa Rica	Latin America & Caribbean	2009	4590790	79	660
+2541	Cuba	Latin America & Caribbean	2009	11262628	79	651
+2546	Dominican Republic	Latin America & Caribbean	2009	9796852	73	258
+2547	Ecuador	Latin America & Caribbean	2009	14261566	75	298
+2549	El Salvador	Latin America & Caribbean	2009	6160423	72	228
+2563	Grenada	Latin America & Caribbean	2009	104097	75	462
+2564	Guatemala	Latin America & Caribbean	2009	14033623	71	190
+2567	Guyana	Latin America & Caribbean	2009	753013	69	173
+2568	Haiti	Latin America & Caribbean	2009	9864241	61	42
+2569	Honduras	Latin America & Caribbean	2009	7449923	73	173
+2579	Jamaica	Latin America & Caribbean	2009	2695600	73	230
+2604	Mexico	Latin America & Caribbean	2009	112033369	76	526
+2616	Nicaragua	Latin America & Caribbean	2009	5710230	73	110
+2622	Panama	Latin America & Caribbean	2009	3461901	76	565
+2624	Paraguay	Latin America & Caribbean	2009	6341892	72	188
+2625	Peru	Latin America & Caribbean	2009	28765162	74	236
+2648	St. Lucia	Latin America & Caribbean	2009	172370	74	525
+2649	St. Vincent and the Grenadines	Latin America & Caribbean	2009	109269	72	317
+2651	Suriname	Latin America & Caribbean	2009	519861	70	447
+2662	Trinidad and Tobago	Latin America & Caribbean	2009	1336349	70	935
+2671	Uruguay	Latin America & Caribbean	2009	3344938	76	761
+2674	"Venezuela, RB"	Latin America & Caribbean	2009	28384000	74	667
+2502	Algeria	Middle East & North Africa	2009	34950168	73	181
+2510	Bahrain	Middle East & North Africa	2009	1169578	75	748
+2545	Djibouti	Middle East & North Africa	2009	872090	57	93
+2548	"Egypt, Arab Rep."	Middle East & North Africa	2009	79716203	73	118
+2574	"Iran, Islamic Rep."	Middle East & North Africa	2009	73137148	72	290
+2575	Iraq	Middle East & North Africa	2009	31090763	68	200
+2577	Israel	Middle East & North Africa	2009	7485600	81	1998
+2581	Jordan	Middle East & North Africa	2009	5915000	73	377
+2585	Kuwait	Middle East & North Africa	2009	2646286	74	1580
+2589	Lebanon	Middle East & North Africa	2009	4196990	72	589
+2592	Libya	Middle East & North Africa	2009	6262667	75	345
+2601	Malta	Middle East & North Africa	2009	413991	80	1664
+2609	Morocco	Middle East & North Africa	2009	31634524	72	162
+2620	Oman	Middle East & North Africa	2009	2712141	73	511
+2629	Qatar	Middle East & North Africa	2009	1597765	78	1612
+2636	Saudi Arabia	Middle East & North Africa	2009	26809105	74	576
+2655	Syrian Arab Republic	Middle East & North Africa	2009	20038112	76	95
+2663	Tunisia	Middle East & North Africa	2009	10439600	74	242
+2668	United Arab Emirates	Middle East & North Africa	2009	6938815	76	1696
+2676	"Yemen, Rep."	Middle East & North Africa	2009	23328214	65	71
+2528	Canada	North America	2009	33726915	81	4522
+2670	United States	North America	2009	306771529	78	7990
+2500	Afghanistan	South Asia	2009	33438329	48	35
+2511	Bangladesh	South Asia	2009	147030145	68	22
+2517	Bhutan	South Asia	2009	713665	67	81
+2572	India	South Asia	2009	1207740408	65	44
+2599	Maldives	South Asia	2009	311739	76	490
+2613	Nepal	South Asia	2009	29432743	68	24
+2621	Pakistan	South Asia	2009	170494367	65	26
+2647	Sri Lanka	South Asia	2009	20450000	75	71
+2503	Angola	Sub-Saharan Africa	2009	18555115	50	237
+2516	Benin	Sub-Saharan Africa	2009	8601771	55	34
+2520	Botswana	Sub-Saharan Africa	2009	1981576	53	284
+2524	Burkina Faso	Sub-Saharan Africa	2009	15984479	54	39
+2525	Burundi	Sub-Saharan Africa	2009	8170853	49	20
+2527	Cameroon	Sub-Saharan Africa	2009	19175028	51	60
+2529	Cape Verde	Sub-Saharan Africa	2009	491621	74	148
+2530	Central African Republic	Sub-Saharan Africa	2009	4318128	47	16
+2531	Chad	Sub-Saharan Africa	2009	10937089	49	28
+2535	Comoros	Sub-Saharan Africa	2009	715774	60	30
+2536	"Congo, Dem. Rep."	Sub-Saharan Africa	2009	64204304	48	16
+2537	"Congo, Rep."	Sub-Saharan Africa	2009	3941454	57	55
+2539	Cote d'Ivoire	Sub-Saharan Africa	2009	19350026	54	71
+2550	Equatorial Guinea	Sub-Saharan Africa	2009	681115	51	928
+2551	Eritrea	Sub-Saharan Africa	2009	5097998	61	11
+2553	Ethiopia	Sub-Saharan Africa	2009	81187751	58	16
+2557	Gabon	Sub-Saharan Africa	2009	1477514	62	273
+2558	"Gambia, The"	Sub-Saharan Africa	2009	1681734	58	26
+2561	Ghana	Sub-Saharan Africa	2009	23824402	63	54
+2565	Guinea	Sub-Saharan Africa	2009	9761217	53	30
+2566	Guinea-Bissau	Sub-Saharan Africa	2009	1484120	47	37
+2583	Kenya	Sub-Saharan Africa	2009	39462188	56	36
+2590	Lesotho	Sub-Saharan Africa	2009	2149201	47	83
+2591	Liberia	Sub-Saharan Africa	2009	3835929	55	41
+2596	Madagascar	Sub-Saharan Africa	2009	20124150	66	16
+2597	Malawi	Sub-Saharan Africa	2009	14442290	53	29
+2600	Mali	Sub-Saharan Africa	2009	14909813	51	41
+2602	Mauritania	Sub-Saharan Africa	2009	3377630	58	48
+2603	Mauritius	Sub-Saharan Africa	2009	1275032	73	389
+2610	Mozambique	Sub-Saharan Africa	2009	22858607	49	26
+2612	Namibia	Sub-Saharan Africa	2009	2242078	62	278
+2617	Niger	Sub-Saharan Africa	2009	14972257	54	19
+2618	Nigeria	Sub-Saharan Africa	2009	154488072	51	74
+2632	Rwanda	Sub-Saharan Africa	2009	10311275	55	51
+2635	Sao Tome and Principe	Sub-Saharan Africa	2009	162515	64	101
+2637	Senegal	Sub-Saharan Africa	2009	12106865	59	60
+2639	Seychelles	Sub-Saharan Africa	2009	87298	73	298
+2640	Sierra Leone	Sub-Saharan Africa	2009	5739293	47	72
+2645	South Africa	Sub-Saharan Africa	2009	49320150	52	495
+2650	Sudan	Sub-Saharan Africa	2009	32970881	61	93
+2652	Swaziland	Sub-Saharan Africa	2009	1043509	48	220
+2657	Tanzania	Sub-Saharan Africa	2009	43524738	57	28
+2660	Togo	Sub-Saharan Africa	2009	5901859	56	39
+2666	Uganda	Sub-Saharan Africa	2009	32367909	53	43
+2677	Zambia	Sub-Saharan Africa	2009	12723746	48	61
+2684	Australia	East Asia & Pacific	2010	22065300	82	5174
+2711	China	East Asia & Pacific	2010	1337705000	73	219
+2758	Japan	East Asia & Pacific	2010	127450459	83	3958
+2700	Brunei Darussalam	East Asia & Pacific	2010	398920	78	915
+2704	Cambodia	East Asia & Pacific	2010	14138255	63	48
+2732	Fiji	East Asia & Pacific	2010	860623	69	155
+2751	Indonesia	East Asia & Pacific	2010	239870937	69	84
+2765	Lao PDR	East Asia & Pacific	2010	6200894	67	30
+2776	Malaysia	East Asia & Pacific	2010	28401017	74	368
+2783	"Micronesia, Fed. Sts."	East Asia & Pacific	2010	111064	69	365
+2785	Mongolia	East Asia & Pacific	2010	2756001	68	124
+2789	Myanmar	East Asia & Pacific	2010	47963012	65	17
+2793	New Zealand	East Asia & Pacific	2010	4367800	81	3267
+2801	Papua New Guinea	East Asia & Pacific	2010	6858266	62	57
+2804	Philippines	East Asia & Pacific	2010	93260798	68	89
+2811	Samoa	East Asia & Pacific	2010	183081	72	204
+2819	Singapore	East Asia & Pacific	2010	5076700	82	2005
+2822	Solomon Islands	East Asia & Pacific	2010	538148	67	93
+2836	Thailand	East Asia & Pacific	2010	69122234	74	179
+2837	Timor-Leste	East Asia & Pacific	2010	1142502	62	45
+2839	Tonga	East Asia & Pacific	2010	104058	72	172
+2851	Vanuatu	East Asia & Pacific	2010	239651	71	149
+2853	Vietnam	East Asia & Pacific	2010	86932500	75	83
+2762	"Korea, Rep."	East Asia & Pacific	2010	49410000	81	1452
+2734	France	Europe & Central Asia	2010	65075569	81	4618
+2738	Germany	Europe & Central Asia	2010	81776930	80	4654
+2756	Italy	Europe & Central Asia	2010	60483385	82	3247
+2809	Russian Federation	Europe & Central Asia	2010	142389000	69	670
+2824	Spain	Europe & Central Asia	2010	46070971	82	2896
+2832	Switzerland	Europe & Central Asia	2010	7824909	82	7699
+2842	Turkey	Europe & Central Asia	2010	72752325	74	668
+2679	Albania	Europe & Central Asia	2010	3204284	77	220
+2683	Armenia	Europe & Central Asia	2010	3092072	74	134
+2685	Austria	Europe & Central Asia	2010	8389771	80	4964
+2686	Azerbaijan	Europe & Central Asia	2010	9054332	71	307
+2691	Belarus	Europe & Central Asia	2010	9490000	70	320
+2692	Belgium	Europe & Central Asia	2010	10895586	80	4548
+2697	Bosnia and Herzegovina	Europe & Central Asia	2010	3760149	75	453
+2701	Bulgaria	Europe & Central Asia	2010	7534289	74	480
+2718	Croatia	Europe & Central Asia	2010	4418000	76	1051
+2720	Cyprus	Europe & Central Asia	2010	1103647	79	2012
+2721	Czech Republic	Europe & Central Asia	2010	10519792	77	1403
+2722	Denmark	Europe & Central Asia	2010	5547683	79	6253
+2730	Estonia	Europe & Central Asia	2010	1340161	75	898
+2733	Finland	Europe & Central Asia	2010	5363352	80	3955
+2737	Georgia	Europe & Central Asia	2010	4452800	73	272
+2740	Greece	Europe & Central Asia	2010	11315508	80	2873
+2748	Hungary	Europe & Central Asia	2010	10000023	74	1002
+2749	Iceland	Europe & Central Asia	2010	318041	82	3668
+2754	Ireland	Europe & Central Asia	2010	4474356	81	4242
+2760	Kazakhstan	Europe & Central Asia	2010	16323287	68	395
+2764	Kyrgyz Republic	Europe & Central Asia	2010	5447900	69	60
+2766	Latvia	Europe & Central Asia	2010	2239008	73	762
+2771	Lithuania	Europe & Central Asia	2010	3286820	73	782
+2772	Luxembourg	Europe & Central Asia	2010	506953	81	8193
+2773	"Macedonia, FYR"	Europe & Central Asia	2010	2060563	75	300
+2784	Moldova	Europe & Central Asia	2010	3562062	69	190
+2786	Montenegro	Europe & Central Asia	2010	631490	74	584
+2792	Netherlands	Europe & Central Asia	2010	16615394	81	5683
+2797	Norway	Europe & Central Asia	2010	4889252	81	8039
+2805	Poland	Europe & Central Asia	2010	38183683	76	851
+2806	Portugal	Europe & Central Asia	2010	10637346	79	2306
+2808	Romania	Europe & Central Asia	2010	21438001	73	457
+2812	San Marino	Europe & Central Asia	2010	31534	83	3387
+2816	Serbia	Europe & Central Asia	2010	7291436	74	546
+2820	Slovak Republic	Europe & Central Asia	2010	5430099	75	1445
+2821	Slovenia	Europe & Central Asia	2010	2048583	79	2064
+2831	Sweden	Europe & Central Asia	2010	9378126	81	4708
+2834	Tajikistan	Europe & Central Asia	2010	6878637	67	49
+2843	Turkmenistan	Europe & Central Asia	2010	5041995	65	105
+2845	Ukraine	Europe & Central Asia	2010	45870700	70	234
+2850	Uzbekistan	Europe & Central Asia	2010	28562400	68	80
+2847	United Kingdom	Europe & Central Asia	2010	62262786	80	3495
+2682	Argentina	Latin America & Caribbean	2010	40412376	76	759
+2687	"Bahamas, The"	Latin America & Caribbean	2010	342877	75	1704
+2690	Barbados	Latin America & Caribbean	2010	273331	77	1003
+2693	Belize	Latin America & Caribbean	2010	344700	76	262
+2696	Bolivia	Latin America & Caribbean	2010	9929849	66	108
+2699	Brazil	Latin America & Caribbean	2010	194946470	73	990
+2710	Chile	Latin America & Caribbean	2010	17113688	79	933
+2712	Colombia	Latin America & Caribbean	2010	46294841	73	407
+2716	Costa Rica	Latin America & Caribbean	2010	4658887	79	802
+2719	Cuba	Latin America & Caribbean	2010	11257979	79	583
+2724	Dominican Republic	Latin America & Caribbean	2010	9927320	73	281
+2725	Ecuador	Latin America & Caribbean	2010	14464739	75	318
+2727	El Salvador	Latin America & Caribbean	2010	6192993	72	238
+2741	Grenada	Latin America & Caribbean	2010	104487	76	438
+2742	Guatemala	Latin America & Caribbean	2010	14388929	71	197
+2745	Guyana	Latin America & Caribbean	2010	754493	70	169
+2746	Haiti	Latin America & Caribbean	2010	9993247	62	46
+2747	Honduras	Latin America & Caribbean	2010	7600524	73	176
+2757	Jamaica	Latin America & Caribbean	2010	2701200	73	259
+2782	Mexico	Latin America & Caribbean	2010	113423047	77	603
+2794	Nicaragua	Latin America & Caribbean	2010	5788163	74	113
+2800	Panama	Latin America & Caribbean	2010	3516820	76	663
+2802	Paraguay	Latin America & Caribbean	2010	6454548	72	272
+2803	Peru	Latin America & Caribbean	2010	29076512	74	258
+2826	St. Lucia	Latin America & Caribbean	2010	174000	74	528
+2827	St. Vincent and the Grenadines	Latin America & Caribbean	2010	109333	72	293
+2829	Suriname	Latin America & Caribbean	2010	524636	70	472
+2840	Trinidad and Tobago	Latin America & Caribbean	2010	1341465	70	977
+2849	Uruguay	Latin America & Caribbean	2010	3356584	76	948
+2852	"Venezuela, RB"	Latin America & Caribbean	2010	28834000	74	720
+2680	Algeria	Middle East & North Africa	2010	35468208	73	198
+2688	Bahrain	Middle East & North Africa	2010	1261835	75	748
+2723	Djibouti	Middle East & North Africa	2010	888716	58	99
+2726	"Egypt, Arab Rep."	Middle East & North Africa	2010	81121077	73	125
+2752	"Iran, Islamic Rep."	Middle East & North Africa	2010	73973630	73	302
+2753	Iraq	Middle East & North Africa	2010	32030823	68	247
+2755	Israel	Middle East & North Africa	2010	7623600	82	2198
+2759	Jordan	Middle East & North Africa	2010	6047000	73	370
+2763	Kuwait	Middle East & North Africa	2010	2736732	75	1225
+2767	Lebanon	Middle East & North Africa	2010	4227597	72	574
+2770	Libya	Middle East & North Africa	2010	6355112	75	389
+2779	Malta	Middle East & North Africa	2010	415995	81	1706
+2787	Morocco	Middle East & North Africa	2010	31951412	72	166
+2798	Oman	Middle East & North Africa	2010	2782435	73	568
+2807	Qatar	Middle East & North Africa	2010	1758793	78	1489
+2814	Saudi Arabia	Middle East & North Africa	2010	27448086	74	659
+2833	Syrian Arab Republic	Middle East & North Africa	2010	20446609	76	97
+2841	Tunisia	Middle East & North Africa	2010	10549100	75	241
+2846	United Arab Emirates	Middle East & North Africa	2010	7511690	77	1467
+2854	"Yemen, Rep."	Middle East & North Africa	2010	24052514	65	80
+2706	Canada	North America	2010	34126547	81	5257
+2848	United States	North America	2010	309349689	79	8233
+2678	Afghanistan	South Asia	2010	34385068	48	44
+2689	Bangladesh	South Asia	2010	148692131	69	25
+2695	Bhutan	South Asia	2010	725940	67	89
+2750	India	South Asia	2010	1224614327	65	51
+2777	Maldives	South Asia	2010	315885	77	409
+2791	Nepal	South Asia	2010	29959364	68	28
+2799	Pakistan	South Asia	2010	173593383	65	28
+2825	Sri Lanka	South Asia	2010	20653000	75	82
+2681	Angola	Sub-Saharan Africa	2010	19081912	51	146
+2694	Benin	Sub-Saharan Africa	2010	8849892	56	33
+2698	Botswana	Sub-Saharan Africa	2010	2006945	53	382
+2702	Burkina Faso	Sub-Saharan Africa	2010	16468714	55	39
+2703	Burundi	Sub-Saharan Africa	2010	8382849	50	23
+2705	Cameroon	Sub-Saharan Africa	2010	19598889	51	61
+2707	Cape Verde	Sub-Saharan Africa	2010	495999	74	145
+2708	Central African Republic	Sub-Saharan Africa	2010	4401051	48	17
+2709	Chad	Sub-Saharan Africa	2010	11227208	49	31
+2713	Comoros	Sub-Saharan Africa	2010	734750	61	39
+2714	"Congo, Dem. Rep."	Sub-Saharan Africa	2010	65965795	48	15
+2715	"Congo, Rep."	Sub-Saharan Africa	2010	4042899	57	68
+2717	Cote d'Ivoire	Sub-Saharan Africa	2010	19737800	55	71
+2728	Equatorial Guinea	Sub-Saharan Africa	2010	700401	51	847
+2729	Eritrea	Sub-Saharan Africa	2010	5253676	61	13
+2731	Ethiopia	Sub-Saharan Africa	2010	82949541	59	15
+2735	Gabon	Sub-Saharan Africa	2010	1505463	62	309
+2736	"Gambia, The"	Sub-Saharan Africa	2010	1728394	58	27
+2739	Ghana	Sub-Saharan Africa	2010	24391823	64	69
+2743	Guinea	Sub-Saharan Africa	2010	9981590	54	29
+2744	Guinea-Bissau	Sub-Saharan Africa	2010	1515224	48	38
+2761	Kenya	Sub-Saharan Africa	2010	40512682	56	35
+2768	Lesotho	Sub-Saharan Africa	2010	2171318	47	116
+2769	Liberia	Sub-Saharan Africa	2010	3994122	56	41
+2774	Madagascar	Sub-Saharan Africa	2010	20713819	66	15
+2775	Malawi	Sub-Saharan Africa	2010	14900841	53	28
+2778	Mali	Sub-Saharan Africa	2010	15369809	51	39
+2780	Mauritania	Sub-Saharan Africa	2010	3459773	58	59
+2781	Mauritius	Sub-Saharan Africa	2010	1280924	73	465
+2788	Mozambique	Sub-Saharan Africa	2010	23390765	50	25
+2790	Namibia	Sub-Saharan Africa	2010	2283289	62	269
+2795	Niger	Sub-Saharan Africa	2010	15511953	54	17
+2796	Nigeria	Sub-Saharan Africa	2010	158423182	51	67
+2810	Rwanda	Sub-Saharan Africa	2010	10624005	55	55
+2813	Sao Tome and Principe	Sub-Saharan Africa	2010	165397	64	94
+2815	Senegal	Sub-Saharan Africa	2010	12433728	59	60
+2817	Seychelles	Sub-Saharan Africa	2010	86525	73	368
+2818	Sierra Leone	Sub-Saharan Africa	2010	5867536	47	68
+2823	South Africa	Sub-Saharan Africa	2010	49991300	52	631
+2828	Sudan	Sub-Saharan Africa	2010	33603637	61	111
+2830	Swaziland	Sub-Saharan Africa	2010	1055506	48	243
+2835	Tanzania	Sub-Saharan Africa	2010	44841226	57	37
+2838	Togo	Sub-Saharan Africa	2010	6027798	57	39
+2844	Uganda	Sub-Saharan Africa	2010	33424683	54	44
+2855	Zambia	Sub-Saharan Africa	2010	12926409	48	74

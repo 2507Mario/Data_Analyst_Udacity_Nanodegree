@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Udacity´s Project 6 - Visualization" content="">
+    <meta name="Mario Bonilla" content="D3, Dimples, Visualization">
+
+    <title>Udacity´s Project 6 - Visualization</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/portfolio-item.css" rel="stylesheet">
+
+    <!--Scripts d3 and dimple-->
+    <script src="/d3/lib/d3.v3.4.8.js"></script>
+    <script src="/d3/dist/dimple.v2.2.0.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                 <a class="navbar-brand" href="index.html">Final Visualization</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="summary.html">Summary</a>
+                    </li>
+                    <li>
+                        <a href="a1_a2.html">Iteration 1</a>
+                    </li>
+                    <li>
+                        <a href="b1_b2.html">Iteration 2</a>
+                    </li>
+                    <li>
+                        <a href="c1.html">Iteration 3</a>
+                    </li>
+                    <li>
+                        <a href="c2.html">Iteration 4</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+    
+	<!-- Portfolio Item Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Iteration 3
+                    <small><br>Udacity´s Project 6 - Visualization</small>
+                </h1>
+            </div>
+        </div>
+        <div class="col-md-12">
+                <p>Based on the reviewers recommendation, we will produce a visualization that includes the whole information together. We think that in this way the viewer can see everything at a glance an draw conclusions easily. 
+
+                We produced again the graphic, this time named C1 (there is only one, including all the information). A histogram with the health expenditure (right axis), 3 lines (min, avg, max) for the life expectancy (left column) and the countries at the bottom.</p>
+        <!-- /.row -->
+	
+	<div class="row">
+        <div id="chartC1"></div>
+	</div>
+    
+        <script type="text/javascript">
+        var svg = dimple.newSvg("#chartC1", 590, 500);
+        d3.tsv("/d3/data/data_healthexp.tsv", function (data) {
+        
+        // filtering the countries
+        data = dimple.filterData(data, "Country", [
+              "Canada", "China", "France", "Germany", "India", "Israel",
+              "Italy", "Japan", "Korea, Rep.", "Mexico", "Russian Federation",
+              "Spain", "Switzerland", "United Kingdom", "United States"
+        ]); 
+
+        // Creating the chart
+        var myChart = new dimple.chart(svg, data);
+        myChart.setBounds(60, 30, 470, 300)
+        
+        // Adding the axis: 1 x and 2 y-axes. 
+        // Assign them to variables to pass to the series
+        var x = myChart.addCategoryAxis("x", "Country");
+        var y1 = myChart.addMeasureAxis("y", "Life.Expectancy");
+        var y2 = myChart.addMeasureAxis("y", "Health.Expenditure");
+
+
+        // Ordering the x axis by region
+        x.addOrderRule("Region", true);
+
+        // Coloring the histogram bars
+        myChart.assignColor("Region", "#222222", "#000000", 0.1);
+        
+        // Adding the bars mapped to the second y axis (right)
+        var a = myChart.addSeries("Region", dimple.plot.bar, [x, y2]);
+        // we want the average, not sum
+        a.aggregate = dimple.aggregateMethod.avg;
+          
+        // Add series for minimum, average and maximum price
+        // cardinal interpolarion method for smoothing the lines
+        var min = myChart.addSeries("Min", dimple.plot.line, [x, y1]);
+        min.aggregate = dimple.aggregateMethod.min;
+        min.interpolation = "cardinal";
+        var avg = myChart.addSeries("Avg", dimple.plot.line, [x, y1]);
+        avg.aggregate = dimple.aggregateMethod.avg;
+        avg.interpolation = "cardinal";
+        var max = myChart.addSeries("Max", dimple.plot.line, [x, y1]);
+        max.aggregate = dimple.aggregateMethod.max;
+        max.interpolation = "cardinal";   
+        
+        // drawing the chart
+        myChart.draw();
+      });
+  </script>
+<div class="col-md-12">
+                <h3>Feedback</h3><br>
+                <p>Everybody agrees that the visualization is now much beter, clearer. The colors are soft and nice, the axis legends clearly readable. Still, there are some problems: </p><br>
+                
+                <ul>
+                    <li>Some say they would order the countries from most to less expediture in health care. </li><br>
+                    <li>Also, they notice that the histogram colors correspond to the old regions: fine but not necessary, it could misguide.</li><br>
+                    <li>What for 3 lines of life expectancy? One line with the average would suffice.</li><br>
+                    <li>Question: "that´s nice, but, to which year corresponds the data?"</li><br>
+                </ul>
+                <p>Bottom line recommendation: "you are almost there". Fix the recommended features (ordering, color, single line) and "please, figure out something about the year".</p><br>
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <hr style="BORDER-RIGHT: medium none; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; HEIGHT: 1px"> 
+                    <p>Copyright &copy; <a href="http://www.mariobonilla.net" title="Mario Bonilla 2016" target="_blank">Mario Bonilla 2016</a></p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Udacity´s Project 6 - Visualization" content="">
+    <meta name="Mario Bonilla" content="D3, Dimples, Visualization">
+
+    <title>Udacity´s Project 6 - Visualization</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/portfolio-item.css" rel="stylesheet">
+
+    <!--Scripts d3 and dimple-->
+    <script src="/d3/lib/d3.v3.4.8.js"></script>
+    <script src="/d3/dist/dimple.v2.2.0.js"></script>
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                 <a class="navbar-brand" href="index.html">Final Visualization</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="summary.html">Summary</a>
+                    </li>
+                    <li>
+                        <a href="a1_a2.html">Iteration 1</a>
+                    </li>
+                    <li>
+                        <a href="b1_b2.html">Iteration 2</a>
+                    </li>
+                    <li>
+                        <a href="c1.html">Iteration 3</a>
+                    </li>
+                    <li>
+                        <a href="c2.html">Iteration 4</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Item Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Are we paying too much for Health Care?
+                    <small><br>Life Expectancy and Health Care Expenditures</small>
+                </h1>
+            </div>
+        </div>
+        <div class="col-md-12">
+                <p>In this visualization we try to find out if a higher health expenditure immediately means a longer life expectancy. The question is: are some countries just expending too much money on health care than others and getting the same or worse results?. Is that just a one time event or is it persistent over time? That could mean that not only money spent in health care plays a role in the life expectancy. Seconds thoughts could include that money is somehow wasted (the same effect could be achieved for less), that other policies should be implemented....etc. Good themes for new visualizations !</p>
+        <!-- /.row -->
+
+
+
+            <div class="col-md-12">
+                <h4>Data</h4>
+                <p> We got data from the WorldBank website http://databank.worldbank.org/data/databases.aspx. At the beginning, a full database was downloaded until we decided with which data we were going to produce the visualization. Therefore, we had to first prepare it until we got an optimal data set, suitable for producing the visualization. We chose data from 1995 to 2010 about the life Expectancy at birth, the health expenditure per capita and the population, by country and region. The exact variables were: Country, Region, Year, Population, Life.Expectancy, Health.Expenditure. </p>
+                <br>
+                <h4>Design</h4>
+                <p>We use a mix of Dimple as well as D3 javascript. Also, CSS and HTML is used to render the visualizations in a web browser. </p><br>
+                <h4>Project Details</h4>
+                <ul>
+                    <li>- World Bank data source</li>
+                    <li>- Years 1995 to 2010</li>
+                    <li>- Selected Countries</li>
+                    <li>- Health expenditure, average per capita, country, year in USD $</li>
+                    <li>- Life Expectantcy, average years expected at birth, per country, year</li>
+                </ul><br>
+              
+                <h4>Resources</h4>
+                <ul>
+                    <li>- Stackoverflow: by the hundreds, <a href="http://stackoverflow.com/" target="_blank">http://stackoverflow.com/</a></li>
+                    <li>- Github: by the hundreds, <a href="https://github.com/" target="_blank">https://github.com/</a></li>
+                    <li>- D3.js: <a href="https://d3js.org/" target="_blank">https://d3js.org/</a></li>
+                    <li>- Dimple.js: <a href="http://dimplejs.org/" target="_blank">http://dimplejs.org/</a></li>
+                    <li>- D3 Tips and Tricks: <a href="https://leanpub.com/D3-Tips-and-Tricks/read" target="_blank">https://leanpub.com/D3-Tips-and-Tricks/read</a></li>
+                    <li>- Blocks: <a href="http://bl.ocks.org/" target="_blank">http://bl.ocks.org/</a></li>
+                </ul>
+                <br>
+                
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <hr style="BORDER-RIGHT: medium none; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; HEIGHT: 1px"> 
+                    <p>Copyright &copy; <a href="http://www.mariobonilla.net" title="Mario Bonilla 2016" target="_blank">Mario Bonilla 2016</a></p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

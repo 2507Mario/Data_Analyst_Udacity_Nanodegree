@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Udacity´s Project 6 - Visualization" content="">
+    <meta name="Mario Bonilla" content="D3, Dimples, Visualization">
+
+    <title>Udacity´s Project 6 - Visualization</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/portfolio-item.css" rel="stylesheet">
+
+    <!--Scripts d3 and dimple-->
+    <script src="/d3/lib/d3.v3.4.8.js"></script>
+    <script src="/d3/dist/dimple.v2.2.0.js"></script>
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                 <a class="navbar-brand" href="index.html">Final Visualization</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="summary.html">Summary</a>
+                    </li>
+                    <li>
+                        <a href="a1_a2.html">Iteration 1</a>
+                    </li>
+                    <li>
+                        <a href="b1_b2.html">Iteration 2</a>
+                    </li>
+                    <li>
+                        <a href="c1.html">Iteration 3</a>
+                    </li>
+                    <li>
+                        <a href="c2.html">Iteration 4</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+        
+        <!-- Item Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Iteration 2
+                    <small><br>Udacity´s Project 6 - Visualization</small>
+                </h1>
+            </div>
+        </div>
+        <div class="col-md-12">
+                <p>Based on the reviewers recommendation, I chose the following group of countries: "Argentina", "Australia", "Canada", "China", "France", "Germany", "India", "Israel", "Italy", "Japan", "Korea, Rep.", "Mexico", "Russian Federation", "Spain", "Switzerland", "Turkey", "United Kingdom", "United States".<br /><br /> All of them are industrialized countries and with good health systems, therefore better to be compared.<br /><br /> I realized that that list was a little big so I dropped some of the countries.<br /><br /> The final short list is: "Canada", "China", "France", "Germany", "India", "Israel", "Italy", "Japan", "Korea, Rep.", "Mexico", "Russian Federation", "Spain", "Switzerland", "United Kingdom", "United States" </p>
+                <p>We produced again the graphics, this time named B1 and B2</p>
+                <br>
+        <!-- /.row -->
+
+        
+        <!-- Item rows, placing the plot divs here -->
+    <div class="row">
+		<div id="chart_life_expectancy_by_selected_countries">
+            <p>PLOT B1: average life expectancy for the selected countries, from 1995 to 2010</p><br>
+        </div>
+	</div>
+
+	<div class="row">
+		<div id="chart_health_expenditure_by_selected_countries">
+            <p>PLOT B2: health expenditure for the selected countries, from 1995 to 2010:</p>
+        </div>
+	</div>    
+    
+    <!-- script plot B1 -->
+    <script type="text/javascript"> 
+    var svgB1 = dimple.newSvg("#chart_life_expectancy_by_selected_countries", 590, 300);
+    d3.tsv("/d3/data/data_healthexp.tsv", function (data) {
+      data = dimple.filterData(data, "Country", ["Canada", "China", "France", "Germany", "India", "Israel", "Italy", "Japan", "Korea, Rep.", "Mexico", "Russian Federation", "Spain", "Switzerland", "United Kingdom", "United States"])
+      var myChartB1 = new dimple.chart(svgB1, data);
+      myChartB1.setBounds(40, 30, 505, 200);
+      var xB1 = myChartB1.addCategoryAxis("x", "Year");
+      xB1.addOrderRule("Year");
+      var yB1= myChartB1.addMeasureAxis("y", "Life.Expectancy");
+      var sB1 = myChartB1.addSeries("Country", dimple.plot.line);
+      sB1.aggregate = dimple.aggregateMethod.avg;
+      var legendB1 = myChartB1.addLegend(60, 10, 500, 20, "right");
+      myChartB1.draw();
+    });
+    
+    // script plot B2
+    var svgB2 = dimple.newSvg("#chart_health_expenditure_by_selected_countries", 590, 300);
+    d3.tsv("/d3/data/data_healthexp.tsv", function (data) {
+      data = dimple.filterData(data, "Country", ["Canada", "China", "France", "Germany", "India", "Israel", "Italy", "Japan", "Korea, Rep.", "Mexico", "Russian Federation", "Spain", "Switzerland", "United Kingdom", "United States"])
+      var myChartB2 = new dimple.chart(svgB2, data);
+      myChartB2.setBounds(40, 30, 505, 200);
+      var xB2 = myChartB2.addCategoryAxis("x", "Year");
+      xB2.addOrderRule("Year");
+      var yB2= myChartB2.addMeasureAxis("y", "Health.Expenditure");
+      var sB2 = myChartB2.addSeries("Country", dimple.plot.line);
+      sB2.aggregate = dimple.aggregateMethod.avg;
+      var legendB2 = myChartB2.addLegend(60, 10, 500, 20, "right");
+      myChartB2.draw();
+    });
+  </script>
+            <div class="col-md-12">
+                <h3>Feedback</h3><br>
+                <p>When asked again they answered: </p><br>
+                
+                <ul>
+                    <li>Now, the countries are clear, however, there are too many, rendering the visualization "messy" to observe.</li><br>
+                    <li>The rest of the problems expressed in the first iteration are of course there: Life Expectancy lines too close to each other: recommendation to "shrink" the Life Expectancy axis, starting this time in 50 or so. The legend on top overlaps the graph.</li><br>
+                    <li>The second graphic is better, still the region and the overlapping legend problem plus the left axis legend is unreadable.</li><br>
+                    <li>Difficult to compare because the colors of the regions (legend) do not match.</li><br>
+                </ul>
+                <p>Bottom line recommendation: this does not work well. One of the reviewers pointed out that it could work by combining a histogram with a line: a histogram could show the average expenditure by country and the line the average life expectancy, in this way all the information is in the same graphic and therefore is easier to compare. Well, we will give it a try.</p><br>
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+ 
+
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <hr style="BORDER-RIGHT: medium none; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; HEIGHT: 1px"> 
+                    <p>Copyright &copy; <a href="http://www.mariobonilla.net" title="Mario Bonilla 2016" target="_blank">Mario Bonilla 2016</a></p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
+
+</body>
+</html>

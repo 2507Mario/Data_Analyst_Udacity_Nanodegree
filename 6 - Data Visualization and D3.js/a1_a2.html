@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Udacity´s Project 6 - Visualization" content="">
+    <meta name="Mario Bonilla" content="D3, Dimples, Visualization">
+
+    <title>Udacity´s Project 6 - Visualization</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/portfolio-item.css" rel="stylesheet">
+
+    <!--Scripts d3 and dimple-->
+    <script src="/d3/lib/d3.v3.4.8.js"></script>
+    <script src="/d3/dist/dimple.v2.2.0.js"></script>
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Final Visualization</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="summary.html">Summary</a>
+                    </li>
+                    <li>
+                        <a href="a1_a2.html">Iteration 1</a>
+                    </li>
+                    <li>
+                        <a href="b1_b2.html">Iteration 2</a>
+                    </li>
+                    <li>
+                        <a href="c1.html">Iteration 3</a>
+                    </li>
+                    <li>
+                        <a href="c2.html">Iteration 4</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+        
+        <!-- Item Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Iteration 1
+                    <small><br>Udacity´s Project 6 - Visualization</small>
+                </h1>
+            </div>
+        </div>
+        <div class="col-md-12">
+                <p>Originally, we wanted to do this project showing together 2 plots, and comparing them: the first one was the Life Expectancy by year and the second one the Health Expenditure by year. Both were produced by region (Europe & Central Asia, North America...etc).
+                We produced the graphics A1 and A2</p>
+                <br>
+        <!-- /.row -->
+
+        
+        <!-- Item rows, placing the plot divs here -->
+    <div class="row">
+		<div id="chart_life_expectancy_by_region">
+            <p>PLOT A1: average life expectancy for the different world regions, from 1995 to 2010</p>
+        </div>
+	</div>
+
+	<div class="row">
+		<div id="chart_health_expenditure_by_region">
+            <p>PLOT A2: health expenditure for the different world regions, from 1995 to 2010:</p> 
+        </div>
+	</div>    
+    <!-- script plot A1 -->
+    <script type="text/javascript"> 
+    var svgA1 = dimple.newSvg("#chart_life_expectancy_by_region", 590, 300);
+    d3.tsv("/d3/data/data_healthexp.tsv", function (data) {
+      data = dimple.filterData(data, "Region", ["North America", "Europe & Central Asia", "East Asia & Pacific", "Sub-Saharan Africa", "Middle East & North Africa", "Latin America & Caribbean"])
+      var myChartA1 = new dimple.chart(svgA1, data);
+      myChartA1.setBounds(40, 30, 505, 200);
+      var xA1 = myChartA1.addCategoryAxis("x", "Year");
+      xA1.addOrderRule("Year");
+      var yA1= myChartA1.addMeasureAxis("y", "Life.Expectancy");
+      var sA1 = myChartA1.addSeries("Region", dimple.plot.line);
+      sA1.aggregate = dimple.aggregateMethod.avg;
+      var legendA1 = myChartA1.addLegend(60, 10, 500, 20, "right");
+      myChartA1.draw();
+    });
+    // script plot B2
+    var svgA2 = dimple.newSvg("#chart_health_expenditure_by_region", 590, 300);
+    d3.tsv("/d3/data/data_healthexp.tsv", function (data) {
+      data = dimple.filterData(data, "Region", ["North America", "Europe & Central Asia", "East Asia & Pacific", "Sub-Saharan Africa", "Middle East & North Africa", "Latin America & Caribbean"])
+      var myChartA2 = new dimple.chart(svgA2, data);
+      myChartA2.setBounds(40, 30, 505, 200);
+      var xA2 = myChartA2.addCategoryAxis("x", "Year");
+      xA2.addOrderRule("Year");
+      var yA2= myChartA2.addMeasureAxis("y", "Health.Expenditure");
+      var sA2 = myChartA2.addSeries("Region", dimple.plot.line);
+      sA2.aggregate = dimple.aggregateMethod.avg;
+      var legendA2 = myChartA2.addLegend(60, 10, 500, 20, "right");
+      myChartA2.draw();
+    });
+  </script>
+            <div class="col-md-12">
+                <h3>Feedback</h3><br>
+                <p>Some colleagues, friends and relatives were asked about this first sketch of the visualization: </p><br>
+                
+                <ul>
+                    <li>Not clear what the region grouping refers to: all people asked where confused about which countries were included in which region. The had a vague idea, but that was not enough. For instance, they all included countries from Panama to north in "North America". In fact, only the United States and Canada are included in this category.</li><br>
+                    <li>Life Expectancy lines too close to each other: recommendation to "shrink" the Life Expectancy axis, starting in 40 or so.</li><br>
+                    <li>The legend on top overlaps the graph.</li><br>
+                    <li>The second graphic is better, still the region and the overlapping legend problem.</li><br>
+                    <li>Difficult to compare the plots because the colors of the regions (legend) do not match.</li><br>
+                    <li>Second plot, left axis legend unreadable.</li><br>
+                </ul>
+                <p>Bottom line recommendation: before doing anything, try with countries instead of regions to see if we can get a better idea.</p><br>
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <hr style="BORDER-RIGHT: medium none; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; HEIGHT: 1px"> 
+                    <p>Copyright &copy; <a href="http://www.mariobonilla.net" title="Mario Bonilla 2016" target="_blank">Mario Bonilla 2016</a></p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
+
+</body>
+</html>

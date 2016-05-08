@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Udacity´s Project 6 - Visualization" content="">
+    <meta name="Mario Bonilla" content="D3, Dimples, Visualization">
+
+    <title>Udacity´s Project 6 - Visualization</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/portfolio-item.css" rel="stylesheet">
+
+    <!--Scripts d3 and dimple-->
+    <script src="/d3/lib/d3.v3.4.8.js"></script>
+    <script src="/d3/dist/dimple.v2.2.0.js"></script>
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                 <a class="navbar-brand" href="index.html">Final Visualization</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="summary.html">Summary</a>
+                    </li>
+                    <li>
+                        <a href="a1_a2.html">Iteration 1</a>
+                    </li>
+                    <li>
+                        <a href="b1_b2.html">Iteration 2</a>
+                    </li>
+                    <li>
+                        <a href="c1.html">Iteration 3</a>
+                    </li>
+                    <li>
+                        <a href="c2.html">Iteration 4</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Item Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Are we paying too much for Health Care?
+                    <small><br>Life Expectancy and Health Care Expenditures</small>
+                </h1>
+            </div>
+        </div>
+        <div class="col-md-12">
+                <p>Are some countries just expending too much money on health care than others and getting the same or worse results?. Is that just a one time event or is it persistent over time? That could mean that not only money spent in health care plays a role in the life expectancy. Seconds thoughts could include that money is somehow wasted (the same effect could be achieved for less), that other policies should be implemented....etc. Good themes for new visualizations !</p>
+                <p>The visualization below shows the relationship between the average life expectancy in years for a given country and year and the average health expenditure per capita in USD $ for the same county and year.</p>
+                <p>The green top line corresponds to the average life expectancy and the vertical bars to the average health expenditure.</p>  
+        <!-- /.row -->
+
+        <!-- Item Row -->
+        <div class="row">
+
+           <div class="row ">
+                <div id="chart_final"></div>
+	       </div>
+    
+
+  <script type="text/javascript">
+      var svg = dimple.newSvg("#chart_final", 800, 430);
+      d3.tsv("/d3/data/data_healthexp.tsv", function (data) {
+
+          // Filtering years
+          data = dimple.filterData(data, "Year", [
+              "1995", "1996", "1997", "1998", "1999", "2000", 
+              "2001", "2002", "2003","2004", "2005", "2006"
+              ,"2007", "2008", "2009", "2010"
+          ]);
+          
+          // Filtering countries
+          data = dimple.filterData(data, "Country", [
+              "Canada", "China", "France", "Germany", "India", "Israel",
+              "Italy", "Japan", "Korea, Rep.", "Mexico", "Russian Federation",
+              "Spain", "Switzerland", "United Kingdom", "United States"
+          ]); 
+
+          // Creating the "year buttons" chart on the right of the main chart
+          var indicator = new dimple.chart(svg, data);
+
+          // Picking the colors for the selected years
+          var defaultColor = indicator.defaultColors[6];
+          var indicatorColor = indicator.defaultColors[4];
+
+          // Frame duration for the animation in milliseconds
+          var frame = 3000;
+          // First button selected
+          var firstTick = true;
+
+          // Placing the indicator bar chart to the right
+          // Setting size of buttons
+          indicator.setBounds(600, 25, 43, 311);
+
+          // Adding Years to the y axis
+          var y = indicator.addCategoryAxis("y", "Year");
+          y.addOrderRule("Year", "Desc");
+
+          // Adding Life expectancy to axis for the buttons
+          // to work but tooltip not used
+          var x = indicator.addMeasureAxis("x", "Life.Expectancy");
+          x.aggregate = dimple.aggregateMethod.avg;
+          x.hidden = true;
+
+          // Add the bars to the indicator and add event handlers
+          var s = indicator.addSeries(null, dimple.plot.bar);
+          // this will be the tooltip of the buttons
+          s.getTooltipText = function (e) {
+                return [
+                    "Click to pause",
+                    "Click again to resume"
+                ];
+            };
+          s.addEventHandler("click", onClick);
+          // Draw the year-buttons chart
+          indicator.draw();
+
+          // Remove the title from the y axis
+          y.titleShape.remove();
+
+          // Remove the lines from the y axis
+          y.shapes.selectAll("line,path").remove();
+
+          // Move the y axis text inside the plot area
+          y.shapes.selectAll("text")
+                  .style("text-anchor", "start")
+                  .style("font-size", "11px")
+                  .attr("transform", "translate(18, 0.5)");
+
+          // Adding the legend title, into a d3 data
+          // object to split it onto 2 lines.
+          svg.selectAll("title_text")
+                  .data(["Click bar to select",
+                      "and pause. Click again",
+                      "to resume animation"])
+                  .enter()
+                  .append("text")
+                  .attr("x", 580)
+                  .attr("y", function (d, i) { return 350 + i * 12; })
+                  .style("font-family", "sans-serif")
+                  .style("font-size", "10px")
+                  .style("color", "Black")
+                  .text(function (d) { return d; });
+
+          // Setting the bar colors
+          s.shapes
+                  .attr("rx", 10)
+                  .attr("ry", 10)
+                  .style("fill", function (d) { return (d.y === '1995' ? indicatorColor.fill : defaultColor.fill) })
+                  .style("stroke", function (d) { return (d.y === '1995' ? indicatorColor.stroke : defaultColor.stroke) })
+                  .style("opacity", 0.4);
+
+          // Drawing the main chart
+          var myChart = new dimple.chart(svg, data);
+          myChart.setBounds(60, 30, 470, 300)
+        
+          // Add an x and 2 y-axes. Assigned them to variables to pass to the series
+          var x = myChart.addCategoryAxis("x", "Country");
+          var y1 = myChart.addMeasureAxis("y", "Life.Expectancy");
+          y1.overrideMax = 90;
+          y1.overrideMin = 0;
+          var y2 = myChart.addMeasureAxis("y", "Health.Expenditure");
+          y2.overrideMax = 9000;
+          y2.overrideMin = 0;
+
+
+          // Order the x axis by Health.Expenditure value desc
+          x.addOrderRule("Health.Expenditure", true);
+
+          // Transparency and color of the bars
+          myChart.assignColor("Country", "#222222", "#000000", 0.1);
+        
+          // Add the bars mapped to the second y axis (right)
+          var a = myChart.addSeries("Country", dimple.plot.bar, [x, y2]);
+          a.aggregate = dimple.aggregateMethod.avg;
+          
+          // Average life expectancy line
+          var average_Life_Expectancy = myChart.addSeries("Average Life Expectancy", dimple.plot.line, [x, y1]);
+          average_Life_Expectancy.aggregate = dimple.aggregateMethod.avg;
+          average_Life_Expectancy.interpolation = "linear";
+           
+          // Add a storyboard to the main chart and set the tick event
+          var story = myChart.setStoryboard("Year", onTick);
+          story.frameDuration = frame;
+          story.addOrderRule("Year");
+
+          myChart.draw();
+
+
+          // Remove the top left storyboard label because the buttons
+          // tells us the year current Year instead of the label
+          story.storyLabel.remove();
+
+          // On click of the side chart
+          function onClick(e) {
+              // Pause the animation
+              story.pauseAnimation();
+              // If it is already selected resume the animation
+              // otherwise pause and move to the selected month
+              if (e.yValue === story.getFrameValue()) {
+                  story.startAnimation();
+              } else {
+                  story.goToFrame(e.yValue);
+                  story.pauseAnimation();
+              }
+          }
+
+          // On tick of the main charts storyboard
+          function onTick(e) {
+              if (!firstTick) {
+                  // Color all shapes the same
+                  s.shapes
+                          .transition()
+                          .duration(frame / 2)
+                          .style("fill", function (d) { return (d.y === e ? indicatorColor.fill : defaultColor.fill) })
+                          .style("stroke", function (d) { return (d.y === e ? indicatorColor.stroke : defaultColor.stroke) });
+              }
+              firstTick = false;
+          }
+      });
+  </script>
+</div>
+
+            <div class="col-md-12">
+                <h4>Findings</h4>
+                <strong><p> 1) More expenditure in health care does not guarantee a better life expectancy.</p>
+                <p> 2) Although it looks like that below a $1000 per capita expenditure the life expectancy starts to suffer.</p>
+                <p> 3) The countries with better ratio are Italy, Spain and Israel: spending less, they get the same life expectancy as the top ones.</p>
+                <p> 4) The Unites States spends the most, but get similar life expectancy results than other industrialized countries with much less expenditure.</p>
+                <p> 5) A high level of expenditure must be combined with other active policies in order to achieve a longer life expectancy.</p>
+                <p>6) It is also clear that while health expenditures doubled for almost all countries, life expectancy increased only marginally.</p>
+                <p>As a bonus, but out of the scope of this project, it would be interesting to see the picture with inflation adjusted spendings (and just to make the picture crystal clear -- with purchase parity inflation-adjusted dollars to take differences in purchasing power in different countries into account).</p></strong><br>
+                <h4>Project Details</h4>
+                <ul>
+                    <li>- World Bank data source</li>
+                    <li>- Years 1995 to 2010</li>
+                    <li>- Selected Countries</li>
+                    <li>- Health expenditure, average per capita, country, year in USD $</li>
+                    <li>- Life Expectantcy, average years expected at birth, per country, year</li>
+                </ul>
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <hr style="BORDER-RIGHT: medium none; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; HEIGHT: 1px"> 
+                    <p>Copyright &copy; <a href="http://www.mariobonilla.net" title="Mario Bonilla 2016" target="_blank">Mario Bonilla 2016</a></p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

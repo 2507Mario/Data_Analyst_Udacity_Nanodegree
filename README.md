@@ -1,5 +1,5 @@
 https://www.udacity.com/course/data-analyst-nanodegree--nd002
-<h2>Data Analyst Nanodegree from Udacity (in progress)</h2>
+<h2>Data Analyst Nanodegree from Udacity (Graduated in May 2016 !)</h2>
 
 
 
